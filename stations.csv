@@ -1,0 +1,1333 @@
+id,name,city,country,iata_code,icao_code,latitude,longitude,altitude,timezone,dst,tz_format,type,source
+4035,Cologne Railway,Cologne,Germany,QKL,NULL,50.9425,6.958056,100,1,E,Europe/Berlin,station,User
+4036,Stuttgart Railway Station,Stuttgart,Germany,ZWS,NULL,48.783611,9.181667,200,1,E,Europe/Berlin,station,User
+6439,New Rochelle Amtrak Station,New Rochelle,United States,NULL,NULL,40.913923,-73.782008,66,-5,A,America/New_York,station,User
+6441,New Haven Rail Station,New Haven,United States,ZVE,NULL,41.298669,-72.925992,7,-5,A,America/New_York,station,User
+6442,Chicago Union Station,Chicago,United States,NULL,NULL,41.8791966,-87.6388507,581,-6,A,America/Chicago,station,User
+6451,Glenview Amtrak Station,Glenview,United States,NULL,NULL,42.074197,-87.805346,630,-6,A,America/Chicago,station,User
+6452,Baltimore Penn Station,Baltimore,United States,NULL,NULL,39.307408,-76.615552,62,-5,A,America/New_York,station,User
+6508,Washington Union Station,Washington,United States,ZWU,NULL,38.89746,-77.00643,76,-5,A,America/New_York,station,User
+6842,East Glacier Park Amtrak Station,East Glacier,United States,NULL,NULL,48.443965,-113.218556,5171,-7,A,America/Denver,station,User
+6865,Lyon Part-Dieu Railway,Lyon,France,XYD,NULL,45.760556,4.859444,578,1,E,Europe/Paris,station,User
+6888,Dusseldorf Hauptbahnhof,Dusseldorf,Germany,QDU,NULL,51.220278,6.792778,125,1,E,Europe/Berlin,station,User
+6965,Penn Station,Baltimore,United States,ZBP,NULL,39.307222,-76.615556,66,-5,A,America/New_York,station,User
+6966,Penn Station,New York,United States,ZYP,NULL,40.7505,-73.9935,35,-5,A,America/New_York,station,User
+7006,Philadelphia 30th St Station,Philadelphia,United States,ZFV,NULL,39.9557,-75.182,0,-5,A,America/New_York,station,User
+7039,Oak Lawn Train Station,Oak Lawn,United States,NULL,NULL,41.7198243,-87.7488327,500,-6,U,America/Chicago,station,User
+7043,Hartford Union Station,Hartford,United States,ZRT,NULL,41.76888,-72.6815,0,-5,A,America/New_York,station,User
+7044,Stamford Amtrak Station,Stamford,United States,ZTF,NULL,41.046937,-73.541493,0,-5,A,America/New_York,station,User
+7045,Newark Penn Station,Newark,United States,ZRP,NULL,40.734722,-74.164167,0,-5,A,America/New_York,station,User
+7303,Bochum Railway,Bochum,Germany,EBO,NULL,51.478506,7.222781,45,1,U,Europe/Berlin,station,User
+7305,Munich Railway,Munich,Germany,ZMU,NULL,48.1408,11.555,500,1,U,Europe/Berlin,station,User
+7306,Nuernberg Railway,Nuernberg,Germany,ZAQ,NULL,49.446389,11.081944,312,1,U,Europe/Berlin,station,User
+7314,Augsburg Railway,Augsburg,Germany,ZAU,NULL,48.3655,10.8863,500,1,U,Europe/Berlin,station,User
+7315,Mannheim Railway,Mannheim,Germany,ZMA,NULL,49.479633,8.469858,200,1,E,Europe/Berlin,station,User
+7316,Essen Railway,Essen,Germany,ZES,NULL,51.451389,7.013889,200,1,U,Europe/Berlin,station,User
+7318,Lancaster Amtrak Station,Lancaster,United States,NULL,NULL,40.05,-76.31,345,-5,A,America/New_York,station,User
+7319,Ardmore Amtrak Station,Ardmore,United States,NULL,NULL,40.01,-75.29,360,-5,A,America/New_York,station,User
+7321,Metropark Amtrak Station,Iselin,United States,NULL,NULL,40.568,-74.3275,1,-5,A,America/New_York,station,User
+7344,Newport News Amtrak Station,Newport News,United States,NULL,NULL,37.0228,-76.4519,0,-5,A,America/New_York,station,User
+7345,Portland Union Station,Portland,United States,NULL,NULL,45.529,-122.6768,0,-8,A,America/Los_Angeles,station,User
+7365,Westport Amtrak Station,Westport,United States,NULL,NULL,44.1871,-73.4519,1,-5,A,America/New_York,station,User
+7366,Trenton Amtrak Station,Trenton,United States,NULL,NULL,40.21889,-74.75417,1,-5,A,America/New_York,station,User
+7385,North Philadelphia Amtrak Station,Philadelphia,United States,NULL,NULL,39.9969556,-75.1487722,1,-5,A,America/New_York,station,User
+7386,Aberdeen Railway Station,Aberdeen,United Kingdom,NULL,NULL,57.1436,-2.0985,1,0,U,Europe/London,station,User
+7387,Glasgow Railway Station,Glasgow,United Kingdom,NULL,NULL,55.8622,-4.2512,0,0,U,Europe/London,station,User
+7388,Edinburgh Waverly Station,Edinburgh,United Kingdom,ZXE,NULL,55.952,-3.189,0,0,U,Europe/London,station,User
+7389,Newcastle Railway Station,Newcastle Upon Tyne,United Kingdom,NULL,NULL,54.9686,-1.6171,0,0,U,Europe/London,station,User
+7390,Leeds Railway Station,Leeds,United Kingdom,NULL,NULL,53.794,-1.547,0,0,U,Europe/London,station,User
+7391,Manchester Picadilly Station,Manchester,United Kingdom,NULL,NULL,53.477,-2.23,0,0,U,Europe/London,station,User
+7392,Liverpool Railway Station,Liverpool,United Kingdom,NULL,NULL,53.405,-2.979,0,0,U,Europe/London,station,User
+7393,London Euston Railway Station,London,United Kingdom,NULL,NULL,51.5284,-0.1331,0,0,U,Europe/London,station,User
+7462,Central Railway Station,Montreal,Canada,YMY,NULL,45.499722,-73.566111,0,-5,A,America/Toronto,station,User
+7463,Union Station,Toronto,Canada,YBZ,NULL,43.645278,-79.380556,0,-5,A,America/Toronto,station,User
+7491,Hilversum Railway Station,Hilversum,Netherlands,QYI,NULL,52.226389,5.181667,3,1,E,Europe/Amsterdam,station,User
+7639,Paddington Station,London,United Kingdom,QQP,NULL,51.515833,-0.176111,0,0,E,Europe/London,station,User
+7640,Liskeard Station,Liskeard,United States,NULL,NULL,50.44708,-4.46753,0,0,E,Europe/London,station,User
+7644,Fraser Railroad Station,Fraser BC,Canada,NULL,NULL,59.715517,-135.046692,2000,-8,U,America/Vancouver,station,User
+7666,Glasgow Buchanan Bus Station,Glasgow,United Kingdom,NULL,NULL,55.8652,-4.25033,0,0,E,Europe/London,station,User
+7667,London Victoria Bus Station,London,United Kingdom,NULL,NULL,51.494999,-0.144643,0,0,E,Europe/London,station,User
+7705,Detroit Amtrak Station,Detroit,United States,NULL,NULL,42.368097,-83.072397,630,-5,A,America/New_York,station,User
+7707,Berlin Hauptbahnhof,Berlin,Germany,QPP,NULL,52.52493,13.36963,110,1,E,Europe/Berlin,station,User
+7762,Nanaimo Train Station,Nanaimo Station British Columbia,Canada,NULL,NULL,49.163978,-123.942502,92,-8,A,America/Vancouver,station,User
+7763,Victoria Rail Station British Columbia,Victoria Station British Columbia,Canada,NULL,NULL,48.428339,-123.370618,75,-8,A,America/Vancouver,station,User
+7770,Anchorage Main Station,Anchorage Alaska,United States,NULL,NULL,61.221749,-149.890852,102,-9,A,America/Anchorage,station,User
+7771,Seward Train Station,Seward Alaska,United States,NULL,NULL,60.121586,-149.439983,22,-9,A,America/Anchorage,station,User
+7779,Niagara Falls Station,Niagara Falls,Canada,NULL,NIAG,43.108802,-79.06361,0,-5,A,America/New_York,station,User
+7784,Kaufbeuren BF,Kaufbeuren,Germany,KFX,KAUF,47.885,10.6294,1200,1,E,Europe/Berlin,station,User
+7785,Munich HBF,Munich,Germany,MUQ,MUNI,48.1408,11.555,1200,1,E,Europe/Berlin,station,User
+7786,Nurnberg HBF,Nurnberg,Germany,NUR,NURN,49.446,11.081944,1200,1,E,Europe/Berlin,station,User
+7788,Augsburg HBF,Augsburg,Germany,AUB,AUGS,48.3655,10.886,1200,1,E,Europe/Berlin,station,User
+7789,Biessenhofen BF,Biessenhofen,Germany,BIE,BIES,47.851,10.634,1200,1,E,Europe/Berlin,station,User
+7790,Buchloe BF,Buchloe,Germany,BUH,BUCH,48.0411,10.715,1200,1,E,Europe/Berlin,station,User
+7791,Fussen BF,Fussen,Germany,FUX,FUSN,47.585,10.6866,1200,1,E,Europe/Berlin,station,User
+7798,Marktoberdorf BF,Marktoberdorf,Germany,NULL,MARK,47.78,10.627,1200,1,E,Europe/Berlin,station,User
+7801,Bochum HBF,Bochum,Germany,NULL,NULL,51.478506,7.2222,1000,1,E,Europe/Berlin,station,User
+7802,Koln HBF,Koln,Germany,NULL,KOLN,50.9425,6.958056,1000,1,E,Europe/Berlin,station,User
+7803,Mannheim HBF,Mannheim,Germany,NULL,NULL,49.471,8.469858,1000,1,E,Europe/Berlin,station,User
+7808,Leuterschach BF,Leuterschach,Germany,LES,LEUT,47.75,10.601,1200,1,E,Europe/Berlin,station,User
+7823,Minot Train Station,Minot,United States,NULL,NULL,48.2361,-101.2987,0,-6,A,America/Chicago,station,User
+7824,Havre Train Station,Havre,United States,NULL,NULL,48.55457,-109.67836,0,-7,A,America/Denver,station,User
+7825,Wishram Train Station,Wishram,United States,NULL,NULL,45.6576,-120.9664,0,-8,A,America/Los_Angeles,station,User
+7845,Montreal Central Bus Station,Montreal,Canada,NULL,MTRL,45.51527887,-73.56142759,0,-5,A,America/Toronto,station,User
+7850,Emeryville Amtrak Station,Emeryville,United States,NULL,NULL,37.8405149,-122.29134,23,-8,A,America/Los_Angeles,station,User
+7851,Bakersfield Amtrak Station,Bakersfield,United States,NULL,NULL,35.372159,-119.008393,408,-8,A,America/Los_Angeles,station,User
+7890,Denver Union Station,Denver,United States,NULL,NULL,39.753187,-105.000093,0,-7,A,America/Denver,station,User
+7915,Plattling Bahnhof,Plattling,Germany,NULL,NULL,48.780147,12.863573,1050,1,E,Europe/Berlin,station,User
+7916,Osterhofen Bahnhof,Osterhofen Niederbayern,Germany,NULL,NULL,48.7,13.016667,1043,1,E,Europe/Berlin,station,User
+7917,Passau Hbf,Passau,Germany,NULL,NULL,48.574167,13.450833,1000,1,E,Europe/Berlin,station,User
+7919,Regensburg HBF,Regensburg,Germany,RGB,REGE,49.022,12.1111,1200,1,E,Europe/Berlin,station,User
+7920,Treuchtlingen BF,Treuchtlingen,Germany,TLG,TREU,49.04,11.081944,1200,1,E,Europe/Berlin,station,User
+7934,Wurzburg HBF,Wurzburg,Germany,WZB,WURZ,49.7999,9.95555,1000,1,E,Europe/Berlin,station,User
+7942,Glenwood Springs Train Station,Glenwood Springs,United States,NULL,NULL,39.548,-107.3233,0,-7,A,America/Denver,station,User
+7943,Grand Junction Train Station,Grand Junction,United States,NULL,NULL,39.0646,-108.5705,0,-7,A,America/Denver,station,User
+7944,Reno Amtrak Station,Reno,United States,NULL,NULL,39.5287,-119.8116,0,-8,A,America/Los_Angeles,station,User
+7945,Sacramento Amtrak Station,Sacramento,United States,NULL,NULL,38.584791,-121.500517,0,-8,A,America/Los_Angeles,station,User
+7966,Boston South Station,Boston,United States,NULL,BOST,42.35,-71.0558,0,-5,A,America/New_York,station,User
+7968,Train Station,Ottawa,Canada,XDS,NULL,45.4164,-75.6517,374,-5,A,America/Toronto,station,User
+7969,Train Station,Belleville,Canada,XVV,NULL,44.1793,-77.3747,315,-5,A,America/Toronto,station,User
+7970,Train Station,Edmonton,Canada,XZL,NULL,53.5789,-113.5307,2208,-7,A,America/Edmonton,station,User
+7971,Train Station,Richmond,United States,ZRD,NULL,37.5343,-77.42945,26,-5,A,America/New_York,station,User
+7973,Train Station,Churchill,Canada,XAD,NULL,58.76775,-94.17425,10,-6,A,America/Winnipeg,station,User
+7974,Train Station,Winnipeg,Canada,XEF,NULL,49.8889,-97.1342,751,-6,A,America/Winnipeg,station,User
+7975,Kingston VIA Station,Kingston,Canada,NULL,NULL,44.2572,-76.53715,282,-5,A,America/Toronto,station,User
+7995,Los Angeles Union Station,Los Angeles,United States,NULL,NULL,34.056111,-118.234167,300,-8,A,America/Los_Angeles,station,User
+7996,Bamberg BF,Bamberg,Germany,BAM,BAMB,49.911,10.9,800,1,E,Europe/Berlin,station,User
+7997,Ingolstadt BF,Ingolstadt,Germany,NULL,INGS,48.7777,11.422,888,1,E,Europe/Berlin,station,User
+8001,Zuoying Station,Kaohsiung,Taiwan,NULL,NULL,22.687389,120.307481,31,8,N,Asia/Taipei,station,User
+8002,Taipei Station,Taipei,Taiwan,NULL,NULL,25.047778,121.517222,30,8,N,Asia/Taipei,station,User
+8012,Tokyo Station,Tokyo,Japan,NULL,NULL,35.672498,139.753218,16,9,N,Asia/Tokyo,station,User
+8013,Shin-Osaka Station,Osaka,Japan,NULL,NULL,34.738932,135.500093,61,9,N,Asia/Tokyo,station,User
+8014,Hiroshima Station,Hiroshima,Japan,NULL,NULL,34.39738532,132.4759782,28,9,N,Asia/Tokyo,station,User
+8015,Frankfurt-Main Hauptbahnhof,Frankfurt,Germany,ZRB,NULL,50.1070258,8.662760505,372,1,E,Europe/Berlin,station,User
+8016,Amsterdam Amstel Station,Amsterdam,Netherlands,NULL,NULL,52.34663659,4.917814017,21,1,E,Europe/Amsterdam,station,User
+8017,Florenc Central Bus Station,Prague,Czech Republic,NULL,NULL,50.09096366,14.43949296,617,1,E,Europe/Prague,station,User
+8018,Wien Sudbahnhof,Vienna,Austria,NULL,NULL,48.18664805,16.38150085,651,1,E,Europe/Vienna,station,User
+8020,Wien Westbahnhof,Vienna,Austria,NULL,NULL,48.19657543,16.33749116,675,1,E,Europe/Vienna,station,User
+8024,St Pancras Railway Station,London,United Kingdom,QQS,NULL,51.53251949,-0.126300373,80,0,E,Europe/London,station,User
+8040,Seattle King Street Station,Seattle,United States,NULL,NULL,47.5985,-122.3299,7,-8,A,America/Los_Angeles,station,User
+8066,Pacific Station,Vancouver,Canada,NULL,NULL,49.2739,-123.0986,0,-8,A,America/Vancouver,station,User
+8071,Kingston Train Station,Kingston,Canada,XEG,KGST,44.256944,-76.536943,282,-5,A,America/Toronto,station,User
+8072,Dorval Railway Station,Dorval,Canada,XAX,NULL,45.448611,-73.74111,0,-5,A,America/Toronto,station,User
+8074,Brockville VIA Station,Brockville,Canada,NULL,BRKV,44.5919,-75.693343,0,-5,A,America/Toronto,station,User
+8384,Greyhound Station,Washington DC,United States,NULL,DCBS,38.90339,-77.00583,0,-5,A,America/New_York,station,User
+8385,Roma Street Railway Station,Brisbane,Australia,NULL,NULL,-27.4666667,-153.0166667,100,10,N,NULL,station,User
+8386,Roma Street Railway Station,Brisbane,Australia,NULL,NULL,-27.4666667,153.0166667,100,10,N,Australia/Brisbane,station,User
+8387,Rockhampton Railway Station,Rockhampton,Australia,NULL,NULL,-23.378941,150.512323,100,10,N,Australia/Brisbane,station,User
+8388,Sydney Terminal Railway Station,Sydney,Australia,NULL,NULL,-33.88373,151.20592,100,10,O,Australia/Sydney,station,User
+8389,Melbourne Southern Cross Railway Station,Melbourne,Australia,NULL,NULL,-37.8181602,144.9533883,111,10,O,Australia/Hobart,station,User
+8390,Nambour Railway Station,Nambour,Australia,NULL,NULL,-26.617353,152.973785,400,10,N,Australia/Brisbane,station,User
+8391,Bundaberg Railway Station,Bundaberg,Australia,NULL,NULL,-24.867837,152.349416,100,10,U,Australia/Brisbane,station,User
+8392,Hung Hom Railway Station,Hong Kong,Hong Kong,NULL,NULL,22.308813,114.169624,100,8,N,Asia/Hong_Kong,station,User
+8393,Hong Kong Railway Station,Hong Kong,Hong Kong,NULL,NULL,22.28462911,114.1582274,100,8,N,Asia/Hong_Kong,station,User
+8399,Guangzhou South Railway Station,Guangzhou,China,GZS,NULL,22.990081,113.270631,1,8,U,Asia/Shanghai,station,User
+8411,Camden Station,Baltimore,United States,NULL,NULL,39.2837181,-76.621634,49,-5,A,America/New_York,station,User
+8418,King St Station,Seattle,United States,NULL,SEAT,47.5985,-122.3299,7,-8,A,America/Los_Angeles,station,User
+8421,Taoyuan Station,Zhongli,Taiwan,NULL,NULL,25.013092,121.215216,250,8,N,Asia/Taipei,station,User
+8422,Palatka Amtrak Station,Palatka,United States,NULL,NULL,29.649178,-81.640456,16,-5,A,America/New_York,station,User
+8484,Central Station,Stockholm,Sweden,XEV,NULL,59.33,18.058056,10,1,E,Europe/Stockholm,station,User
+8485,Central Station,Uppsala,Sweden,QYX,NULL,59.858333,17.646111,23,1,E,Europe/Stockholm,station,User
+8488,Hauptbahnhof,Bonn,Germany,NULL,NULL,50.731944,7.096944,204,1,E,Europe/Berlin,station,User
+8490,Hauptbahnhof,Salzburg,Austria,ZSB,NULL,47.813056,13.046667,1391,1,E,Europe/Vienna,station,User
+8585,Frankfurt Oder Hbf,Frankfurt Oder,Germany,ZFR,NULL,52.336944,14.547222,177,1,E,Europe/Berlin,station,User
+8589,Ostbahnhof,Berlin,Germany,BHF,NULL,52.51,13.434722,135,1,E,Europe/Berlin,station,User
+8674,Karlsruhe Hbf,Karlsruhe,Germany,NULL,NULL,49.0135,8.4044,377,1,E,Europe/Berlin,station,User
+8724,Atlantic City Rail Terminal,Atlantic City NJ,United States,ZRA,NULL,39.3665,-74.442,8,-5,A,America/New_York,station,User
+8725,Springfield Amtrak Station,Springfield MA,United States,ZSF,NULL,42.106,-72.593054,65,-5,A,America/New_York,station,User
+8731,Gare de Montreux Railway Station,Montreux,Switzerland,NULL,NULL,46.435833,6.910278,1280,1,E,Europe/Zurich,station,User
+8733,Stevenage Railway Station,Stevenage,United Kingdom,XVJ,NULL,51.902,-0.207,314,0,E,Europe/London,station,User
+8734,Peterborough Railway Station,Peterborough,United Kingdom,XVH,NULL,52.5748,-0.2502,91,0,E,Europe/London,station,User
+8739,Whittlesford Parkway Rail Station,Whittlesford,United Kingdom,WLF,NULL,52.104,0.166,95,0,E,Europe/London,station,User
+8755,New Delhi Train Station,New Delhi,India,NULL,NULL,28.64197,77.2206,708,5.5,N,Asia/Calcutta,station,User
+8756,Agra Cantonment Railway Station,Agra,India,NULL,NULL,27.1578,77.98993,571,5.5,N,Asia/Calcutta,station,User
+8757,Urumqi Railway Station,Urumqi,China,NULL,NULL,43.7809,87.585,2844,8,N,Asia/Shanghai,station,User
+8758,Turpan Railway Station,Turpan,China,NULL,NULL,43.151,88.875,98,8,N,Asia/Shanghai,station,User
+8764,Oban Rail Station,Oban,United Kingdom,NULL,NULL,56.4124,-5.4702,0,0,E,Europe/London,station,User
+8765,Memmingen Rail Station,Memmingen,Germany,NULL,NULL,47.9878,10.1811,2077,1,E,Europe/Berlin,station,User
+8766,Ulm Railway Station,Ulm,Germany,NULL,NULL,48.4,9.9833,1641,1,E,Europe/Berlin,station,User
+8767,Aachen HBF,Aachen,Germany,NULL,NULL,50.7667,6.1,873,1,E,Europe/Berlin,station,User
+8768,Liege-Guillemins Railway Station,Liege,Belgium,XHN,NULL,50.6333,5.56667,659,1,E,Europe/Brussels,station,User
+8783,Wishram Amtrak Station,Wishram,United States,WIH,NULL,45.6576,-120.9664,1,-8,A,America/Los_Angeles,station,User
+8810,Hamburg Hbf,Hamburg,Germany,ZMB,NULL,53.552776,10.006683,30,1,E,Europe/Berlin,station,User
+8843,Beijing Railway Station,Beijing,China,NULL,NULL,39.5408,116.2516,143,8,N,Asia/Shanghai,station,User
+8844,Chengde Railway Station,Chengde,China,NULL,NULL,40.965755,117.954019,1083,8,N,Asia/Shanghai,station,User
+8878,Fuzhou Railway Station,Fuzhou,China,NULL,NULL,26.11351,119.319998,39,8,N,Asia/Shanghai,station,User
+8879,Xiamen Railway Station,Xiamen,China,NULL,NULL,24.4679,118.116,255,8,N,Asia/Shanghai,station,User
+8897,Venlo railway station,Venlo,Netherlands,NULL,NULL,51.364722,6.171389,0,1,E,Europe/Amsterdam,station,User
+8898,Monchengladbach Central Station,Monchengladbach,Germany,NULL,NULL,51.196,6.446,0,1,E,Europe/Berlin,station,User
+8900,Rensselaer Rail Station,Albany,United States,NULL,NULL,42.641389,-73.741111,324,-5,A,America/New_York,station,User
+8901,Amtrak Station,Tacoma,United States,NULL,NULL,47.242733,-122.42041,50,-8,A,America/Los_Angeles,station,User
+8902,Amtrak Station,Orlando,United States,NULL,NULL,28.5259,-81.3813,82,-5,A,America/New_York,station,User
+8903,Denali Rail,Healy,United States,NULL,NULL,63.7306,-148.9137333,1730,-9,A,America/Anchorage,station,User
+8907,Villach Hauptbahnhof,Villach,Austria,NULL,NULL,46.618333,13.848333,1644,1,E,Europe/Vienna,station,User
+8912,Euston Station,London,United Kingdom,NULL,NULL,51.5284,-0.1331,89,0,E,Europe/London,station,User
+8915,Guangzhou Railway Station,Guangzhou,China,NULL,NULL,23.151343,113.252073,19,8,N,Asia/Shanghai,station,User
+8916,Shenzhen West Railway Station,Shenzhen,China,NULL,NULL,22.532043,113.908729,3,8,N,Asia/Shanghai,station,User
+8917,Shenzhen North Railway Station,Shenzhen,China,NULL,NULL,22.607058,114.027203,229,8,N,Asia/Shanghai,station,User
+8922,Train Station,Aranyaprathet,Thailand,NULL,NULL,13.4058,102.311,150,7,N,Asia/Bangkok,station,User
+8923,Train Station,Nha Trang,Vietnam,NULL,NULL,12.15,109.11,50,7,N,Asia/Saigon,station,User
+8936,Songshan Train Station,Taipei,Taiwan,NULL,NULL,25.049214,121.577961,0,8,N,Asia/Taipei,station,User
+8937,Kaohsiung Station,Kaohsiung,Taiwan,NULL,NULL,22.638432,120.301877,39,8,N,Asia/Taipei,station,User
+8938,Hualien Station,Hualien,Taiwan,NULL,NULL,23.992722,121.60135,45,8,N,Asia/Taipei,station,User
+8976,Bahnhof,Bad Gastein,Austria,NULL,NULL,47.1,13.0167,3287,1,E,Europe/Vienna,station,User
+8977,Acquafredda Station,Maratea,Italy,NULL,NULL,40,15.7167,1000,1,E,Europe/Rome,station,User
+8978,Victoria Station,London,United Kingdom,NULL,NULL,51.4964,-0.14391,48,0,E,Europe/London,station,User
+8990,Myrdal Station,Myrdal,Norway,NULL,NULL,60.4418,7.0723,2844,1,E,Europe/Oslo,station,User
+8991,Flam Station,Flam,Norway,NULL,NULL,60.5017,7.0714,6,1,E,Europe/Oslo,station,User
+9005,Wiawera Station,Wiawera station,Australia,NULL,NULL,-32.29515,140.4145,180,9.5,O,Australia/Adelaide,station,User
+9007,Yarramba Station,Yarramba Station,Australia,NULL,NULL,-31.66136,140.6277,180,9.5,O,Australia/Adelaide,station,User
+9009,Takayama Station,Takayama,Japan,NULL,NULL,36.1406,137.2519,2200,9,N,Asia/Tokyo,station,User
+9010,Himeji Station,Himeji,Japan,NULL,NULL,34.49395,134.412706,141,9,U,Asia/Tokyo,station,User
+9011,Miyajimaguchi Station,Miyajimaguchi,Japan,NULL,NULL,34.3122,132.3022,6,9,U,Asia/Tokyo,station,User
+9027,Fairbanks Train Depot,Fairbanks,United States,NULL,NULL,64.5109,-147.4445,446,-9,A,America/Anchorage,station,User
+9028,Denali Train Depot,Denali,United States,NULL,NULL,63.43083,-150.31111,3733,-9,A,America/Anchorage,station,User
+9029,Talkeetna Train Depot,Talkeetna,United States,NULL,NULL,62.18934,-150.06177,348,-9,A,America/Anchorage,station,User
+9030,Anchorage Rail Depot,Anchorage,United States,NULL,NULL,61.1318,-149.5326,102,-9,A,America/Anchorage,station,User
+9032,Qingdao Railway Station,Qingdao,China,NULL,NULL,36.063497,120.312542,45,8,N,Asia/Shanghai,station,User
+9033,Beijing South Railway Station,Beijing,China,NULL,NULL,39.8658,116.3763,144,8,N,Asia/Shanghai,station,User
+9034,Shanghai Railway Station,Shanghai,China,NULL,NULL,31.251552,121.450446,16,8,N,Asia/Shanghai,station,User
+9035,Suzhou Railway Station,Suzhou,China,NULL,NULL,31.195,120.3623,9,8,N,Asia/Shanghai,station,User
+9049,Boston Back Bay Station,Boston,United States,ZTY,NULL,42.3478,-71.075,20,-5,A,America/New_York,station,User
+9050,Burlington GO Station,Burlington,Canada,NULL,NULL,43.3408282,-79.8093881,243,-5,A,America/Toronto,station,User
+9051,Niagra Falls Railway Station,Niagra Falls,Canada,NULL,NULL,43.1088,-79.0634,521,-5,A,America/New_York,station,User
+9052,Niagara Falls Station,Niagara Falls,United States,NULL,NULL,43.1135,-79.0318,0,-5,A,America/New_York,station,User
+9058,Shanghai South Railway Station,Shanghai,China,NULL,NULL,31.154425,121.42416,13,8,N,Asia/Shanghai,station,User
+9059,Suzhou North Railway Station,Suzhou,China,NULL,NULL,31.423646,120.639045,6,8,N,Asia/Shanghai,station,User
+9063,Nanjing Railway Station,Nanjing,China,NULL,NULL,32.088583,118.792189,29,8,N,Asia/Shanghai,station,User
+9069,Shanghai Maglev Long Yang Road Station,Shanghai,China,NULL,NULL,31.202854,121.558335,16,8,U,Asia/Shanghai,station,User
+9081,Buffalo Exchange Street Station,Buffalo,United States,NULL,NULL,42.8783,-78.8738,600,-5,A,America/New_York,station,User
+9082,Wilmington Amtrak Station,Wilmington,United States,ZWI,NULL,39.736667,-75.551667,0,-5,A,America/New_York,station,User
+9086,Suzhou Industrial Park Railway Station,Suzhou,China,NULL,NULL,31.344444,120.706667,7,8,N,Asia/Shanghai,station,User
+9097,Hangzhou Railway Station,Hangzhou,China,NULL,NULL,30.246,120.1784,39,8,N,Asia/Shanghai,station,User
+9098,Sorrento Valley Station,San Diego,United States,NULL,NULL,32.903,-117.225,150,-8,A,America/Los_Angeles,station,User
+9099,San Diego Union Station,San Diego,United States,NULL,NULL,32.716944,-117.168611,50,-8,A,America/Los_Angeles,station,User
+9116,New Carrollton Rail Station,New Carrollton,United States,ZRZ,NULL,38.948,-76.8719,39,-5,A,America/New_York,station,User
+9118,Walkersville Train Depot,Walkersville,United States,NULL,NULL,39.48618333,-77.35475,308,-5,A,America/New_York,station,User
+9144,Deerfield Beach Station,Deerfield Beach,United States,NULL,NULL,26.316944,-80.122222,13,-5,A,America/New_York,station,User
+9174,Eupen - Rail,Eupen,Belgium,NULL,NULL,50.3743,6.0201,1000,1,E,Europe/Brussels,station,User
+9176,Osnabrueck Hbf,Osnabrueck,Germany,NULL,NULL,52.272778,8.061111,207,1,E,Europe/Berlin,station,User
+9177,Hannover Hbf,Hannover,Germany,NULL,NULL,52.366667,9.716667,180,1,E,Europe/Berlin,station,User
+9192,Varberg Railway Station,Varberg,Sweden,NULL,NULL,57.107118,12.2520907,0,1,E,Europe/Stockholm,station,User
+9194,Toronto Union Station,Toronto,Canada,NULL,NULL,43.645278,-79.380556,249,-5,A,America/Toronto,station,User
+9195,Windsor Station,Windsor,Canada,NULL,NULL,42.3254,-83.0092,623,-5,A,America/Toronto,station,User
+9196,Dearborn Amtrak Station,Dearborn,United States,NULL,NULL,42.312222,-83.198611,591,-5,A,America/New_York,station,User
+9216,Beijing West Railway Station,Beijing,China,NULL,NULL,39.8955463,116.3201722,167,8,N,Asia/Shanghai,station,User
+9217,Hung Hom Railway Station,Hong Kong,Hong Kong,NULL,NULL,22.303067,114.181527,39,8,N,Asia/Hong_Kong,station,User
+9230,Westbahnhoff,Vienna,Austria,XWW,NULL,48.196667,16.337778,600,1,E,Europe/Vienna,station,User
+9254,Shenzhen Railway Station,Shenzhen,China,NULL,NULL,22.5344,114.1121,67,8,N,Asia/Hong_Kong,station,User
+9282,Ollantaytambo Train Station,Ollantaytambo,Peru,NULL,NULL,-13.263155,-72.270291,9160,-5,N,America/Lima,station,User
+9283,Aguas Calientes Train Station,Aguas Calientes,Peru,NULL,NULL,-13.1556,-72.5238,6693,-5,N,America/Lima,station,User
+9284,Poroy Train Station,Cusco,Peru,NULL,NULL,-13.4944,-72.0421,11710,-5,N,America/Lima,station,User
+9289,Queen Street Station,Glasgow,United Kingdom,GLQ,NULL,55.8622,-4.2512,50,0,E,Europe/London,station,User
+9297,Santa Barbara Train Station,Santa Barbara,United States,NULL,NULL,34.413611,-119.691667,8,-8,A,America/Los_Angeles,station,User
+9298,Eugene Amtrak Station,Eugene,United States,NULL,NULL,44.055062,-123.092372,426,-8,A,America/Los_Angeles,station,User
+9299,Lincolnville GO Station,Stouffville,Canada,NULL,NULL,43.995278,-79.233333,873,-5,A,America/Toronto,station,User
+9318,Yaroslavsky Station,Moscow,Russia,NULL,NULL,55.776,37.658,400,3,N,Europe/Moscow,station,User
+9319,Railway Station,Perm,Russia,NULL,NULL,58.0203,56.2525,558,5,N,Asia/Yekaterinburg,station,User
+9320,Railway Station,Novosibirsk,Russia,NULL,NULL,55.0188,82.9339,531,7,N,Asia/Krasnoyarsk,station,User
+9321,Railway Station,Ulan Bator,Mongolia,NULL,NULL,47.92,106.92,4300,8,N,Asia/Ulaanbaatar,station,User
+9322,Main Station,Beijing,China,NULL,NULL,39.9,116.421,130,8,N,Asia/Shanghai,station,User
+9323,Railway Station,Irkutsk,Russia,NULL,NULL,52.3122,104.2958,1305,8,N,Asia/Irkutsk,station,User
+9333,Boston North Station,Boston,United States,NULL,NULL,42.366235,-71.061122,141,-5,A,America/New_York,station,User
+9334,Rockport Station,Rockport,United States,NULL,NULL,42.6558328,-70.6266667,77,-5,A,America/New_York,station,User
+9335,Salem Station,Salem,United States,NULL,NULL,42.5249995,-70.8958333,26,-5,A,America/New_York,station,User
+9338,Joliet Union Station,Joliet,United States,NULL,NULL,41.5244,-88.0795,532,-6,A,America/Chicago,station,User
+9340,Lasalle Station,Chicago,United States,NULL,NULL,41.875,-87.632,592,-6,A,America/Chicago,station,User
+9342,Norfolk Station,Norfolk,United States,NULL,NULL,36.843233,-76.275952,16,-5,A,America/New_York,station,User
+9343,London Railway Station,London,Canada,NULL,NULL,42.9819,-81.2464,0,-5,A,America/Toronto,station,User
+9344,Gloucester Station,Gloucester,United States,NULL,NULL,42.61666667,-70.66833333,50,-5,A,America/New_York,station,User
+9355,Central Station,Glasgow,United Kingdom,ZGG,NULL,55.858,-4.258,25,0,E,Europe/London,station,User
+9356,Euston Station,London,United Kingdom,QQU,NULL,51.5284,-0.1331,89,0,E,Europe/London,station,User
+9358,Belorussky Station,Moscow,Russia,NULL,NULL,55.7764,37.5803,400,3,N,Europe/Moscow,station,User
+9359,Railway Station,Omsk,Russia,NULL,NULL,54.9833,73.3667,285,6,N,Asia/Omsk,station,User
+9360,Railway Station,Krasnoyarsk,Russia,NULL,NULL,56.0167,93.0667,446,7,N,Asia/Krasnoyarsk,station,User
+9361,Railway Station,Naushki,Russia,NULL,NULL,50.3827,106.1056,1975,8,N,Asia/Irkutsk,station,User
+9362,Railway Station,Erlian,China,NULL,NULL,43.65,111.9833,3159,8,N,Asia/Shanghai,station,User
+9363,Guangzhoudong Railway Station,Guangzhou,China,NULL,NULL,23.149554,113.32479,0,8,U,Asia/Shanghai,station,User
+9432,Buffalo-Depew Station,Depew,United States,NULL,NULL,42.9074,-78.7266,676,-5,A,America/New_York,station,User
+9433,South Bend Station,South Bend,United States,NULL,NULL,41.678,-86.2876,722,-5,A,America/New_York,station,User
+9434,Carroll Avenue NICTD Station,Michigan City,United States,NULL,NULL,41.7133,-86.8677,630,-6,A,America/Chicago,station,User
+9435,Chicago Millennium Station,Chicago,United States,NULL,NULL,41.8837,-87.623,620,-6,A,America/Chicago,station,User
+9437,Kansas City Union Station,Kansas City,United States,NULL,NULL,39.0865,-94.586,791,-6,A,America/Chicago,station,User
+9439,San Francisco 4th and King St. Station,San Francisco,United States,NULL,NULL,37.7763884,-122.3944444,15,-8,A,America/Los_Angeles,station,User
+9440,Oakland Jack London Square Station,Oakland,United States,NULL,NULL,37.7935,-122.2719,13,-8,A,America/Los_Angeles,station,User
+9441,Downtown Mountain View Station,Mountain View,United States,NULL,NULL,37.3943934,-122.075872,15,-8,A,America/Los_Angeles,station,User
+9442,San Mateo Station,San Mateo,United States,NULL,NULL,37.5683328,-122.3241667,15,-8,A,America/Los_Angeles,station,User
+9443,Sunnyvale Station,Sunnyvale,United States,NULL,NULL,37.3786106,-122.0308333,15,-8,A,America/Los_Angeles,station,User
+9445,Cleveland Greyhound Station,Cleveland,United States,NULL,NULL,41.5034,-81.6822,679,-5,A,America/New_York,station,User
+9455,Union Station,Utica,United States,UCA,NULL,43.104167,-75.223333,456,-5,A,America/New_York,station,User
+9457,Heuston Station,Dublin,Ireland,NULL,NULL,53.3463,-6.2927,19,0,E,Europe/Dublin,station,User
+9458,Killarney Station,Killarney,Ireland,NULL,NULL,52.5089,-9.5015,144,0,U,Europe/Dublin,station,User
+9461,Hazelton Bus Station,Hazelton,United States,NULL,HZLT,40.954055,-75.976102,1689,-5,A,America/New_York,station,User
+9463,Madison NJT Station,Madison,United States,NULL,MDSN,40.757028,-74.415194,266,-5,A,America/New_York,station,User
+9464,Maplewood NJT Station,Maplewood,United States,NULL,MPLD,40.731111,-74.275556,115,-5,A,America/New_York,station,User
+9466,Metro-North Station,Poughkeepsie,United States,NULL,PKPS,41.706516,-73.937774,180,-5,A,America/New_York,station,User
+9482,Summit NJT Station,Summit,United States,NULL,SMMT,40.716556,-74.35775,374,-5,A,America/New_York,station,User
+9485,Cordoba Station,Cordoba,Spain,NULL,CRDB,37.888573,-4.789177,390,1,E,Europe/Madrid,station,User
+9486,Granada Station,Granada,Spain,NULL,GRND,37.184055,-3.60916,2421,1,E,Europe/Madrid,station,User
+9493,Toledo Railway Station,Toledo,Spain,NULL,TLDO,39.862363,-4.011083,1736,1,E,Europe/Madrid,station,User
+9494,Chamartin Station,Madrid,Spain,NULL,MADC,40.472272,-3.68215,2188,1,E,Europe/Madrid,station,User
+9499,Railway Station,Figueres,Spain,NULL,FGRS,42.265065,2.968822,128,1,E,Europe/Madrid,station,User
+9501,New Brunswick Station,New Brunswick,United States,NULL,NBWK,40.496432,-74.446447,62,-5,A,America/New_York,station,User
+9503,Holmesburg Jct Station,Philadelphia,United States,NULL,HOLM,40.032679,-75.023718,39,-5,U,America/New_York,station,User
+9531,Main Station,Taipei,Taiwan,NULL,TPEI,25.046176,121.517532,0,8,N,Asia/Taipei,station,User
+9548,Union Station,Erie,United States,NULL,NULL,42.120847,-80.082444,733,-5,A,America/New_York,station,User
+9549,Cleveland Lakefront Station,Cleveland,United States,NULL,NULL,41.505787,-81.696172,650,-5,A,America/New_York,station,User
+9550,Elkhart Station,Elkhart,United States,NULL,NULL,41.680748,-85.971848,748,-5,A,America/New_York,station,User
+9551,Waterloo Station,Waterloo,United States,NULL,NULL,41.431714,-85.025659,906,-5,A,America/New_York,station,User
+9553,Sandusky Station,Sandusky,United States,NULL,NULL,41.440671,-82.717866,614,-5,A,America/New_York,station,User
+9554,Elyria Station,Elyria,United States,NULL,NULL,41.370033,-82.096685,614,-5,A,America/New_York,station,User
+9555,Alliance Station,Alliance,United States,NULL,NULL,40.921275,-81.092904,1158,-5,A,America/New_York,station,User
+9556,Paoli Station,Paoli,United States,NULL,NULL,40.042754,-75.48376,509,-5,A,America/New_York,station,User
+9557,Elizabethtown Station,Elizabethtown,United States,NULL,NULL,40.147028,-76.612234,463,-5,A,America/New_York,station,User
+9558,Lewiston Station,Lewiston,United States,NULL,NULL,40.588309,-77.580047,520,-5,A,America/New_York,station,User
+9559,Huntingdon Station,Huntingdon,United States,NULL,NULL,40.483665,-78.01178,643,-5,A,America/New_York,station,User
+9560,Tyrone Station,Tyrone,United States,NULL,NULL,40.667749,-78.240573,896,-5,A,America/New_York,station,User
+9562,Latrobe Station,Latrobe,United States,NULL,NULL,40.317405,-79.385083,997,-5,A,America/New_York,station,User
+9563,Greensburg Station,Greensburg,United States,NULL,NULL,40.304986,-79.546893,1017,-5,A,America/New_York,station,User
+9564,Williamsburg Station,Williamsburg,United States,NULL,NULL,37.276531,-76.708589,82,-5,A,America/New_York,station,User
+9565,Richmond Staples Mill Road Station,Richmond,United States,NULL,NULL,37.6179667,-77.4968078,166,-5,A,America/New_York,station,User
+9566,Ashland Virgina Station,Ashland,United States,NULL,NULL,37.759596,-77.481304,213,-5,A,America/New_York,station,User
+9567,Quantico Station,Quantico,United States,NULL,NULL,38.521882,-77.293027,39,-5,A,America/New_York,station,User
+9568,Alexandria Union Station,Alexandria,United States,NULL,NULL,38.806503,-77.06233,39,-5,A,America/New_York,station,User
+9573,Bridgeport Station,Bridgeport,United States,NULL,NULL,41.178006,-73.187539,3,-5,A,America/New_York,station,User
+9574,Stratford Station,Stratford,United States,NULL,NULL,41.194286,-73.131566,49,-5,A,America/New_York,station,User
+9575,Milford Station,Milford,United States,NULL,NULL,41.223231,-73.057647,282,-5,A,America/New_York,station,User
+9576,West Haven Station,West Haven,United States,NULL,NULL,41.27142,-72.963488,33,-5,A,America/New_York,station,User
+9577,Fairfield Metro Station,Fairfield,United States,NULL,NULL,41.161,-73.234336,59,-5,A,America/New_York,station,User
+9578,Fairfield Station,Fairfield,United States,NULL,NULL,41.143077,-73.257742,59,-5,A,America/New_York,station,User
+9580,South Norwalk Station,Norwalk,United States,NULL,NULL,41.09673,-73.421132,36,-5,A,America/New_York,station,User
+9581,Darien Station,Darien,United States,NULL,NULL,41.076913,-73.472966,52,-5,A,America/New_York,station,User
+9582,Harlem-125th Street Station,New York,United States,NULL,NULL,40.805157,-73.939149,84,-5,A,America/New_York,station,User
+9583,Hammond-Whiting Station,Hammond,United States,NULL,NULL,41.691155,-87.506511,43,-6,A,America/Chicago,station,User
+9584,Michigan City Amtrak Station,Michigan City,United States,NULL,NULL,41.721103,-86.905385,627,-6,A,America/Chicago,station,User
+9585,New Buffalo Station,New Buffalo,United States,NULL,NULL,41.796656,-86.745782,640,-5,A,America/New_York,station,User
+9586,Niles Station,Niles,United States,NULL,NULL,41.837412,-86.252372,646,-5,A,America/New_York,station,User
+9587,Dowagiac Station,Dowagiac,United States,NULL,NULL,41.980941,-86.109041,747,-5,A,America/New_York,station,User
+9589,Battle Creek Station,Battle Creek,United States,NULL,NULL,42.318189,-85.187534,840,-5,A,America/New_York,station,User
+9590,Jackson MI Station,Jackson,United States,NULL,NULL,42.248113,-84.39967,934,-5,A,America/New_York,station,User
+9591,Ann Arbor Station,Ann Arbor,United States,NULL,NULL,42.287692,-83.743154,750,-5,A,America/New_York,station,User
+9594,Luebeck Hauptbahnhof,Luebeck,Germany,NULL,NULL,53.8672,10.6692,43,1,E,Europe/Berlin,station,User
+9599,Budapest Nepliget Coach Station,Budapest,Hungary,NULL,NULL,47.474698,19.098561,50,1,E,Europe/Budapest,station,User
+9600,Lviv Central Railway Station,Lviv,Ukraine,NULL,NULL,49.8397,23.9944,971,2,E,Europe/Kiev,station,User
+9603,Raleigh Amtrak Station,Raleigh,United States,NULL,NULL,35.7751,-78.6441,300,-5,A,America/New_York,station,User
+9604,Toulouse Matabiau Station,Toulouse,France,NULL,NULL,43.6111,1.4536,600,1,E,Europe/Paris,station,User
+9605,Bordeaux Saint Jean Station,Bordeaux,France,ZFQ,NULL,44.8256,-0.5556,50,1,E,Europe/Paris,station,User
+9606,Carcassonne Station,Carcassonne,France,NULL,NULL,43.2181,2.3519,270,1,E,Europe/Paris,station,User
+9607,Bristol Temple Meads Railway Station,Bristol,United Kingdom,NULL,NULL,51.449,-2.58,10,0,E,Europe/London,station,User
+9608,Dresden Hauptbahnhof,Dresden,Germany,NULL,NULL,51.0403,13.7317,350,1,E,Europe/Berlin,station,User
+9609,Budapest Deli Station,Budapest,Hungary,NULL,NULL,47.4994,19.025,40,1,E,Europe/Budapest,station,User
+9610,Szczecin Glowny Station,Szczecin,Poland,NULL,NULL,53.4183,14.5497,10,1,E,Europe/Warsaw,station,User
+9611,Luxembourg Railway Station,Luxembourg City,Luxembourg,NULL,NULL,49.6,6.1339,1300,1,E,Europe/Luxembourg,station,User
+9612,Milano Centrale Railway Station,Milan,Italy,NULL,NULL,45.4861,9.2036,400,1,E,Europe/Rome,station,User
+9613,Bologna Centrale Railway Station,Bologna,Italy,NULL,NULL,44.5058,11.3417,177,1,E,Europe/Rome,station,User
+9614,Rimini Railway Station,Rimini,Italy,NULL,NULL,44.0644,12.5728,10,1,E,Europe/Rome,station,User
+9615,Oxford Railway Station,Oxford,United Kingdom,NULL,NULL,51.753657,-1.270131,600,0,E,Europe/London,station,User
+9616,Wigan Wallgate Railway Station,Wigan,United Kingdom,NULL,NULL,53.5449,-2.6339,130,0,E,Europe/London,station,User
+9617,Aarhus Central Station,Aarhus,Denmark,NULL,NULL,56.15,10.2047,10,1,E,Europe/Copenhagen,station,User
+9619,Oslo Central Station,Oslo,Norway,XZO,NULL,59.9111,10.7508,10,1,E,Europe/Oslo,station,User
+9620,Bergen Railway Station,Bergen,Norway,QFV,NULL,60.3903,5.3331,10,1,E,Europe/Oslo,station,User
+9621,Nimes Railway Station,Nimes,France,ZYN,NULL,43.8325,4.3664,148,1,E,Europe/Paris,station,User
+9622,Avignon TGV Station,Avignon,France,XZN,NULL,43.9217,4.7858,75,1,E,Europe/Paris,station,User
+9623,Aachen Hauptbahnhof,Aachen,Germany,XHJ,NULL,50.7676,6.0912,873,1,E,Europe/Berlin,station,User
+9624,Vilnius Railway Station,Vilnius,Lithuania,NULL,NULL,54.67024,25.284368,400,2,E,Europe/Vilnius,station,User
+9627,Nice Railway Station,Nice,France,NULL,NULL,43.7044,7.2619,30,1,E,Europe/Paris,station,User
+9630,Kyoto Station,Kyoto,Japan,NULL,NULL,34.9854,135.7584,230,9,N,Asia/Tokyo,station,User
+9631,Nagoya Station,Nagoya,Japan,NULL,NULL,35.1708,136.8816,30,9,N,Asia/Tokyo,station,User
+9632,Nara Station,Nara,Japan,NULL,NULL,34.6807,135.819,300,9,N,Asia/Tokyo,station,User
+9633,Montreux Railway Station,Montreux,Switzerland,NULL,NULL,46.4358,6.9103,1280,1,E,Europe/Zurich,station,User
+9634,'s-Hertogenbosch Railway Station,'s-Hertogenbosch,Netherlands,NULL,NULL,51.69,5.2933,25,1,E,Europe/Amsterdam,station,User
+9636,Sofia Central Bus Station,Sofia,Bulgaria,NULL,NULL,42.7103,23.3233,1800,2,E,Europe/Sofia,station,User
+9637,Riga Central Station,Riga,Latvia,NULL,NULL,56.9472,24.1222,10,2,E,Europe/Riga,station,User
+9640,San Sebastian Railway Station,San Sebastian,Spain,YJH,NULL,43.317652,-1.976748,20,1,E,Europe/Madrid,station,User
+9641,Pamplona Railway Station,Pamplona,Spain,EEP,NULL,42.824903,-1.661445,1463,1,E,Europe/Madrid,station,User
+9643,Ljubljana Railway Station,Ljubljana,Slovenia,NULL,NULL,46.0589,14.5131,968,1,E,Europe/Ljubljana,station,User
+9644,Szeged Railway Station,Szeged,Hungary,NULL,NULL,46.24,20.14291,267,1,E,Europe/Budapest,station,User
+9645,Debrecen Railway Station,Debrecen,Hungary,NULL,NULL,47.5208,21.6286,397,1,E,Europe/Budapest,station,User
+9646,Brno Hlavni Nadrazi Station,Brno,Czech Republic,NULL,NULL,49.1909,16.6134,625,1,E,Europe/Prague,station,User
+9647,Lausanne Railway Station,Lausanne,Switzerland,NULL,NULL,46.5164,6.6292,1483,1,E,Europe/Zurich,station,User
+9648,Maastricht Station,Maastricht,Netherlands,NULL,NULL,50.85,5.7053,161,1,E,Europe/Amsterdam,station,User
+9649,York Railway Station,York,United Kingdom,QQY,NULL,53.9583,-1.093,45,0,E,Europe/London,station,User
+9650,Birmingham New Street Railway Station,Birmingham,United Kingdom,QQN,NULL,52.4778,-1.8988,500,0,E,Europe/London,station,User
+9651,Cesky Krumlov Station,Cesky Krumlov,Czech Republic,NULL,NULL,48.822173,14.317288,1614,1,E,Europe/Prague,station,User
+9652,Bayreuth Hauptbahnhof,Bayreuth,Germany,NULL,NULL,49.95,11.5803,1120,1,E,Europe/Berlin,station,User
+9653,Bahnhof Bamberg,Bamberg,Germany,NULL,NULL,49.9008,10.8994,530,1,E,Europe/Berlin,station,User
+9654,Bahnhof Rothenburg ob der Tauber ,Rothenburg ob der Tauber,Germany,NULL,NULL,49.376629,10.190662,1410,1,E,Europe/Berlin,station,User
+9655,Bahnhof Donauwoerth,Donauwoerth,Germany,NULL,NULL,48.7144,10.7717,410,1,E,Europe/Berlin,station,User
+9656,Bahnhof Noerdlingen,Noerdlingen,Germany,NULL,NULL,48.8508,10.4978,1447,1,E,Europe/Berlin,station,User
+9657,Taichung Station,Taichung,Taiwan,NULL,NULL,24.1369,120.6847,340,8,N,Asia/Taipei,station,User
+9659,Vernazza Station,Vernazza,Italy,NULL,NULL,44.134987,9.685036,10,1,E,Europe/Rome,station,User
+9663,Las Vegas Greyhound Bus Station,Las Vegas,United States,NULL,NULL,36.171167,-115.147574,2001,-8,A,America/Los_Angeles,station,User
+9668,Mostar Railway Station,Mostar,Bosnia and Herzegovina,NULL,NULL,43.3486,17.8139,200,1,E,Europe/Sarajevo,station,User
+9670,Asheville Greyhound Station,Asheville,United States,NULL,NULL,35.605361,-82.536137,2134,-5,A,America/New_York,station,User
+9672,Inverness Railway Station,Inverness,United Kingdom,ZIV,NULL,57.48,-4.223,53,0,E,Europe/London,station,User
+9674,Aberdeen Railway Station,Aberdeen,United Kingdom,ZXA,NULL,57.1436,-2.0985,0,0,E,Europe/London,station,User
+9682,Zeleznicka Stanica Railway Station,Novi Sad,Serbia,NULL,NULL,45.2657,19.8294,262,1,E,Europe/Belgrade,station,User
+9683,Kosice Railway Station,Kosice,Slovakia,NULL,NULL,48.7225,21.2681,676,1,E,Europe/Bratislava,station,User
+9685,Siofok Vasutallomas Train Station,Siofok,Hungary,NULL,NULL,46.907942,18.05366,416,1,E,Europe/Budapest,station,User
+9686,Malmo Central Station,Malmo,Sweden,XFP,NULL,55.609467,13.000904,10,1,E,Europe/Stockholm,station,User
+9687,Lund Central Station,Lund,Sweden,XGC,NULL,55.705543,13.186586,237,1,E,Europe/Stockholm,station,User
+9688,Helsingor Station,Helsingor,Denmark,NULL,NULL,56.0336,12.6144,0,1,E,Europe/Copenhagen,station,User
+9689,Odense Station,Odense,Denmark,NULL,NULL,55.401785,10.385973,404,1,E,Europe/Copenhagen,station,User
+9690,Tokaj Vasutallomas Station,Tokaj,Hungary,NULL,NULL,48.112887,21.407036,600,1,E,Europe/Budapest,station,User
+9692,Brugge Railway Station,Bruges,Belgium,NULL,NULL,51.197708,3.217851,10,1,E,Europe/Brussels,station,User
+9694,Knokke Station,Knokke,Belgium,NULL,NULL,51.341795,3.284919,0,1,E,Europe/Brussels,station,User
+9695,Kortrijk Station,Kortrijk,Belgium,NULL,NULL,50.824579,3.264396,60,1,E,Europe/Brussels,station,User
+9696,Ieper Station,Ypres,Belgium,NULL,NULL,50.847995,2.876605,80,1,E,Europe/Brussels,station,User
+9699,Pecs Vasutallomas Station,Pecs,Hungary,NULL,NULL,46.066241,18.225004,666,1,E,Europe/Budapest,station,User
+9700,Kaposvar Vasutallomas Station,Kaposvar,Hungary,NULL,NULL,46.352691,17.7947,502,1,E,Europe/Budapest,station,User
+9701,Sopron Vasutallomas Station,Sopron,Hungary,NULL,NULL,47.677945,16.586496,695,1,E,Europe/Budapest,station,User
+9702,Gyor Vasutallomas Station,Gyor,Hungary,NULL,NULL,47.681885,17.634652,390,1,E,Europe/Budapest,station,User
+9705,Chiayi Station,Chiayi,Taiwan,NULL,NULL,23.4792,120.4409,96,8,N,Asia/Taipei,station,User
+9707,Tainan Station,Tainan,Taiwan,NULL,NULL,22.9969,120.2125,20,8,N,Asia/Taipei,station,User
+9711,Salerno Central Station,Salerno,Italy,NULL,NULL,40.675398,14.772166,1,1,E,Europe/Rome,station,User
+9712,Ventimiglia Railway Station,Ventimiglia,Italy,NULL,NULL,43.792315,7.609705,0,1,E,Europe/Rome,station,User
+9713,Stirling Railway Station,Stirling,United Kingdom,NULL,NULL,56.1201,-3.9351,95,0,E,Europe/London,station,User
+9714,Bothwell Railway Station,Bothwell,United Kingdom,NULL,NULL,55.8023,-4.0662,230,0,E,Europe/London,station,User
+9715,Lisbon Rossio Station,Lisbon,Portugal,NULL,NULL,38.71444,-9.140897,0,0,E,Europe/Lisbon,station,User
+9716,Sintra Station,Sintra,Portugal,NULL,NULL,38.798938,-9.385917,440,0,E,Europe/Lisbon,station,User
+9717,Gniezno Station,Gniezno,Poland,NULL,NULL,52.53,17.603589,385,1,E,Europe/Warsaw,station,User
+9718,Malbork Railway Station,Malbork,Poland,NULL,NULL,54.035875,19.04256,49,1,E,Europe/Warsaw,station,User
+9725,Schaan-Vaduz Railway Station,Vaduz,Switzerland,NULL,NULL,47.1686,9.5083,1500,1,E,Europe/Vaduz,station,User
+9729,Hillerod Station,Hillerod,Denmark,NULL,NULL,55.927,12.311,135,1,E,Europe/Copenhagen,station,User
+9730,Roskilde Station,Roskilde,Denmark,NULL,NULL,55.6386,12.0883,0,1,E,Europe/Copenhagen,station,User
+9732,Bermeo Station,Bermeo,Spain,NULL,NULL,43.4203,-2.722,0,1,E,Europe/Madrid,station,User
+9733,Bilbao Atxuri Station,Bilbao,Spain,NULL,NULL,43.2536,-2.9217,62,1,E,Europe/Madrid,station,User
+9734,Gernika Station,Gernika,Spain,NULL,NULL,43.314448,-2.676016,33,1,E,Europe/Madrid,station,User
+9735,Waterloo Station,Waterloo,Belgium,NULL,NULL,50.715071,4.383472,390,1,E,Europe/Brussels,station,User
+9737,Esztergom Vasutallomas Station,Esztergom,Hungary,NULL,NULL,47.77637,18.743418,360,1,E,Europe/Budapest,station,User
+9738,Calella Station,Calella,Spain,NULL,NULL,41.6128,2.6575,16,1,E,Europe/Madrid,station,User
+9755,Zhuhai Railway Station,Zhuhai,China,NULL,NULL,22.218333,113.545,118,8,N,Asia/Macau,station,User
+9801,Spokane Amtrak Station,Spokane,United States,NULL,NULL,47.656279,-117.415519,17,-8,A,America/Los_Angeles,station,User
+9802,Lewistown Amtrak Station,Lewistown,United States,NULL,NULL,40.58911,-77.578615,520,-5,A,America/New_York,station,User
+9803,Valladolid Bus Station,Valladolid,Spain,XJN,NULL,41.633333,-4.716667,2290,1,E,Europe/Madrid,station,User
+9804,Soria Bus Station,Soria,Spain,XJO,NULL,41.766667,-2.466667,3488,1,E,Europe/Madrid,station,User
+9816,Strasbourg Bus Station,Strasbourg,France,XER,NULL,48.585,7.734444,433,1,E,Europe/Paris,station,User
+9837,Chiasso Railway Station,Chiasso,Switzerland,NULL,NULL,45.832222,9.031111,781,1,E,Europe/Zurich,station,User
+9856,Kunshan South Railway Station,Kunshan,China,KVN,NULL,31.355,120.946389,13,8,N,Asia/Shanghai,station,User
+9876,Youngstown Federal Station,Youngstown,United States,NULL,NULL,41.102701,-80.654565,850,-5,A,America/New_York,station,User
+9877,Metrorail Transfer Station,Hialeah,United States,NULL,NULL,25.846394,-80.259617,50,-5,A,America/New_York,station,User
+9878,Opa-locka Station,Opa-locka,United States,NULL,NULL,25.900036,-80.252694,50,-5,A,America/New_York,station,User
+9879,Golden Glades Station,Golden Glades,United States,NULL,NULL,25.92155,-80.216917,50,-5,A,America/New_York,station,User
+9880,Hollywood Station,Hollywood,United States,NULL,NULL,26.012411,-80.167658,50,-5,A,America/New_York,station,User
+9881,Sheridan Street Station,Hollywood,United States,NULL,NULL,26.031717,-80.167774,50,-5,A,America/New_York,station,User
+9882,Fort Lauderdale Station,Fort Lauderdale,United States,NULL,NULL,26.119942,-80.169808,50,-5,A,America/New_York,station,User
+9883,Cypress Creek Station,Fort Lauderdale,United States,NULL,NULL,26.201194,-80.150369,50,-5,A,America/New_York,station,User
+9884,Pompano Beach Station,Pompano Beach,United States,NULL,NULL,26.272286,-80.134814,50,-5,A,America/New_York,station,User
+9936,Jasper Railway Station,Jasper,Canada,XDH,NULL,52.876111,-118.079722,0,-7,A,NULL,station,User
+9944,Sainte-Foy Railway Station,Sainte-Foy,Canada,NULL,NULL,46.754399,-71.299488,322,-5,A,NULL,station,User
+9945,Drummondville Railway Station,Drummondville,Canada,NULL,NULL,45.882095,-72.48834,1198,-5,A,NULL,station,User
+9946,Saint Lambert Railway Station,Saint Lambert,Canada,NULL,NULL,45.498896,-73.507287,25,-5,A,NULL,station,User
+9947,Rochester Station,Rochester,United States,NULL,NULL,43.163411,-77.608057,505,-5,A,NULL,station,User
+9948,Rome Amtrak Station,Rome,United States,NULL,NULL,43.199425,-75.44996,456,-5,A,NULL,station,User
+9949,Amsterdam Amtrak Station,Amsterdam,United States,NULL,NULL,42.953719,-74.2195,361,-5,A,NULL,station,User
+9950,Schenectady Amtrak Station,Schenectady,United States,NULL,NULL,42.814606,-73.942887,324,-5,A,NULL,station,User
+9951,Hudson Amtrak Station,Hudson,United States,NULL,NULL,42.253891,-73.797729,420,-5,A,NULL,station,User
+9952,Rhinecliff-Kingston Amtrak Station,Rhinebeck,United States,NULL,NULL,41.921346,-73.951278,200,-5,A,NULL,station,User
+9953,Croton-Harmon Station,Croton-on-Hudson,United States,NULL,NULL,41.189903,-73.882394,164,-5,A,NULL,station,User
+9954,Naperville Station,Naperville,United States,NULL,NULL,41.779722,-88.145556,702,-6,A,NULL,station,User
+9956,Princeton Station,Princeton,United States,NULL,NULL,41.385191,-89.466815,780,-6,A,NULL,station,User
+9957,Galesburg Station,Galesburg,United States,NULL,NULL,40.944678,-90.364106,778,-6,A,NULL,station,User
+9958,Fort Madison Station,Fort Madison,United States,NULL,NULL,40.622591,-91.336983,528,-6,A,NULL,station,User
+9959,La Plata Station,La Plata,United States,NULL,NULL,40.02922,-92.493384,935,-6,A,NULL,station,User
+9960,Lawrence Station,Lawrence,United States,NULL,NULL,38.971166,-95.230539,866,-6,A,NULL,station,User
+9961,Topeka Station,Topeka,United States,NULL,NULL,39.051415,-95.664916,945,-6,A,NULL,station,User
+9962,Newton Station,Newton,United States,NULL,NULL,38.046976,-97.344886,1450,-6,A,NULL,station,User
+9963,Hutchinson Station,Hutchinson,United States,NULL,NULL,38.05599,-97.931591,1543,-6,A,NULL,station,User
+9964,Dodge City Station,Dodge City,United States,NULL,NULL,37.752411,-100.016994,2493,-6,A,NULL,station,User
+9965,Garden City Station,Garden City,United States,NULL,NULL,37.964365,-100.873256,2838,-6,A,NULL,station,User
+9966,Lamar Station,Lamar,United States,NULL,NULL,38.0897011,-102.6183855,3625,-7,A,NULL,station,User
+9967,La Junta Station,La Junta,United States,NULL,NULL,37.988165,-103.54319,4078,-7,A,NULL,station,User
+9968,Trinidad Station,Trinidad,United States,NULL,NULL,37.172688,-104.507981,6010,-7,A,NULL,station,User
+9969,22nd St. Station,San Francisco,United States,NULL,NULL,37.757674,-122.392636,40,-8,A,NULL,station,User
+9970,Bayshore Station,San Francisco,United States,NULL,NULL,37.709544,-122.401318,40,-8,A,NULL,station,User
+9971,South San Francisco Station,South San Francisco,United States,NULL,NULL,37.655904,-122.405264,40,-8,A,NULL,station,User
+9972,San Bruno Station,San Bruno,United States,NULL,NULL,37.631106,-122.412018,40,-8,A,NULL,station,User
+9973,Broadway Station,Burlingame,United States,NULL,NULL,37.587466,-122.363233,40,-8,A,NULL,station,User
+9974,Burlingame Station,Burlingame,United States,NULL,NULL,37.579719,-122.345266,40,-8,A,NULL,station,User
+9975,Hayward Park Station,San Mateo,United States,NULL,NULL,37.552346,-122.308916,40,-8,A,NULL,station,User
+9976,Hillsdale Station,San Mateo,United States,NULL,NULL,37.538995,-122.298155,40,-8,A,NULL,station,User
+9977,Belmont Station,Belmont,United States,NULL,NULL,37.520504,-122.276075,40,-8,A,NULL,station,User
+9978,San Carlos Station,San Carlos,United States,NULL,NULL,37.507361,-122.260365,40,-8,A,NULL,station,User
+9979,Redwood City Station,Redwood City,United States,NULL,NULL,37.485412,-122.231957,40,-8,A,NULL,station,User
+9980,Atherton Station,Atherton,United States,NULL,NULL,37.464349,-122.198106,40,-8,A,NULL,station,User
+9981,Menlo Park Station,Menlo Park,United States,NULL,NULL,37.45418,-122.18202,40,-8,A,NULL,station,User
+9982,Palo Alto Station,Palo Alto,United States,NULL,NULL,37.44307,-122.1649,40,-8,A,NULL,station,User
+9983,California Ave. Station,Palo Alto,United States,NULL,NULL,37.428835,-122.142703,40,-8,A,NULL,station,User
+9984,San Antonio Station,Mountain View,United States,NULL,NULL,37.407157,-122.107231,40,-8,A,NULL,station,User
+9985,Oakville Station,Oakville,Canada,NULL,NULL,43.455963,-79.681656,567,-5,A,NULL,station,User
+9986,Aldershot Station,Burlington,Canada,NULL,NULL,43.311413,-79.858617,243,-5,A,NULL,station,User
+9987,Grimsby Station,Grimsby,Canada,NULL,NULL,43.195957,-79.557787,640,-5,A,NULL,station,User
+9988,St. Catharines Station,St. Catharines,Canada,NULL,NULL,43.147829,-79.2561457,321,-5,A,NULL,station,User
+9989,Brantford Railway Station,Brantford,Canada,NULL,NULL,43.145829,-80.265672,8,-5,A,NULL,station,User
+9990,Woodstock Railway Station,Woodstock,Canada,NULL,NULL,43.126276,-80.751809,1000,-5,A,NULL,station,User
+9991,Ingersoll Station,Ingersoll,Canada,NULL,NULL,43.04054,-80.884888,920,-5,A,NULL,station,User
+9992,Glencoe Railway Station,Glencoe,Canada,NULL,NULL,42.746807,-81.711352,900,-5,A,NULL,station,User
+9993,Chatham Railway Station,Chatham,Canada,NULL,NULL,42.398026,-82.179325,649,-5,A,NULL,station,User
+9998,Appleby GO Station,Burlington,Canada,NULL,NULL,43.3791,-79.7612,243,-5,A,NULL,station,User
+9999,Bronte GO Station,Oakville,Canada,NULL,NULL,43.4171,-79.7219,568,-5,A,NULL,station,User
+10000,Clarkson GO Station,Mississauga,Canada,NULL,NULL,43.5129,-79.634,512,-5,A,NULL,station,User
+10001,Port Credit GO Station,Mississauga,Canada,NULL,NULL,43.5556,-79.5875,512,-5,A,NULL,station,User
+10002,Long Branch GO Station,Toronto,Canada,NULL,NULL,43.5919,-79.5456,347,-5,A,NULL,station,User
+10003,Mimco GO Station,Toronto,Canada,NULL,NULL,43.6164,-79.4972,347,-5,A,NULL,station,User
+10004,Exhibition GO Station,Toronto,Canada,NULL,NULL,43.6359,-79.4192,347,-5,A,NULL,station,User
+10005,Stouffville GO Station,Stouffville,Canada,NULL,NULL,43.9714,-79.2501,873,-5,A,NULL,station,User
+10006,Mount Joy GO Station,Markham,Canada,NULL,NULL,43.9004,-79.263,660,-5,A,NULL,station,User
+10007,Markham GO Station,Markham,Canada,NULL,NULL,43.8827,-79.2626,660,-5,A,NULL,station,User
+10008,Centennial GO Station,Markham,Canada,NULL,NULL,43.8737,-79.2894,660,-5,A,NULL,station,User
+10009,Unionville GO Station,Markham,Canada,NULL,NULL,43.8516,-79.3148,660,-5,A,NULL,station,User
+10010,Millikin GO Station,Toronto,Canada,NULL,NULL,43.8232,-79.3016,347,-5,A,NULL,station,User
+10011,Agincourt GO Station,Toronto,Canada,NULL,NULL,43.7855,-79.284,347,-5,A,NULL,station,User
+10012,Kennedy GO Station,Toronto,Canada,NULL,NULL,43.7323,-79.2624,347,-5,A,NULL,station,User
+10036,Mount Laurel Greyhound Station,Mount Laurel,United States,NULL,NULL,39.931846,-74.957483,40,-5,A,NULL,station,User
+10037,Wyandanch Station,Wyandanch,United States,NULL,NULL,40.75479,-73.35806,50,-5,A,NULL,station,User
+10038,Pinelawn Station,Melville,United States,NULL,NULL,40.74535,-73.3996,50,-5,A,NULL,station,User
+10039,Farmingdale Station,Farmingdale,United States,NULL,NULL,40.73591,-73.44124,50,-5,A,NULL,station,User
+10040,Bethpage Station,Bethpage,United States,NULL,NULL,40.74271,-73.4830487,50,-5,A,NULL,station,User
+10041,Hicksville Station,Hicksville,United States,NULL,NULL,40.76717,-73.52853,50,-5,A,NULL,station,User
+10042,Jamaica Station,New York,United States,NULL,NULL,40.699683,-73.807903,50,-5,A,NULL,station,User
+10043,Woodside Station,New York,United States,NULL,NULL,40.74584,-73.90297,50,-5,A,NULL,station,User
+10044,Kiama Train Station,Kiama,Australia,NULL,NULL,-34.672447,150.854704,5,10,O,NULL,station,User
+10045,Katoomba Train Station,Katoomba,Australia,NULL,NULL,-33.711904,150.311347,3337,10,O,NULL,station,User
+10048,Chelsea Station,Chelsea,United States,NULL,NULL,42.395661,-71.034826,50,-5,A,NULL,station,User
+10049,Central Square - Lynn Station,Lynn,United States,NULL,NULL,42.462293,-70.947794,50,-5,A,NULL,station,User
+10050,Swampscott Railroad Depot,Swampscott,United States,NULL,NULL,42.473739,-70.922036,50,-5,A,NULL,station,User
+10052,Montserrat Station,Beverly,United States,NULL,NULL,42.561483,-70.870035,50,-5,A,NULL,station,User
+10053,Beverly Farms Station,Beverly,United States,NULL,NULL,42.561403,-70.812745,50,-5,A,NULL,station,User
+10054,Manchester by the Sea Station,Manchester by the Sea,United States,NULL,NULL,42.57357,-70.770473,50,-5,A,NULL,station,User
+10055,West Gloucester Station,Gloucester,United States,NULL,NULL,42.611933,-70.705417,50,-5,A,NULL,station,User
+10056,Gloucester Station,Gloucester,United States,NULL,NULL,42.616157,-70.668953,50,-5,A,NULL,station,User
+10063,Fordham Station,New York,United States,NULL,NULL,40.8615,-73.89058,50,-5,A,NULL,station,User
+10064,Greenwich Station,Greenwich,United States,NULL,NULL,41.021277,-73.624621,50,-5,A,NULL,station,User
+10067,New Haven State Street Station,New Haven,United States,NULL,NULL,41.304908,-72.921672,50,-5,A,NULL,station,User
+10068,Albany-Rennselaer Amtrak Station,Rennselaer,United States,ZLY,NULL,42.6408,-73.7419,22,-5,A,NULL,station,User
+10070,Port Jefferson Station,Port Jefferson,United States,NULL,NULL,40.93454,-73.0525,50,-5,A,NULL,station,User
+10071,Stony Brook Station,Stony Brook,United States,NULL,NULL,40.92031,-73.12855,50,-5,A,NULL,station,User
+10072,St. James Station,St. James,United States,NULL,NULL,40.88216,-73.15951,50,-5,A,NULL,station,User
+10073,Smithtown Station,Smithtown,United States,NULL,NULL,40.85654,-73.19803,50,-5,A,NULL,station,User
+10074,Kings Park Station,Kings Park,United States,NULL,NULL,40.88366,-73.25625,50,-5,A,NULL,station,User
+10075,Northport Station,East Northport,United States,NULL,NULL,40.88064,-73.32848,50,-5,A,NULL,station,User
+10076,Greenlawn Station,Greenlawn,United States,NULL,NULL,40.86866,-73.36285,50,-5,A,NULL,station,User
+10077,Huntington NY Station,Huntington,United States,NULL,NULL,40.853,-73.40952,50,-5,A,NULL,station,User
+10081,Cold Spring Harbor Station,Cold Spring Harbor,United States,NULL,NULL,40.83563,-73.45108,50,-5,A,NULL,station,User
+10082,Syosset Station,Syosset,United States,NULL,NULL,40.82485,-73.50044,50,-5,A,NULL,station,User
+10083,Westbury Station,Westbury,United States,NULL,NULL,40.75345,-73.58586,50,-5,A,NULL,station,User
+10084,Carle Place Station,Carle Place,United States,NULL,NULL,40.7492,-73.60365,50,-5,A,NULL,station,User
+10085,Mineola Station,Mineola,United States,NULL,NULL,40.740114,-73.641032,50,-5,A,NULL,station,User
+10086,Merillon Avenue Station,Garden City,United States,NULL,NULL,40.73516,-73.66252,50,-5,A,NULL,station,User
+10087,New Hyde Park Station,New Hyde Park,United States,NULL,NULL,40.73075,-73.68096,50,-5,A,NULL,station,User
+10097,Homewood Station,Homewood,United States,NULL,NULL,41.562241,-87.668474,659,-6,A,NULL,station,User
+10098,Kankakee Station,Kankakee,United States,NULL,NULL,41.119259,-87.86543,656,-6,A,NULL,station,User
+10099,Gilman Station,Gilman,United States,NULL,NULL,40.752547,-87.998055,663,-6,A,NULL,station,User
+10100,Rantoul Station,Rantoul,United States,NULL,NULL,40.310905,-88.159126,745,-6,A,NULL,station,User
+10111,Oshawa Station,Oshawa,Canada,NULL,NULL,43.870975,-78.884797,348,-5,A,NULL,station,User
+10112,Coburg Station,Coburg,Canada,NULL,NULL,43.9684,-78.1696,269,-5,A,NULL,station,User
+10113,Fallowfield Station,Ottawa,Canada,NULL,NULL,45.299277,-75.736578,230,-5,A,NULL,station,User
+10126,Manchester Picadilly Station,Manchester,United Kingdom,QQM,NULL,53.4769,-2.2291,167,0,E,NULL,station,User
+10180,Durham Amtrak Station,Durham,United States,NULL,NULL,35.9981,-78.9061,404,-4,A,NULL,station,User
+10190,Taiwan High Speed Rail Station,Hsinchu,Taiwan,NULL,NULL,24.8084,121.0404,180,8,N,NULL,station,User
+10191,High Speed Rail Station,Tainan,Taiwan,NULL,NULL,22.9523,120.2857,70,8,N,NULL,station,User
+10197,Taiwan High Speed Rail Station,Taichung,Taiwan,NULL,NULL,24.1117,120.6159,96,8,U,NULL,station,User
+10198,Taiwan High Speed Rail Station,Chiayi,Taiwan,NULL,NULL,23.4591,120.3237,46,8,U,NULL,station,User
+10199,Hsinchu Station,Hsinchu,Taiwan,NULL,NULL,24.802,120.9718,85,8,U,NULL,station,User
+10200,Phaya Thai Station,Bangkok,Thailand,NULL,NULL,13.7569,100.5338,37,7,U,NULL,station,User
+10202,Johannesburg Park Station,Johannesburg,South Africa,NULL,NULL,-26.1972,28.0419,5720,2,U,NULL,station,User
+10203,Bryan Station,Bryan,United States,NULL,NULL,41.480319,-84.551799,768,-5,A,NULL,station,User
+10204,Seoul Station,Seoul,South Korea,NULL,NULL,37.5531,126.9726,106,9,U,NULL,station,User
+10205,Tianjin Railway Station,Tianjin,China,NULL,NULL,39.1347,117.203,33,8,U,NULL,station,User
+10206,Tianjin South Railway Station,Tianjin,China,NULL,NULL,39.0558,117.055,7,8,U,NULL,station,User
+10207,Tianjin West Railway Station,Tianjin,China,NULL,NULL,39.1572,117.1611,23,8,U,NULL,station,User
+10208,Dongzhimen Station,Beijing,China,NULL,NULL,39.9416,116.4354,163,8,U,NULL,station,User
+10210,Kanpur Central Railway Station,Kanpur,India,NULL,NULL,26.4554,80.3289,430,5.5,U,NULL,station,User
+10211,Lucknow NR Railway Station,Lucknow,India,NULL,NULL,26.832,80.919,408,5.5,U,NULL,station,User
+10212,Varanasi Junction Railway Station,Varanasi,India,NULL,NULL,25.3269,82.9863,269,5.5,U,NULL,station,User
+10213,Gaya Junction Railway Station,Gaya,India,NULL,NULL,24.80423,84.999629,386,5.5,U,NULL,station,User
+10214,Sealdah Railway Station,Kolkata,India,NULL,NULL,22.5674,88.3708,29,5.5,U,NULL,station,User
+10215,Mumbai Central Railway Station,Mumbai,India,NULL,NULL,18.9697,72.8194,19,5.5,U,NULL,station,User
+10216,Bangalore City Railway Station,Bangalore,India,NULL,NULL,12.9783,77.5694,2976,5.5,U,NULL,station,User
+10217,Luz Station,Sao Paulo,Brazil,NULL,NULL,-23.535,-46.6352,2462,-3,S,NULL,station,User
+10218,Wien Hauptbahnhof,Vienna,Austria,NULL,NULL,48.185,16.377,674,1,E,NULL,station,User
+10221,Guilin Railway Station,Guilin,China,NULL,NULL,25.2636,110.2777,500,8,U,NULL,station,User
+10224,Potsdam Hauptbahnhof,Potsdam,Germany,NULL,NULL,52.391667,13.066667,119,1,E,NULL,station,User
+10225,Oak Park Station,Oak Park,United States,NULL,NULL,41.8869444,-87.8011111,620,-6,A,NULL,station,User
+10226,River Forest Station,River Forest,United States,NULL,NULL,41.8869444,-87.825,627,-6,A,NULL,station,User
+10227,Brandenburg Hbf,Brandenburg,Germany,NULL,NULL,52.4005,12.566,107,1,E,NULL,station,User
+10228,Magdeburg Hbf,Magdeburg,Germany,NULL,NULL,52.1305,11.6275,176,1,E,NULL,station,User
+10229,Dessau Hauptbahnhof,Dessau,Germany,NULL,NULL,51.84,12.235,203,1,E,NULL,station,User
+10232,Melrose Park Station,Melrose Park,United States,NULL,NULL,41.8902778,-87.8555556,630,-6,A,NULL,station,User
+10233,Bellwood Station,Bellwood,United States,NULL,NULL,41.8913889,-87.8825,630,-6,A,NULL,station,User
+10234,Berkeley METRA Station,Berkeley,United States,NULL,NULL,41.8961111,-87.9152778,670,-6,A,NULL,station,User
+10235,Elmhurst Station,Elmhurst,United States,NULL,NULL,41.8997222,-87.9408333,674,-6,A,NULL,station,User
+10236,Villa Park Station,Villa Park,United States,NULL,NULL,41.8963889,-87.9775,700,-6,A,NULL,station,User
+10237,Lombard Station,Lombard,United States,NULL,NULL,41.8859513,-88.0194586,720,-6,A,NULL,station,User
+10238,Glen Ellyn Station,Glen Ellyn,United States,NULL,NULL,41.8766667,-88.0647222,780,-6,A,NULL,station,User
+10239,College Avenue Station,Wheaton,United States,NULL,NULL,41.8678805,-88.0902999,748,-6,A,NULL,station,User
+10240,Wheaton Station,Wheaton,United States,NULL,NULL,41.8644444,-88.1119444,748,-6,A,NULL,station,User
+10241,Winfield Station,Winfield,United States,NULL,NULL,41.87,-88.1569444,771,-6,A,NULL,station,User
+10242,West Chicago Station,West Chicago,United States,NULL,NULL,41.8811111,-88.1988889,759,-6,A,NULL,station,User
+10243,Geneva Station,Geneva,United States,NULL,NULL,41.8817393,-88.3093928,725,-6,A,NULL,station,User
+10244,Milwaukee Intermodal Station,Milwaukee,United States,NULL,NULL,43.034328,-87.917414,590,-6,A,NULL,station,User
+10245,Pennsylvania Railroad Station,Fort Wayne,United States,NULL,NULL,41.072222,-85.140556,779,-5,A,NULL,station,User
+10246,Helsinki Central Railway Station,Helsinki,Finland,HEC,NULL,60.171944,24.941389,28,2,E,NULL,station,User
+10247,Nanjing South Railway Station,Nanjing,China,NKJ,NULL,31.970556,118.7925,48,8,U,NULL,station,User
+10248,Ashford International Railway Station,Ashford,United Kingdom,QDH,NULL,51.1436,0.87448,136,0,E,NULL,station,User
+10249,Lucerne Railway Station,Lucerne,Switzerland,QLJ,NULL,47.048889,8.310556,1433,1,E,NULL,station,User
+10250,Doncaster Railway Station,Doncaster,United Kingdom,NULL,NULL,53.5225,-1.1395,54,0,E,NULL,station,User
+10251,Leipzig Hauptbahnhof,Leipzig,Germany,XIT,NULL,51.345278,12.382222,395,1,E,NULL,station,User
+10252,Niagara Falls Station,Niagara Falls,Canada,XLV,NULL,43.1088,-79.0634,578,-5,A,NULL,station,User
+10253,Ebbsfleet International Railway Station,Ebbsfleet Valley,United Kingdom,XQE,NULL,51.443039,0.320883,43,0,E,NULL,station,User
+10254,Stratford International Station,London,United Kingdom,NULL,NULL,51.5448,-0.0086,18,0,E,NULL,station,User
+10255,Clybourn Station,Chicago,United States,NULL,NULL,41.9169417,-87.6680534,574,-6,A,NULL,station,User
+10256,Ravenswood Station,Chicago,United States,NULL,NULL,41.9687062,-87.674337,574,-6,A,NULL,station,User
+10257,Rogers Park Station,Chicago,United States,NULL,NULL,42.009125,-87.6754054,574,-6,A,NULL,station,User
+10258,Evanston Main Street Station,Evanston,United States,NULL,NULL,42.0333333,-87.68,600,-6,A,NULL,station,User
+10259,Badu Station,Keelung,Taiwan,NULL,NULL,25.108242,121.728917,102,8,U,NULL,station,User
+10260,Keelung Station,Keelung,Taiwan,NULL,NULL,25.1325,121.739444,27,8,U,NULL,station,User
+10261,Yilan Station,Yilan,Taiwan,NULL,NULL,24.7546,121.758133,37,8,U,NULL,station,User
+10262,Ruifang Station,Ruifang,Taiwan,NULL,NULL,25.109,121.805972,199,8,U,NULL,station,User
+10263,Taoyuan Station,Taoyuan,Taiwan,NULL,NULL,24.989533,121.31335,342,8,U,NULL,station,User
+10264,Zhongli Station,Taoyuan,Taiwan,NULL,NULL,24.95375,121.22575,457,8,U,NULL,station,User
+10265,Zhunan Station,Zhunan,Taiwan,NULL,NULL,24.68675,120.88075,31,8,U,NULL,station,User
+10266,Miaoli Station,Miaoli,Taiwan,NULL,NULL,24.5699,120.822444,160,8,U,NULL,station,User
+10267,Fengyuan Station,Fengyuan,Taiwan,NULL,NULL,24.254389,120.723444,730,8,U,NULL,station,User
+10268,Changhua Station,Changhua,Taiwan,NULL,NULL,24.0815,120.538333,58,8,U,NULL,station,User
+10269,Yuanlin Station,Yuanlin,Taiwan,NULL,NULL,23.959556,120.569722,99,8,U,NULL,station,User
+10270,Douliu Station,Douliu,Taiwan,NULL,NULL,23.711917,120.541194,181,8,U,NULL,station,User
+10271,Dounan Station,Dounan,Taiwan,NULL,NULL,23.673389,120.480639,124,8,U,NULL,station,User
+10272,Jingtong Station,Jingtong,Taiwan,NULL,NULL,25.023889,121.723333,809,8,U,NULL,station,User
+10273,Jiufen Bus Station,Jiufen,Taiwan,NULL,NULL,25.1093,121.8426,800,8,U,NULL,station,User
+10274,Tamsui Station,Taipei,Taiwan,NULL,NULL,25.168053,121.445194,29,8,U,NULL,station,User
+10275,Luodong Station,Luodong,Taiwan,NULL,NULL,24.677933,121.774367,36,8,U,NULL,station,User
+10276,Su'ao Station,Su'ao,Taiwan,NULL,NULL,24.595317,121.8513,35,8,U,NULL,station,User
+10277,Yingge Station,Yingge,Taiwan,NULL,NULL,24.954,121.355,181,8,U,NULL,station,User
+10278,Banqiao Station,Banqiao,Taiwan,NULL,NULL,25.014281,121.463675,59,8,U,NULL,station,User
+10279,Shatin Station,Hong Kong,Hong Kong,NULL,NULL,22.383,114.1879,74,8,U,NULL,station,User
+10280,Aberdeen Station,Hong Kong,Hong Kong,NULL,NULL,22.2446,114.159,10,8,U,NULL,station,User
+10284,Tsing Yi Station,Hong Kong,Hong Kong,NULL,NULL,22.3584,114.107,224,8,U,NULL,station,User
+10285,Olympic Station,Hong Kong,Hong Kong,NULL,NULL,22.3178,114.1602,62,8,U,NULL,station,User
+10286,Tung Chung Station,Hong Kong,Hong Kong,NULL,NULL,22.2893,113.9416,43,8,U,NULL,station,User
+10287,Futian Railway Station,Shenzhen,China,NULL,NULL,22.538333,114.056667,38,8,U,NULL,station,User
+10288,Marlboro Gautrain Station,Johannesburg,South Africa,NULL,NULL,-26.0835,28.111,4908,2,U,NULL,station,User
+10289,Barajas Station,Madrid,Spain,NULL,NULL,40.4755,-3.58281,2062,1,E,NULL,station,User
+10290,Sant Cugat Station,Sant Cugat del Valles,Spain,NULL,NULL,41.4679,2.07813,430,1,E,NULL,station,User
+10293,Daly City BART Station,Daly City,United States,NULL,NULL,37.706224,-122.468934,265,-8,A,NULL,station,User
+10297,Richmond Valley Staten Island Railway Station,New York,United States,NULL,NULL,40.5196,-74.2293,11,-5,A,NULL,station,User
+10298,Grasmere Staten Island Railway Station,New York,United States,NULL,NULL,40.60347,-74.08378,89,-5,A,NULL,station,User
+10299,Bay Ridge 95th Street Station,New York,United States,NULL,NULL,40.615667,-74.031361,66,-5,A,NULL,station,User
+10300,Parkchester Station,New York,United States,NULL,NULL,40.833333,-73.860972,12,-5,A,NULL,station,User
+10301,George Washington Bridge Bus Station,New York,United States,NULL,NULL,40.848889,-73.938333,188,-5,A,NULL,station,User
+10302,Providence Station,Providence,United States,ZRV,NULL,41.829087,-71.41325,36,-5,A,NULL,station,User
+10303,Attleboro MBTA Station,Attleboro,United States,NULL,NULL,41.9413,-71.2849,124,-5,A,NULL,station,User
+10304,North Falmouth Railroad Station,North Falmouth,United States,NULL,NULL,41.648058,-70.613736,40,-5,A,NULL,station,User
+10305,Woods Hole Railroad Station,Woods Hole,United States,NULL,NULL,41.522894,-70.669164,2,-5,A,NULL,station,User
+10306,Buzzards Bay Train Station,Buzzards Bay,United States,NULL,NULL,41.745,-70.615833,8,-5,A,NULL,station,User
+10307,Old Saybrook Amtrak Station,Old Saybrook,United States,NULL,NULL,41.3004,-72.377,35,-5,A,NULL,station,User
+10308,Schenectady Amtrak Station,Schenectady,United States,ZTD,NULL,42.8146,-73.9428,248,-5,A,NULL,station,User
+10309,Danyang Railway Station,Danyang,China,DYN,NULL,32.003333,119.5875,30,8,U,NULL,station,User
+10310,Tikkurila Railway Station,Helsinki,Finland,HVT,NULL,60.293889,25.045,92,2,E,NULL,station,User
+10312,Sundsvall Railway Station,Sundsvall,Sweden,XXZ,NULL,62.3867,17.316,27,1,E,NULL,station,User
+10313,Haparanda Railway Station,Haparanda,Sweden,NULL,NULL,65.828,24.131,33,1,E,NULL,station,User
+10314,Tornio Railway Station,Tornio,Finland,NULL,NULL,65.851,24.182,33,2,E,NULL,station,User
+10315,Kemi Railway Station,Kemi,Finland,NULL,NULL,65.737227,24.573798,25,2,E,NULL,station,User
+10316,Oulu Railway Station,Oulu,Finland,NULL,NULL,65.011389,25.483889,38,2,E,NULL,station,User
+10321,Hangzhou East Railway Station,Hangzhou,China,NULL,NULL,30.2932,120.208,40,8,U,NULL,station,User
+10325,Egerkingen Bahnhof,Egerkingen,Switzerland,NULL,NULL,47.3149,7.7989,1432,1,E,NULL,station,User
+10326,Pratteln Bahnhof,Pratteln,Switzerland,NULL,NULL,47.5226,7.692,949,1,E,NULL,station,User
+10327,Aarburg-Oftringen Bahnhof,Aarburg-Oftringen,Switzerland,NULL,NULL,47.320321,7.908181,1366,1,E,NULL,station,User
+10328,Amersfoort Railway Station,Amersfoort,Netherlands,NULL,NULL,52.153889,5.374167,25,1,E,NULL,station,User
+10329,Apeldoorn Railway Station,Apeldoorn,Netherlands,NULL,NULL,52.209167,5.969444,56,1,E,NULL,station,User
+10330,Deventer Railway Station,Deventer,Netherlands,NULL,NULL,52.257222,6.160833,30,1,E,NULL,station,User
+10331,Almelo Railway Station,Almelo,Netherlands,NULL,NULL,52.357222,6.655,37,1,E,NULL,station,User
+10332,Hengelo Railway Station,Hengelo,Netherlands,NULL,NULL,52.261944,6.794167,66,1,E,NULL,station,User
+10333,Rheine Railway Station,Rheine,Germany,NULL,NULL,52.275556,7.435,131,1,E,NULL,station,User
+10334,Hilversum Railway Station,Hilversum,Netherlands,NULL,NULL,52.226944,5.180556,24,1,E,NULL,station,User
+10340,Zwijndrecht Railway Station,Zwijndrecht,Netherlands,NULL,NULL,51.814722,4.642222,8,1,E,NULL,station,User
+10341,Roosendaal Railway Station,Roosendaal,Netherlands,NULL,NULL,51.540278,4.458889,16,1,E,NULL,station,User
+10343,Mechelen Railway Station,Mechelen,Belgium,NULL,NULL,51.0175,4.483611,42,1,E,NULL,station,User
+10345,Puhinui Railway Station,Auckland,New Zealand,NULL,NULL,-36.9897,174.8561,66,12,Z,NULL,station,User
+10347,Hamburg-Bergedorf Station,Hamburg,Germany,NULL,NULL,53.489444,10.206389,30,1,E,NULL,station,User
+10348,Schwarzenbek Bahnhof,Schwarzenbek,Germany,NULL,NULL,53.5037,10.485,129,1,E,NULL,station,User
+10349,Buchen Bahnhof,Buchen,Germany,NULL,NULL,53.47545,10.6228,62,1,E,NULL,station,User
+10350,Schwanheide Bahnhof,Schwanheide,Germany,NULL,NULL,53.428,10.69,56,1,E,NULL,station,User
+10351,Boizenburg Bahnhof,Boizenburg,Germany,NULL,NULL,53.378,10.7544,34,1,E,NULL,station,User
+10352,Hagenow Bahnhof,Hagenow,Germany,NULL,NULL,53.4135,11.2156,70,1,E,NULL,station,User
+10353,Ludwigslust Bahnhof,Ludwigslust,Germany,NULL,NULL,53.334444,11.494722,117,1,E,NULL,station,User
+10354,Wittenberge Bahnhof,Wittenberge,Germany,NULL,NULL,53.001944,11.762778,80,1,E,NULL,station,User
+10355,Neustadt Dosse Bahnhof,Neustadt,Germany,NULL,NULL,52.8531,12.4502,125,1,E,NULL,station,User
+10356,Falkensee Bahnhof,Falkensee,Germany,NULL,NULL,52.559722,13.088889,110,1,E,NULL,station,User
+10357,Spandau Bahnhof,Berlin,Germany,NULL,NULL,52.534722,13.195833,132,1,E,NULL,station,User
+10358,Nauen Bahnhof,Nauen,Germany,NULL,NULL,52.6124,12.8853,111,1,E,NULL,station,User
+10362,Ocean Beach Muni Metro Station,San Francisco,United States,NULL,NULL,37.760395,-122.508781,24,-8,A,NULL,station,User
+10364,Sunshine Railway Station,Melbourne,Australia,NULL,NULL,-37.7881,144.8325,132,10,O,NULL,station,User
+10365,Plaza de los Virreyes Station,Buenos Aires,Argentina,NULL,NULL,-34.64306,-58.461635,36,-3,U,NULL,station,User
+10366,Beusselstrasse Station,Berlin,Germany,NULL,NULL,52.534444,13.329444,125,1,E,NULL,station,User
+10367,Fulong Station,Fulong,Taiwan,NULL,NULL,25.015944,121.944861,61,8,U,NULL,station,User
+10368,Nan-ao Station,Nan-ao,Taiwan,NULL,NULL,24.463283,121.801417,84,8,U,NULL,station,User
+10369,Genthin Bahnhof,Genthin,Germany,NULL,NULL,52.4032,12.1565,113,1,E,NULL,station,User
+10377,Xinwuri Station,Taichung,Taiwan,NULL,NULL,24.109722,120.613333,92,8,U,NULL,station,User
+10380,Sopot Railway Station,Sopot,Poland,NULL,NULL,54.44,18.5625,51,1,E,NULL,station,User
+10381,Marlboro Gautrain Station,Johannesburg,South Africa,NULL,NULL,-26.083333,28.111675,4955,2,U,NULL,station,User
+10382,Ershui Station,Ershui,Taiwan,NULL,NULL,23.813194,120.618417,278,8,U,NULL,station,User
+10383,Tianzhong Station,Tianzhong,Taiwan,NULL,NULL,23.858528,120.591056,172,8,U,NULL,station,User
+10384,Houli Station,Houli,Taiwan,NULL,NULL,24.309389,120.732944,829,8,U,NULL,station,User
+10385,Sanyi Station,Sanyi,Taiwan,NULL,NULL,24.421422,120.774036,869,8,U,NULL,station,User
+10386,Tongluo Station,Tongluo,Taiwan,NULL,NULL,24.487031,120.786222,508,8,U,NULL,station,User
+10387,Shulin Station,Taipei,Taiwan,NULL,NULL,24.991478,121.425017,71,8,U,NULL,station,User
+10388,Banqiao Station,Taipei,Taiwan,NULL,NULL,25.014281,121.463675,58,8,U,NULL,station,User
+10389,Wanhua Station,Taipei,Taiwan,NULL,NULL,25.033333,121.500278,33,8,U,NULL,station,User
+10390,Hukou Station,Hukou,Taiwan,NULL,NULL,24.902889,121.044083,272,8,U,NULL,station,User
+10391,Yangmei Station,Yangmei,Taiwan,NULL,NULL,24.91425,121.145883,507,8,U,NULL,station,User
+10392,Chenggong Station,Taichung,Taiwan,NULL,NULL,24.114306,120.590583,102,8,U,NULL,station,User
+10393,Mets Willets Point Station,New York City,United States,NULL,NULL,40.754558,-73.845581,9,-5,A,NULL,station,User
+10394,BWI Rail Station,Baltimore,United States,NULL,NULL,39.192377,-76.694645,61,-5,A,NULL,station,User
+10395,Tysons Corner Station,Washington,United States,NULL,NULL,38.92063,-77.22193,427,-5,A,NULL,station,User
+10396,Erkner Bahnhof,Erkner,Germany,NULL,NULL,52.427318,13.752381,129,1,E,NULL,station,User
+10397,Pankow-Heinersdorf Bahnhof,Berlin,Germany,NULL,NULL,52.5783,13.4297,158,1,E,NULL,station,User
+10398,Hohenschonhausen Bahnhof,Berlin,Germany,NULL,NULL,52.566389,13.512222,188,1,E,NULL,station,User
+10399,Wuhlheide Bahnhof,Berlin,Germany,NULL,NULL,52.475645,13.523945,123,1,E,NULL,station,User
+10400,Blankenfelde Bahnhof,Berlin,Germany,NULL,NULL,52.3376,13.4158,140,1,E,NULL,station,User
+10401,Bad Belzig Bahnhof,Bad Belzig,Germany,NULL,NULL,52.136145,12.595161,329,1,E,NULL,station,User
+10402,Cottbuser Bahnhof,Grossenhain,Germany,NULL,NULL,51.291389,13.523611,402,1,E,NULL,station,User
+10403,Pirna Bahnhof,Pirna,Germany,NULL,NULL,50.962222,13.928611,381,1,E,NULL,station,User
+10409,Neustadt Bahnhof,Dresden,Germany,NULL,NULL,51.065556,13.740833,388,1,E,NULL,station,User
+10410,Furstenwalde Bahnhof,Furstenwalde,Germany,NULL,NULL,52.367042,14.058966,135,1,E,NULL,station,User
+10414,Dunbar Railway Station,Dunbar,United Kingdom,NULL,NULL,55.9985,-2.5145,57,0,E,NULL,station,User
+10415,Berwick-upon-Tweed Railway Station,Berwick-upon-Tweed,United Kingdom,NULL,NULL,55.775,-2.011,121,0,E,NULL,station,User
+10416,Chathill Railway Station,Chathill,United Kingdom,NULL,NULL,55.537,-1.706,104,0,E,NULL,station,User
+10417,Motherwell Railway Station,Motherwell,United Kingdom,NULL,NULL,55.79157,-3.994208,273,0,E,NULL,station,User
+10418,Wishaw Railway Station,Wishaw,United Kingdom,NULL,NULL,55.7721,-3.9261,415,0,E,NULL,station,User
+10419,Carluke Railway Station,Carluke,United Kingdom,NULL,NULL,55.73115,-3.8489,580,0,E,NULL,station,User
+10420,Haymarket Railway Station,Edinburgh,United Kingdom,NULL,NULL,55.9453,-3.2187,192,0,E,NULL,station,User
+10421,Carstairs Railway Station,Carstairs,United Kingdom,NULL,NULL,55.6913,-3.6692,665,0,E,NULL,station,User
+10422,Musselburgh Railway Station,Musselburgh,United Kingdom,NULL,NULL,55.9335,-3.0725,98,0,E,NULL,station,User
+10423,Wallyford Railway Station,Wallyford,United Kingdom,NULL,NULL,55.9405,-3.0147,95,0,E,NULL,station,User
+10424,Prestonpans Railway Station,Prestonpans,United Kingdom,NULL,NULL,55.9529,-2.975,103,0,E,NULL,station,User
+10425,Longniddry Railway Station,Longniddry,United Kingdom,NULL,NULL,55.9763,-2.8884,101,0,E,NULL,station,User
+10426,Drem Railway Station,Drem,United Kingdom,NULL,NULL,56.0051,-2.7854,90,0,E,NULL,station,User
+10427,North Berwick Railway Station,North Berwick,United Kingdom,NULL,NULL,56.0566,-2.731,78,0,E,NULL,station,User
+10428,Alnmouth Railway station,Alnmouth,United Kingdom,NULL,NULL,55.392,-1.636,120,0,E,NULL,station,User
+10429,Acklington Railway Station,Acklington,United Kingdom,NULL,NULL,55.307,-1.652,137,0,E,NULL,station,User
+10430,Widdrington Railway Station,Widdrington,United Kingdom,NULL,NULL,55.241,-1.616,155,0,E,NULL,station,User
+10431,Pegswood Railway Station,Pegswood,United Kingdom,NULL,NULL,55.178,-1.644,183,0,E,NULL,station,User
+10432,Morpeth Railway Station,Morpeth,United Kingdom,NULL,NULL,55.1622,-1.6829,177,0,E,NULL,station,User
+10433,Cramlington Railway Station,Cramlington,United Kingdom,NULL,NULL,55.088,-1.599,237,0,E,NULL,station,User
+10434,Manors Railway Station,Newcastle Upon Tyne,United Kingdom,NULL,NULL,54.973,-1.605,111,0,E,NULL,station,User
+10435,Chester-le-Street Railway Station,Chester-le-Street,United Kingdom,NULL,NULL,54.855,-1.578,119,0,E,NULL,station,User
+10436,Durham Railway Station,Durham,United Kingdom,NULL,NULL,54.7798,-1.5815,238,0,E,NULL,station,User
+10437,Darlington Railway Station,Darlington,United Kingdom,NULL,NULL,54.5209,-1.5464,170,0,E,NULL,station,User
+10438,Northallerton Railway Station,Northallerton,United Kingdom,NULL,NULL,54.3327,-1.4415,140,0,E,NULL,station,User
+10439,Thirsk Railway Station,Thirsk,United Kingdom,NULL,NULL,54.22824,-1.37262,108,0,E,NULL,station,User
+10440,Retford Railway Station,Retford,United Kingdom,NULL,NULL,53.315,-0.948,71,0,E,NULL,station,User
+10441,North Gate Railway Station,Newark,United Kingdom,NULL,NULL,53.081,-0.799,46,0,E,NULL,station,User
+10442,Grantham Railway Station,Grantham,United Kingdom,NULL,NULL,52.906,-0.642,213,0,E,NULL,station,User
+10443,Huntingdon Railway Station,Huntingdon,United Kingdom,NULL,NULL,52.329,-0.192,72,0,E,NULL,station,User
+10444,St. Neots Railway Station,St. Neots,United Kingdom,NULL,NULL,52.232,-0.247,100,0,E,NULL,station,User
+10445,Sandy Railway Station,Sandy,United Kingdom,NULL,NULL,52.125,-0.281,109,0,E,NULL,station,User
+10446,Biggleswade Railway Station,Biggleswade,United Kingdom,NULL,NULL,52.085,-0.261,110,0,E,NULL,station,User
+10447,Arlesey Railway Station,Arlesey,United Kingdom,NULL,NULL,52.026,-0.266,124,0,E,NULL,station,User
+10448,Hitchin Railway Station,Hitchin,United Kingdom,NULL,NULL,51.953,-0.263,236,0,E,NULL,station,User
+10449,Knebworth Railway Station,Knebworth,United Kingdom,NULL,NULL,51.867,-0.187,380,0,E,NULL,station,User
+10450,Welwyn North Railway Station,Welwyn,United Kingdom,NULL,NULL,51.824,-0.192,267,0,E,NULL,station,User
+10451,Welwyn Garden City Railway Station,Welwyn Garden City,United Kingdom,NULL,NULL,51.801,-0.204,267,0,E,NULL,station,User
+10452,Hatfield Railway Station,Hatfield,United Kingdom,NULL,NULL,51.764,-0.216,346,0,E,NULL,station,User
+10453,Welham Green Railway Station,Welham Green,United Kingdom,NULL,NULL,51.736,-0.211,304,0,E,NULL,station,User
+10454,Brookmans Park Railway Station,Brookmans Park,United Kingdom,NULL,NULL,51.721,-0.205,302,0,E,NULL,station,User
+10455,Hadley Wood Railway Station,Hadley Wood,United Kingdom,NULL,NULL,51.6688,-0.1761,206,0,E,NULL,station,User
+10456,New Barnet Railway Station,Barnet,United Kingdom,NULL,NULL,51.6487,-0.1733,213,0,E,NULL,station,User
+10457,Oakleigh Park Railway Station,Oakleigh Park,United Kingdom,NULL,NULL,51.6379,-0.1667,250,0,E,NULL,station,User
+10458,New Southgate Railway Station,Enfield,United Kingdom,NULL,NULL,51.6142,-0.1432,192,0,E,NULL,station,User
+10459,Alexandra Palace Railway Station,Haringey,United Kingdom,NULL,NULL,51.5983,-0.1197,143,0,E,NULL,station,User
+10460,Hornsey Railway Station,Haringey,United Kingdom,NULL,NULL,51.5862,-0.1116,120,0,E,NULL,station,User
+10461,Harringay Railway Station,Harringay,United Kingdom,NULL,NULL,51.577,-0.1052,170,0,E,NULL,station,User
+10462,Ealing Broadway Station,Ealing,United Kingdom,NULL,NULL,51.5147,-0.3017,121,0,E,NULL,station,User
+10463,West Ealing Railway Station,West Ealing,United Kingdom,NULL,NULL,51.5137,-0.3203,122,0,E,NULL,station,User
+10464,Hanwell Railway Station,Hanwell,United Kingdom,NULL,NULL,51.5116,-0.3389,90,0,E,NULL,station,User
+10465,Southall Railway Station,Southall,United Kingdom,NULL,NULL,51.506,-0.3783,112,0,E,NULL,station,User
+10466,Hayes and Harlington Railway Station,Hayes,United Kingdom,NULL,NULL,51.503,-0.4201,115,0,E,NULL,station,User
+10467,Heathrow Junction Railway Station,Hillingdon,United Kingdom,NULL,NULL,51.5033,-0.4491,105,0,E,NULL,station,User
+10469,Dagenham Dock Railway Station,Dagenham,United Kingdom,NULL,NULL,51.52611,0.14638,10,0,E,NULL,station,User
+10470,Rainham Essex Railway Station,Rainham Essex,United Kingdom,NULL,NULL,51.5169,0.1905,11,0,E,NULL,station,User
+10471,63rd - CTA Station,Chicago,United States,NULL,NULL,41.780536,-87.630952,597,-6,A,NULL,station,User
+10474,Cumberland Amtrak Station,Cumberland,United States,NULL,NULL,39.6506,-78.7579,645,-5,A,NULL,station,User
+10475,Connellsville Amtrak Station,Connellsville,United States,NULL,NULL,40.020232,-79.592888,882,-5,A,NULL,station,User
+10477,Rocky Mount Amtrak Station,Rocky Mount,United States,NULL,NULL,35.93805,-77.79788,133,-5,A,NULL,station,User
+10478,Columbia Amtrak Station,Columbia,United States,NULL,NULL,33.994364,-81.040539,186,-5,A,NULL,station,User
+10479,Savannah Amtrak Station,Savannah,United States,NULL,NULL,32.083488,-81.148321,15,-5,A,NULL,station,User
+10480,Jacksonville Station,Jacksonville,United States,NULL,NULL,30.3661,-81.72339,19,-5,A,NULL,station,User
+10481,Union Station,Ocala,United States,NULL,NULL,29.191944,-82.135833,69,-5,A,NULL,station,User
+10483,Winter Haven Amtrak Station,Winter Haven,United States,NULL,NULL,28.002211,-81.734911,145,-5,A,NULL,station,User
+10484,Sebring Station,Sebring,United States,NULL,NULL,27.496111,-81.434722,140,-5,A,NULL,station,User
+10485,Okeechobee Amtrak Station,Okeechobee,United States,NULL,NULL,27.25178,-80.82991,29,-5,A,NULL,station,User
+10486,West Palm Beach Station,West Palm Beach,United States,NULL,NULL,26.712311,-80.062297,20,-5,A,NULL,station,User
+10487,Boynton Beach Station,Boynton Beach,United States,NULL,NULL,26.553865,-80.070644,23,-5,A,NULL,station,User
+10488,Sturtevant Amtrak Station,Sturtevant,United States,NULL,NULL,42.7183,-87.9062,738,-6,A,NULL,station,User
+10489,Battersea Park Railway Station,London,United Kingdom,NULL,NULL,51.4779,-0.1477,29,0,E,NULL,station,User
+10490,Clapham Junction Railway Station,London,United Kingdom,NULL,NULL,51.4646,-0.1705,34,0,E,NULL,station,User
+10491,Wandsworth Common Railway Station,London,United Kingdom,NULL,NULL,51.4464,-0.1635,96,0,E,NULL,station,User
+10492,Balham Station,London,United Kingdom,NULL,NULL,51.4426,-0.152,94,0,E,NULL,station,User
+10493,Streatham Common Railway Station,London,United Kingdom,NULL,NULL,51.4187,-0.1362,112,0,E,NULL,station,User
+10494,Norbury Railway Station,Croydon,United Kingdom,NULL,NULL,51.4114,-0.1214,123,0,E,NULL,station,User
+10495,Thornton Heath Railway Station,Croydon,United Kingdom,NULL,NULL,51.3985,-0.1004,166,0,E,NULL,station,User
+10496,Selhurst Railway Station,Croydon,United Kingdom,NULL,NULL,51.3921,-0.0883,164,0,E,NULL,station,User
+10497,East Croydon Station,Croydon,United Kingdom,NULL,NULL,51.3752,-0.0923,212,0,E,NULL,station,User
+10498,South Croydon Railway Station,Croydon,United Kingdom,NULL,NULL,51.3629,-0.0937,205,0,E,NULL,station,User
+10499,Purley Oaks Railway Station,Croydon,United Kingdom,NULL,NULL,51.3469,-0.0987,202,0,E,NULL,station,User
+10500,Purley Railway Station,Croydon,United Kingdom,NULL,NULL,51.3377,-0.1135,247,0,E,NULL,station,User
+10501,Coulsdon South Railway Station,Croydon,United Kingdom,NULL,NULL,51.3157,-0.138,334,0,E,NULL,station,User
+10502,Merstham Railway Station,Merstham,United Kingdom,NULL,NULL,51.264,-0.15,317,0,E,NULL,station,User
+10503,Redhill Railway Station,Redhill,United Kingdom,NULL,NULL,51.24022,-0.1659,272,0,E,NULL,station,User
+10504,Earlswood Railway Station,Earlswood,United Kingdom,NULL,NULL,51.227,-0.171,269,0,E,NULL,station,User
+10505,Salfords Railway Station,Salfords,United Kingdom,NULL,NULL,51.202,-0.162,225,0,E,NULL,station,User
+10506,Horley Railway Station,Horley,United Kingdom,NULL,NULL,51.169,-0.161,191,0,E,NULL,station,User
+10508,Acton Main Line Railway Station,London,United Kingdom,NULL,NULL,51.5171,-0.2668,99,0,E,NULL,station,User
+10509,Heathrow Central Railway Station,Hillingdon,United Kingdom,NULL,NULL,51.471,-0.454,85,0,E,NULL,station,User
+10511,Orlyval Sud Station,Orly,France,NULL,NULL,48.729025,2.369892,285,1,E,NULL,station,User
+10515,Aeroporto Railway Station,Malpensa,Italy,NULL,NULL,45.628056,8.711111,732,1,E,NULL,station,User
+10516,Aeroporto Railway Station,Fiumicino,Italy,NULL,NULL,41.794167,12.251111,13,1,E,NULL,station,User
+10519,Flughafen Wien Railway Station,Schwechat,Austria,NULL,NULL,48.120833,16.563056,598,1,E,NULL,station,User
+10520,Nyugati Railway Terminal,Budapest,Hungary,NULL,NULL,47.510833,19.0575,347,1,E,NULL,station,User
+10521,Ferihegy Railway Station,Ferihegy,Hungary,NULL,NULL,47.437444,19.223675,427,1,E,NULL,station,User
+10527,Schonefeld Flughafen Station,Schonefeld,Germany,NULL,NULL,52.391389,13.512778,153,1,E,NULL,station,User
+10529,Loughborough Station,Loughborough,United Kingdom,NULL,NULL,52.7667,-1.2,0,0,U,NULL,station,User
+10532,Hineno Station,Izumisano,Japan,NULL,NULL,34.3907,135.3311,123,9,U,NULL,station,User
+10533,Mikunigaoka Station,Sakai-ku,Japan,NULL,NULL,34.565264,135.492792,69,9,U,NULL,station,User
+10534,Tennoji Station,Osaka,Japan,NULL,NULL,34.647374,135.513908,49,9,U,NULL,station,User
+10535,Shin-Imamiya Station,Osaka,Japan,NULL,NULL,34.650167,135.500694,9,9,U,NULL,station,User
+10536,Imamiya Station,Osaka,Japan,NULL,NULL,34.654194,135.493056,5,9,U,NULL,station,User
+10537,Taisho Station,Osaka,Japan,NULL,NULL,34.665519,135.479975,2,9,U,NULL,station,User
+10538,Bentencho Station,Osaka,Japan,NULL,NULL,34.669083,135.462667,0,9,U,NULL,station,User
+10539,Nishikujo Station,Osaka,Japan,NULL,NULL,34.682664,135.466789,0,9,U,NULL,station,User
+10540,Osaka Station,Osaka,Japan,NULL,NULL,34.701908,135.494978,18,9,U,NULL,station,User
+10541,Yokohama Station,Yokohama,Japan,NULL,NULL,35.465444,139.622836,69,9,U,NULL,station,User
+10542,Shinagawa Station,Tokyo,Japan,NULL,NULL,35.628157,139.739099,10,9,U,NULL,station,User
+10543,Kawasaki Station,Kawasaki,Japan,NULL,NULL,35.531417,139.696939,47,9,U,NULL,station,User
+10547,Keiseinarita Station,Narita,Japan,NULL,NULL,35.7768,140.315556,110,9,U,NULL,station,User
+10548,Narita Station,Narita,Japan,NULL,NULL,35.777849,140.314084,102,9,U,NULL,station,User
+10549,Shisui Station,Shisui,Japan,NULL,NULL,35.731758,140.275336,26,9,U,NULL,station,User
+10551,Yotsukaido Station,Yotsukaido,Japan,NULL,NULL,35.662997,140.165553,104,9,U,NULL,station,User
+10552,Chiba Station,Chiba,Japan,NULL,NULL,35.613122,140.113192,22,9,U,NULL,station,User
+10553,Tsudanuma Station,Narashino,Japan,NULL,NULL,35.691221,140.020478,57,9,U,NULL,station,User
+10554,Nishi-Funabashi Station,Funabashi,Japan,NULL,NULL,35.707,139.959,9,9,U,NULL,station,User
+10555,Ichikawa Station,Ichikawa,Japan,NULL,NULL,35.729128,139.9077,14,9,U,NULL,station,User
+10556,Kameido Station,Tokyo,Japan,NULL,NULL,35.6977,139.8264,36,9,U,NULL,station,User
+10569,King Street-Old Town Station,Arlington,United States,NULL,NULL,38.806501,-77.06112,28,-5,A,NULL,station,User
+10571,Peachtree Center MARTA Station,Atlanta,United States,NULL,NULL,33.759677,-84.387548,1076,-5,A,NULL,station,User
+10572,Lenox MARTA Station,Atlanta,United States,NULL,NULL,33.847144,-84.35631,925,-5,A,NULL,station,User
+10587,Union Station,Indianapolis,United States,NULL,NULL,39.763056,-86.159444,708,-5,A,NULL,station,User
+10588,Albion Amtrak Station,Albion,United States,NULL,NULL,42.247222,-84.756111,946,-5,A,NULL,station,User
+10589,Racine North Shore Station,Racine,United States,NULL,NULL,42.72,-87.8168,648,-6,A,NULL,station,User
+10590,La Crosse Amtrak Station,La Crosse,United States,NULL,NULL,43.8334,-91.2472,648,-6,A,NULL,station,User
+10591,Wisconsin Dells Amtrak Station,Wisconsin Dells,United States,NULL,NULL,43.6266,-89.7775,907,-6,A,NULL,station,User
+10592,Portage Amtrak Station,Portage,United States,NULL,NULL,43.5471,-89.4677,815,-6,A,NULL,station,User
+10593,Richland Center Station,Richland Center,United States,NULL,NULL,43.3345,-90.3888,732,-6,A,NULL,station,User
+10594,SFO BART Station,Millbrae,United States,NULL,NULL,37.6159,-122.3926,7,-8,A,NULL,station,User
+10595,Embarcadero Station,San Francisco,United States,NULL,NULL,37.793056,-122.397222,9,-8,A,NULL,station,User
+10596,San Bruno BART Station,San Bruno,United States,NULL,NULL,37.6377,-122.4163,37,-8,A,NULL,station,User
+10597,Ashby BART Station,Berkeley,United States,NULL,NULL,37.853068,-122.269957,115,-8,A,NULL,station,User
+10601,St. Polten Hauptbahnhof,St. Polten,Austria,NULL,NULL,48.207982,15.6246869,876,1,E,NULL,station,User
+10602,Bahnhof Amstetten,Amstetten,Austria,NULL,NULL,48.1218065,14.8781579,902,1,E,NULL,station,User
+10603,Linz Hauptbahnhof,Linz,Austria,NULL,NULL,48.2905326,14.2910278,873,1,E,NULL,station,User
+10604,Wels Hauptbahnhof,Wels,Austria,NULL,NULL,48.166078,14.026569,1040,1,E,NULL,station,User
+10605,Bahnhof Attnang-Puchheim,Attnang-Puchheim,Austria,NULL,NULL,48.012188,13.7202228,1365,1,E,NULL,station,User
+10606,Innsbruck Hauptbahnhof,Innsbruck,Austria,NULL,NULL,47.2634415,11.4005285,1883,1,E,NULL,station,User
+10607,Bahnhof Bludenz,Bludenz,Austria,NULL,NULL,47.1551581,9.8147701,1929,1,E,NULL,station,User
+10608,Bahnhof Feldkirch,Feldkirch,Austria,NULL,NULL,47.2418335,9.6043434,1503,1,E,NULL,station,User
+10609,Buchs SG Bahnhof,Buchs SG,Switzerland,NULL,NULL,47.1680233,9.4782249,1470,1,E,NULL,station,User
+10610,Bahnhof Sargans,Sargans,Switzerland,NULL,NULL,47.0450403,9.4458964,1570,1,E,NULL,station,User
+10612,Yangcheng Lake Railway Station,Kunshan,China,NULL,NULL,31.381489,120.858426,10,8,U,NULL,station,User
+10613,Huaqiao Railway Station,Kunshan,China,NULL,NULL,31.3374,121.0417,8,8,U,NULL,station,User
+10614,Anting North Railway Station,Jiading,China,NULL,NULL,31.3163,121.154,9,8,U,NULL,station,User
+10615,Nanxiang North Railway Station,Jiading,China,NULL,NULL,31.2813,121.3089,10,8,U,NULL,station,User
+10616,Shanghai West Railway Station,Shanghai,China,NULL,NULL,31.2645,121.398,17,8,U,NULL,station,User
+10619,Songjiang South Railway Station,Shanghai,China,NULL,NULL,30.985,121.225833,13,8,U,NULL,station,User
+10620,Jinshan North Railway Station,Jinshan,China,NULL,NULL,30.896389,121.085,17,8,U,NULL,station,User
+10621,Jiashan South Railway Station,Jiashan,China,NULL,NULL,30.790278,120.931667,18,8,U,NULL,station,User
+10622,Jiaxing South Railway Station,Jiaxing,China,NULL,NULL,30.693056,120.795556,25,8,U,NULL,station,User
+10623,Tongxiang Railway Station,Tongxiang,China,NULL,NULL,30.539444,120.563611,23,8,U,NULL,station,User
+10624,Haining West Railway Station,Haining,China,NULL,NULL,30.440833,120.387222,35,8,U,NULL,station,User
+10625,Yuhang Railway Station,Hangzhou,China,NULL,NULL,30.383056,120.291667,28,8,U,NULL,station,User
+10626,Hangzhou South Railway Station,Hangzhou,China,NULL,NULL,30.174444,120.29,39,8,U,NULL,station,User
+10627,Suvarnabhumi Station,Bangkok,Thailand,NULL,NULL,13.6942,100.7511,7,7,U,NULL,station,User
+10628,Lat Krabang Station,Bangkok,Thailand,NULL,NULL,13.727891,100.748036,8,7,U,NULL,station,User
+10629,Ban Thap Chang Station,Bangkok,Thailand,NULL,NULL,13.732827,100.691469,11,7,U,NULL,station,User
+10630,Hua Mak Station,Bangkok,Thailand,NULL,NULL,13.7381,100.6455,15,8,U,NULL,station,User
+10631,Ramkhamhaeng Station,Bangkok,Thailand,NULL,NULL,13.742956,100.600314,13,7,U,NULL,station,User
+10633,Ratchaprarop Station,Bangkok,Thailand,NULL,NULL,13.7548,100.543,31,7,U,NULL,station,User
+10635,Rhodesfield Gautrain Station,Kempton Park,South Africa,NULL,NULL,-26.128294,28.225146,5550,2,U,NULL,station,User
+10636,Sandton Gautrain Station,Johannesburg,South Africa,NULL,NULL,-26.108322,28.056855,5333,2,U,NULL,station,User
+10637,Rosebank Gautrain Station,Johannesburg,South Africa,NULL,NULL,-26.146209,28.04452,5539,2,U,NULL,station,User
+10640,Mascot Railway Station,Mascot,Australia,NULL,NULL,-33.923,151.1877,26,10,O,NULL,station,User
+10641,Green Square Railway Station,Green Square,Australia,NULL,NULL,-33.9061,151.2026,51,10,O,NULL,station,User
+10642,Mangonia Park Station,Mangonia Park,United States,NULL,NULL,26.758383,-80.076459,20,-5,A,NULL,station,User
+10643,Lake Worth Station,Lake Worth,United States,NULL,NULL,26.616131,-80.069135,15,-5,A,NULL,station,User
+10644,Delray Beach Station,Delray Beach,United States,NULL,NULL,26.454215,-80.090934,20,-5,A,NULL,station,User
+10645,Boca Raton Station,Boca Raton,United States,NULL,NULL,26.392596,-80.099076,15,-5,A,NULL,station,User
+10646,New London Union Station,New London,United States,NULL,NULL,41.354167,-72.093056,0,-5,A,NULL,station,User
+10647,Howrah Junction Railway Station,Howrah,India,NULL,NULL,22.5818,88.3423,44,5.5,N,NULL,station,User
+10648,Asansol Railway Station,Asansol,India,NULL,NULL,23.69131,86.974792,372,5.5,N,NULL,station,User
+10649,Mughalsarai Junction Railway Station,Mughalsarai,India,NULL,NULL,25.2767,83.1173,271,5.5,N,NULL,station,User
+10650,Allahabad Junction Railway Station,Allahabad,India,NULL,NULL,25.446,81.8289,337,5.5,N,NULL,station,User
+10652,Delhi Aerocity Metro Station,Delhi,India,NULL,NULL,28.5491,77.1208,788,5.5,N,NULL,station,User
+10653,Dhaula Kuan Metro Station,Delhi,India,NULL,NULL,28.591868,77.161803,805,5.5,N,NULL,station,User
+10654,Shivaji Stadium Metro Station,Delhi,India,NULL,NULL,28.629008,77.211903,719,5.5,N,NULL,station,User
+10655,Santacruz Railway Station,Mumbai,India,NULL,NULL,19.081667,72.841389,34,5.5,N,NULL,station,User
+10657,Andheri Railway Station,Mumbai,India,NULL,NULL,19.119167,72.846944,59,5.5,N,NULL,station,User
+10658,Bandra Railway Station,Mumbai,India,NULL,NULL,19.054444,72.840556,20,5.5,N,NULL,station,User
+10659,Dadar Railway Station,Mumbai,India,NULL,NULL,19.0184,72.8432,36,5.5,N,NULL,station,User
+10660,Vadala Road Railway Station,Mumbai,India,NULL,NULL,19.016,72.8588,29,5.5,N,NULL,station,User
+10662,Bhabua Road Railway Station,Bhabua,India,NULL,NULL,25.173056,83.619337,263,5.5,N,NULL,station,User
+10663,Dehri-on-Sone Railway Station,Dehri,India,NULL,NULL,24.9151,84.1855,370,5.5,N,NULL,station,User
+10664,Koderma Railway Station,Koderma,India,NULL,NULL,24.435198,85.52791,1309,5.5,N,NULL,station,User
+10665,Parasnath Railway Station,Isri,India,NULL,NULL,23.985646,86.032769,879,5.5,N,NULL,station,User
+10666,Dhanbad Junction Railway Station,Dhanbad,India,NULL,NULL,23.790963,86.429802,774,5.5,N,NULL,station,User
+10667,Durgapur Railway Station,Durgapur,India,NULL,NULL,23.495186,87.317454,259,5.5,N,NULL,station,User
+10668,Barddhaman Junction Railway Station,Barddhaman,India,NULL,NULL,23.249828,87.869859,122,5.5,N,NULL,station,User
+10669,Hazrat Nizamuddin Railway Station,New Delhi,India,NULL,NULL,28.586387,77.248356,684,5.5,N,NULL,station,User
+10670,Faridabad Railway Station,Faridabad,India,NULL,NULL,28.411504,77.307493,678,5.5,N,NULL,station,User
+10671,Mathura Junction Railway Station,Mathura,India,NULL,NULL,27.478069,77.672224,593,5.5,N,NULL,station,User
+10672,Yamuna Bridge Railway Station,Etmaddoula,India,NULL,NULL,27.191963,78.038534,538,5.5,N,NULL,station,User
+10673,Tundla Junction Railway Station,Tundla,India,NULL,NULL,27.207804,78.233552,549,5.5,N,NULL,station,User
+10674,Firozabad Railway Station,Firozabad,India,NULL,NULL,27.147519,78.386889,540,5.5,N,NULL,station,User
+10675,Shikohabad Railway Station,Shikohabad,India,NULL,NULL,27.086175,78.575578,550,5.5,N,NULL,station,User
+10676,Etawah Railway Station,Etawah,India,NULL,NULL,26.786487,79.022302,506,5.5,N,NULL,station,User
+10677,Unnao Junction Railway Station,Unnao,India,NULL,NULL,26.535855,80.486289,423,5.5,N,NULL,station,User
+10679,Unseo Station,Incheon,South Korea,NULL,NULL,37.492778,126.493611,30,9,U,NULL,station,User
+10680,Cheongna International City Station,Incheon,South Korea,NULL,NULL,37.5552,126.6252,18,9,U,NULL,station,User
+10681,Geomam Station,Incheon,South Korea,NULL,NULL,37.569167,126.673611,25,9,U,NULL,station,User
+10682,Gyeyang Station,Incheon,South Korea,NULL,NULL,37.571389,126.736389,43,9,U,NULL,station,User
+10683,Magongnaru Station,Seoul,South Korea,NULL,NULL,37.567222,126.829444,37,9,U,NULL,station,User
+10684,Digital Media City Station,Seoul,South Korea,NULL,NULL,37.57654,126.90132,53,9,U,NULL,station,User
+10685,Hongik University Station,Seoul,South Korea,NULL,NULL,37.556667,126.923611,99,9,U,NULL,station,User
+10686,Gongdeok Station,Seoul,South Korea,NULL,NULL,37.543056,126.951111,82,9,U,NULL,station,User
+10687,Yizhuang Railway Station,Beijing,China,NULL,NULL,39.811944,116.596111,92,8,U,NULL,station,User
+10688,Yongle Railway Station,Yongle,China,NULL,NULL,39.652769,116.789003,47,8,U,NULL,station,User
+10689,Wuqing Railway Station,Wuqing,China,NULL,NULL,39.371044,117.009985,28,8,U,NULL,station,User
+10690,Huangcun Railway Station,Beijing,China,NULL,NULL,39.721944,116.326389,138,8,U,NULL,station,User
+10691,Fengtai Railway Station,Beijing,China,NULL,NULL,39.848333,116.288611,167,8,U,NULL,station,User
+10692,Langfang North Railway Station,Langfang,China,NULL,NULL,39.5087,116.703,50,8,U,NULL,station,User
+10693,Dongmajuanzhen Railway Station,Wuqing,China,NULL,NULL,39.439062,116.837807,35,8,U,NULL,station,User
+10694,Yangcun Railway Station,Wuqing,China,NULL,NULL,39.355125,117.064712,25,8,U,NULL,station,User
+10695,Tianjin North Railway Station,Tianjin,China,NULL,NULL,39.164915,117.204,23,8,U,NULL,station,User
+10702,Mount Eden Railway Station,Mount Eden,New Zealand,NULL,NULL,-36.86799,174.75898,246,12,Z,NULL,station,User
+10703,North Melbourne Railway Station,Melbourne,Australia,NULL,NULL,-37.8063,144.9411,39,10,O,NULL,station,User
+10704,South Kensington Railway Station,Kensington,Australia,NULL,NULL,-37.7997,144.9258,29,10,O,NULL,station,User
+10705,Footscray Railway Station,Footscray,Australia,NULL,NULL,-37.8016,144.9024,72,10,O,NULL,station,User
+10706,Middle Footscray Railway Station,Footscray,Australia,NULL,NULL,-37.8025,144.8915,83,10,O,NULL,station,User
+10707,West Footscray Railway Station,Footscray,Australia,NULL,NULL,-37.8018,144.8853,94,10,O,NULL,station,User
+10708,Tottenham Railway Station,Tottenham,Australia,NULL,NULL,-37.7993,144.8632,114,10,O,NULL,station,User
+10709,Albion Railway Station Melbourne,Melbourne,Australia,NULL,NULL,-37.7772,144.8244,146,10,O,NULL,station,User
+10710,Guangzhou East Railway Station,Guangzhou,China,NULL,NULL,23.153494,113.319747,78,8,U,NULL,station,User
+10711,Shenzhen East Railway Station,Shenzhen,China,NULL,NULL,22.603889,114.114444,87,8,U,NULL,station,User
+10714,Futian Checkpoint Station,Shenzhen,China,NULL,NULL,22.5182,114.065,17,8,U,NULL,station,User
+10715,Lok Ma Chau Station,Hong Kong,Hong Kong,NULL,NULL,22.5144,114.0657,17,8,U,NULL,station,User
+10716,Lo Wu Station,Hong Kong,Hong Kong,NULL,NULL,22.5283,114.1134,37,8,U,NULL,station,User
+10719,Tung Chung Station,Hong Kong,Hong Kong,NULL,NULL,22.2893,113.9416,100,8,U,NULL,station,User
+10720,Tanah Merah MRT Station,Singapore,Singapore,NULL,NULL,1.327358,103.946344,26,8,N,NULL,station,User
+10724,Qingsheng Station,Qingsheng,China,NULL,NULL,22.866,113.4909,0,8,U,NULL,station,User
+10725,Humen Railway Station,Dongguan,China,NULL,NULL,22.8603,113.6731,75,8,U,NULL,station,User
+10726,Guangmingcheng Station,Guangming,China,NULL,NULL,22.732979,113.9545,146,8,U,NULL,station,User
+10727,Capital Intl Terminal 2 Station,Beijing,China,NULL,NULL,40.079444,116.592778,168,8,U,NULL,station,User
+10728,Capital Intl Terminal 3 Station,Beijing,China,NULL,NULL,40.053575,116.615471,80,8,U,NULL,station,User
+10729,Sanyuanqiao Station,Beijing,China,NULL,NULL,39.96,116.451,144,8,U,NULL,station,User
+10730,Zhongguancun Station,Beijing,China,NULL,NULL,39.983056,116.310278,178,8,U,NULL,station,User
+10732,Hangjin Road Station,Shanghai,China,NULL,NULL,31.3372,121.59,12,8,U,NULL,station,User
+10733,Xujiahui Station,Shanghai,China,NULL,NULL,31.19454,121.4379,43,8,U,NULL,station,User
+10734,Hailun Road Station,Shanghai,China,NULL,NULL,31.2606,121.484,38,8,U,NULL,station,User
+10735,Binhaiguojijichang Station,Tianjin,China,NULL,NULL,39.129582,117.352735,11,8,U,NULL,station,User
+10738,Marina Bay MRT Station,Singapore,Singapore,NULL,NULL,1.276097,103.854675,15,8,N,NULL,station,User
+10739,Midway CTA Station,Chicago,United States,NULL,NULL,41.78661,-87.737875,606,-6,A,NULL,station,User
+10741,Eindhoven Station,Eindhoven,Netherlands,NULL,NULL,51.4433908,5.4791711,56,1,E,NULL,station,User
+10743,Simi Valley Train Station,Simi Valley,United States,NULL,NULL,34.270556,-118.694722,768,-8,A,NULL,station,User
+10754,Estacio Station,Rio de Janeiro,Brazil,NULL,NULL,-22.913506,-43.209869,39,-3,S,NULL,station,User
+10755,Wuzhou Avenue Station,Shanghai,China,NULL,NULL,31.3047,121.585,13,8,U,NULL,station,User
+10756,Waigaoqiao FTZ South Station,Shanghai,China,NULL,NULL,31.3236,121.598,22,8,U,NULL,station,User
+10757,Disney Resort Station,Shanghai,China,NULL,NULL,31.138,121.657,16,8,U,NULL,station,User
+10759,Target Field Metro Transit Station,Minneapolis,United States,NULL,NULL,44.983333,-93.277222,824,-6,A,NULL,station,User
+10760,Mall of America Metro Transit Station,Bloomington,United States,NULL,NULL,44.854167,-93.239,818,-6,A,NULL,station,User
+10761,Terminal 1 Lindbergh Metro Transit Station,Hennepin County,United States,NULL,NULL,44.8811,-93.2057,820,-6,A,NULL,station,User
+10762,Terminal 2 Humphrey Metro Transit Station,Hennepin County,United States,NULL,NULL,44.8742,-93.2241,829,-6,A,NULL,station,User
+10763,Ferno-Lonate Pozzolo Railway Station,Ferno,Italy,NULL,NULL,45.608611,8.755,696,1,E,NULL,station,User
+10764,Busto Arsizio Nord Railway Station,Busto Arsizio,Italy,NULL,NULL,45.606111,8.851389,728,1,E,NULL,station,User
+10765,Saronno Railway Station,Saronno,Italy,NULL,NULL,45.625,9.030833,698,1,E,NULL,station,User
+10766,Milano Bovisa-Politecnico Railway Station,Milan,Italy,NULL,NULL,45.5025,9.159167,438,1,E,NULL,station,User
+10767,Milano Lambrate Railway Station,Milan,Italy,NULL,NULL,45.485,9.236944,417,1,E,NULL,station,User
+10768,Milano Rogoredo Railway Station,Milan,Italy,NULL,NULL,45.433611,9.239167,355,1,E,NULL,station,User
+10769,Reggio Emilia AV Mediopadana Railway Station,Reggio Emilia,Italy,NULL,NULL,44.725278,10.655556,115,1,E,NULL,station,User
+10770,Campo di Marte Railway Station,Florence,Italy,NULL,NULL,43.7775,11.276389,171,1,E,NULL,station,User
+10771,Roma Tiburtina Railway Station,Rome,Italy,NULL,NULL,41.910278,12.530833,104,1,E,NULL,station,User
+10777,Bahnhof Zurich Oerlikon,Zurich,Switzerland,NULL,NULL,47.4114964,8.5441683,1328,1,E,NULL,station,User
+10779,Huangcun Railway Station,Beijing,China,NULL,NULL,39.721944,116.326389,136,8,U,NULL,station,User
+10780,Lichterfelde Ost station,Berlin,Germany,NULL,NULL,52.43,13.328889,162,1,E,NULL,station,User
+10781,Wunsdorf-Waldstadt Station,Wunsdorf,Germany,NULL,NULL,52.165556,13.467778,170,1,E,NULL,station,User
+10782,Doberlug-Kirchhain Station,Doberlug-Kirchhain,Germany,NULL,NULL,51.620556,13.564167,329,1,E,NULL,station,User
+10783,Kopenick Station,Berlin,Germany,NULL,NULL,52.458611,13.580833,137,1,E,NULL,station,User
+10784,Friedrichshagen Station,Berlin,Germany,NULL,NULL,52.4575,13.623333,112,1,E,NULL,station,User
+10785,Ostkreuz Station,Berlin,Germany,NULL,NULL,52.503056,13.468889,123,1,E,NULL,station,User
+10786,Treptower Park Station,Berlin,Germany,NULL,NULL,52.4938,13.4615,125,1,E,NULL,station,User
+10787,Planterwald Railway Station,Berlin,Germany,NULL,NULL,52.4786,13.4733,125,1,E,NULL,station,User
+10788,Adlershof Station,Berlin,Germany,NULL,NULL,52.4347,13.5414,125,1,E,NULL,station,User
+10789,Storkower Strasse Station,Berlin,Germany,NULL,NULL,52.523889,13.464444,179,1,E,NULL,station,User
+10790,Schonhauser Allee Station,Berlin,Germany,NULL,NULL,52.549444,13.413889,214,1,E,NULL,station,User
+10795,Neufahrn Station,Neufahrn bei Freising,Germany,NULL,NULL,48.321389,11.661111,1524,1,E,NULL,station,User
+10796,Oberschleissheim Station,Oberschleissheim,Germany,NULL,NULL,48.256861,11.557528,1583,1,E,NULL,station,User
+10797,Moosach Station,Munich,Germany,NULL,NULL,48.180278,11.507222,1672,1,E,NULL,station,User
+10798,Laim Station,Munich,Germany,NULL,NULL,48.144444,11.503333,1734,1,E,NULL,station,User
+10799,Marienplatz Station,Munich,Germany,NULL,NULL,48.137222,11.575278,1699,1,E,NULL,station,User
+10801,Como San Giovanni Railway Station,Como,Italy,NULL,COMO,45.808333,9.0722222,0,2,E,NULL,station,User
+10805,Frankfurt Stadion Station,Frankfurt,Germany,NULL,NULL,50.068056,8.633056,367,1,E,NULL,station,User
+10806,Frankfurt Niederrad Station,Frankfurt,Germany,NULL,NULL,50.080556,8.636944,329,1,E,NULL,station,User
+10807,Expo MRT Station,Singapore,Singapore,NULL,NULL,1.335469,103.961767,32,8,N,NULL,station,User
+10808,Boden Central Station,Boden,Sweden,NULL,NULL,65.828862,21.707605,33,1,E,NULL,station,User
+10809,Vihanti Railway Station,Vihanti,Finland,NULL,NULL,64.484583,24.993056,296,2,E,NULL,station,User
+10810,Oulainen Railway Station,Oulainen,Finland,NULL,NULL,64.26953,24.82128,226,2,E,NULL,station,User
+10811,Ylivieska Railway Station,Ylivieska,Finland,NULL,NULL,64.071944,24.54,185,2,E,NULL,station,User
+10812,Kokkola Railway Station,Kokkola,Finland,NULL,NULL,63.834722,23.131389,23,2,E,NULL,station,User
+10813,Seinajoki Railway Station,Seinajoki,Finland,NULL,NULL,62.791944,22.843611,143,2,E,NULL,station,User
+10814,Tampere Railway Station,Tampere,Finland,NULL,NULL,61.498472,23.773056,302,2,E,NULL,station,User
+10815,Toijala Railway Station,Akaa,Finland,NULL,NULL,61.170791,23.859987,291,2,E,NULL,station,User
+10816,Hameenlinna Railway Station,Hameenlinna,Finland,NULL,NULL,61.002222,24.478333,279,2,E,NULL,station,User
+10817,Riihimaki Railway Station,Riihimaki,Finland,NULL,NULL,60.735278,24.780833,296,2,E,NULL,station,User
+10818,Hyvinkaa Railway Station,Hyvinkaa,Finland,NULL,NULL,60.631389,24.857778,387,2,E,NULL,station,User
+10819,Jokela Railway Station,Tuusula,Finland,NULL,NULL,60.553056,24.970556,232,2,E,NULL,station,User
+10820,Saunakallio Railway Station, Jarvenpaa,Finland,NULL,NULL,60.4874,25.0656,205,2,E,NULL,station,User
+10821,Jarvenpaa Railway Station,Jarvenpaa,Finland,NULL,NULL,60.473889,25.090278,157,2,E,NULL,station,User
+10822,Kyrola Railway Station,Jarvenpaa,Finland,NULL,NULL,60.457,25.1016,149,2,E,NULL,station,User
+10823,Kerava Railway Station,Kerava,Finland,NULL,NULL,60.403333,25.105556,143,2,E,NULL,station,User
+10824,Savio Railway Station,Kerava,Finland,NULL,NULL,60.381389,25.097778,131,2,E,NULL,station,User
+10825,Korso Railway Station,Vantaa,Finland,NULL,NULL,60.350833,25.078056,146,2,E,NULL,station,User
+10826,Rekola Railway Station,Vantaa,Finland,NULL,NULL,60.332778,25.068333,115,2,E,NULL,station,User
+10827,Koivukyla Railway Station,Vantaa,Finland,NULL,NULL,60.323333,25.06,111,2,E,NULL,station,User
+10828,Hiekkaharju Railway Station,Vantaa,Finland,NULL,NULL,60.301944,25.048611,110,2,E,NULL,station,User
+10829,Tikkurila Railway Station,Vantaa,Finland,NULL,NULL,60.293889,25.045,89,2,E,NULL,station,User
+10832,Chur railway station,Chur,Switzerland,NULL,CHUR,46.853056,9.529167,1916,2,E,NULL,station,User
+10833,Tirano Rhaetian Railway station,Tirano,Italy,NULL,TIRA,46.215806,10.166611,1407,2,E,NULL,station,User
+10839,Maibara Station,Maibara,Japan,NULL,NULL,35.314181,136.290489,297,9,N,NULL,station,User
+10840,Gifu-Hashima Station,Hashima,Japan,NULL,NULL,35.315833,136.685556,25,9,N,NULL,station,User
+10841,Mikawa-Anjo Station,Anjo,Japan,NULL,NULL,34.968967,137.060669,67,9,N,NULL,station,User
+10842,Toyohashi Station,Toyohashi,Japan,NULL,NULL,34.762778,137.381667,27,9,N,NULL,station,User
+10843,Hamamatsu Station,Hamamatsu,Japan,NULL,NULL,34.703611,137.734444,62,9,N,NULL,station,User
+10844,Kakegawa Station,Kakegawa,Japan,NULL,NULL,34.769722,138.015,102,9,N,NULL,station,User
+10845,Shizuoka Station,Shizuoka,Japan,NULL,NULL,34.971667,138.388889,89,9,N,NULL,station,User
+10846,Shin-Fuji Station,Fuji,Japan,NULL,NULL,35.142365,138.663199,45,9,N,NULL,station,User
+10847,Mishima Station,Mishima,Japan,NULL,NULL,35.127222,138.910556,147,9,N,NULL,station,User
+10848,Atami Station,Atami,Japan,NULL,NULL,35.103333,139.077778,259,9,N,NULL,station,User
+10849,Odawara Station,Odawara,Japan,NULL,NULL,35.256389,139.155,31,9,N,NULL,station,User
+10850,Zurich Oerlikon Railway Station,Zurich,Switzerland,NULL,NULL,47.412778,8.545,1449,1,E,NULL,station,User
+10851,Puistola Railway Station,Helsinki,Finland,NULL,NULL,60.274167,25.035694,86,2,E,NULL,station,User
+10852,Tapanila Railway Station,Helsinki,Finland,NULL,NULL,60.261944,25.027917,105,2,E,NULL,station,User
+10853,Malmi Railway Station,Helsinki,Finland,NULL,NULL,60.251944,25.012222,88,2,E,NULL,station,User
+10854,Pukinmaki Railway Station,Helsinki,Finland,NULL,NULL,60.241944,24.993333,58,2,E,NULL,station,User
+10855,Oulunkyla Railway Station,Helsinki,Finland,NULL,NULL,60.228056,24.966667,90,2,E,NULL,station,User
+10856,Kapyla Railway Station,Helsinki,Finland,NULL,NULL,60.220556,24.9475,133,2,E,NULL,station,User
+10857,Pasila Railway Station,Helsinki,Finland,NULL,NULL,60.198611,24.933611,101,2,E,NULL,station,User
+10858,Nykobing Falster Railway Station,Nykobing Falster,Denmark,NULL,NULL,54.766863,11.877708,13,1,E,NULL,station,User
+10859,Orehoved Railway Station,Orehoved,Denmark,NULL,NULL,54.939141,11.867649,14,1,E,NULL,station,User
+10860,Vordingborg Railway Station,Vordingborg,Denmark,NULL,NULL,55.012741,11.899981,23,1,E,NULL,station,User
+10861,Lundby Railway Station,Lundby,Denmark,NULL,NULL,55.110657,11.869208,17,1,E,NULL,station,User
+10862,Naestved Railway Station,Naestved,Denmark,NULL,NULL,55.231343,11.76692,47,1,E,NULL,station,User
+10863,Ringsted Railway Station,Ringsted,Denmark,NULL,NULL,55.438478,11.786305,122,1,E,NULL,station,User
+10864,Hedehusene Railway Station,Hedehusene,Denmark,NULL,NULL,55.649033,12.197215,104,1,E,NULL,station,User
+10865,Roskilde Railway Station,Roskilde,Denmark,NULL,NULL,55.638497,12.086472,142,1,E,NULL,station,User
+10866,Hoje-Taastrup Railway Station,Hoje-Taastrup,Denmark,NULL,NULL,55.648611,12.269167,93,1,E,NULL,station,User
+10867,Albertslund Railway Station,Albertslund,Denmark,NULL,NULL,55.658,12.353,34,1,E,NULL,station,User
+10868,Enghave Railway Station,Copenhagen,Denmark,NULL,NULL,55.663,12.54,11,1,E,NULL,station,User
+10869,Dybbolsbro Railway Station,Copenhagen,Denmark,NULL,NULL,55.665278,12.559444,5,1,E,NULL,station,User
+10870,Osterport Railway Station,Copenhagen,Denmark,NULL,NULL,55.692222,12.5875,23,1,E,NULL,station,User
+10871,Nordhavn Railway Station,Copenhagen,Denmark,NULL,NULL,55.705278,12.590833,23,1,E,NULL,station,User
+10872,Svanemollen Railway Station,Copenhagen,Denmark,NULL,NULL,55.715556,12.578056,19,1,E,NULL,station,User
+10873,Hellerup Railway Station,Hellerup,Denmark,NULL,NULL,55.731111,12.566667,34,1,E,NULL,station,User
+10874,Klampenborg Railway Station,Copenhagen,Denmark,NULL,NULL,55.777222,12.588056,23,1,E,NULL,station,User
+10875,Kokkedal Railway Station,Kokkedal,Denmark,NULL,NULL,55.903611,12.502222,46,1,E,NULL,station,User
+10876,Esperaerde Railway Station,Esperaerde,Denmark,NULL,NULL,55.995833,12.549722,56,1,E,NULL,station,User
+10877,Hyllie Railway Station,Malmo,Sweden,NULL,NULL,55.562778,12.975833,68,1,E,NULL,station,User
+10878,Triangeln Railway Station,Malmo,Sweden,NULL,NULL,55.592,13.0019,30,1,E,NULL,station,User
+10879,Dusseldorf-Unterrath Station,Dusseldorf,Germany,NULL,NULL,51.277056,6.788667,140,1,E,NULL,station,User
+10880,Dusseldorf-Derendorf Station,Dusseldorf,Germany,NULL,NULL,51.2475,6.7945,147,1,E,NULL,station,User
+10881,Dusseldorf Zoo Station,Dusseldorf,Germany,NULL,NULL,51.236472,6.796917,132,1,E,NULL,station,User
+10882,Dusseldorf Wehrhahn Station,Dusseldorf,Germany,NULL,NULL,51.229583,6.797722,153,1,E,NULL,station,User
+10883,Dusseldorf-Flingern Station,Dusseldorf,Germany,NULL,NULL,51.226211,6.811489,150,1,E,NULL,station,User
+10884,Dusseldorf-Gerresheim Station,Dusseldorf,Germany,NULL,NULL,51.220172,6.864098,160,1,E,NULL,station,User
+10885,Erkrath Railway Station,Erkrath,Germany,NULL,NULL,51.22038,6.902955,190,1,E,NULL,station,User
+10886,Hochdahl Station,Erkrath,Germany,NULL,NULL,51.218597,6.944333,452,1,E,NULL,station,User
+10887,Hochdahl-Millrath Station,Erkrath,Germany,NULL,NULL,51.216161,6.966987,458,1,E,NULL,station,User
+10888,Gruiten Station,Haan,Germany,NULL,NULL,51.21464,7.010854,518,1,E,NULL,station,User
+10889,Wuppertal-Vohwinkel Station,Wuppertal,Germany,NULL,NULL,51.234083,7.071431,567,1,E,NULL,station,User
+10890,Wuppertal-Sonnborn Station,Wuppertal,Germany,NULL,NULL,51.240564,7.096285,523,1,E,NULL,station,User
+10891,Wuppertal Hauptbahnhof,Wuppertal,Germany,NULL,NULL,51.254722,7.15,545,1,E,NULL,station,User
+10892,Sonnborner Strasse Schwebebahn Station,Wuppertal,Germany,NULL,NULL,51.238252,7.096879,457,1,E,NULL,station,User
+10894,Campbelltown Railway Station,Campbelltown,Australia,NULL,NULL,-34.063659,150.814347,223,10,O,NULL,station,User
+10895,Moss Vale Railway Station,Moss Vale,Australia,NULL,NULL,-34.5481,150.371504,2216,10,O,NULL,station,User
+10896,Yass Junction Railway Station,Yass Junction,Australia,NULL,NULL,-34.809,148.9154,1663,10,O,NULL,station,User
+10897,Cootamundra Railway Station,Cootamundra,Australia,NULL,NULL,-34.6414,148.0304,1085,10,O,NULL,station,User
+10898,Junee Railway Station,Junee,Australia,NULL,NULL,-34.87,147.5837,993,10,O,NULL,station,User
+10899,Wagga Wagga Railway Station,Wagga Wagga,Australia,NULL,NULL,-35.1204,147.3685,616,10,O,NULL,station,User
+10900,The Rock Railway Station,The Rock,Australia,NULL,NULL,-35.2718,147.1183,711,10,O,NULL,station,User
+10901,Henty Railway Station,Henty,Australia,NULL,NULL,-35.5179,147.0354,784,10,O,NULL,station,User
+10902,Culcairn Railway Station,Culcairn,Australia,NULL,NULL,-35.6661,147.0381,716,10,O,NULL,station,User
+10903,Albury Railway Station,Albury,Australia,NULL,NULL,-36.084257,146.924559,537,10,O,NULL,station,User
+10904,Wangaratta Railway Station,Wangaratta,Australia,NULL,NULL,-36.3549,146.317,494,10,O,NULL,station,User
+10905,Benalla Railway Station,Benalla,Australia,NULL,NULL,-36.5447,145.9838,566,10,O,NULL,station,User
+10906,Seymour Railway Station,Seymour,Australia,NULL,NULL,-37.0245,145.1384,480,10,O,NULL,station,User
+10907,Broadmeadows Railway Station,Broadmeadows,Australia,NULL,NULL,-37.6829,144.9197,425,10,O,NULL,station,User
+10908,Jacana Railway Station,Jacana,Australia,NULL,NULL,-37.6951,144.9158,364,10,O,NULL,station,User
+10909,Albion Railway Station,Albion,Australia,NULL,NULL,-37.7772,144.8244,146,10,O,NULL,station,User
+10910,Erskineville Railway Station,Erskineville,Australia,NULL,NULL,-33.900986,151.185261,65,10,O,NULL,station,User
+10911,Sydenham Railway Station,Sydenham,Australia,NULL,NULL,-33.914525,151.166533,24,10,O,NULL,station,User
+10912,Redfern Railway Station,Redfern,Australia,NULL,NULL,-33.89202,151.19873,100,10,O,NULL,station,User
+10913,Tempe Railway Station,Tempe,Australia,NULL,NULL,-33.924497,151.15645,30,10,O,NULL,station,User
+10914,Wolli Creek Railway Station,Wolli Creek,Australia,NULL,NULL,-33.928317,151.154025,22,10,O,NULL,station,User
+10915,Bardwell Park Railway Station,Bardwell Park,Australia,NULL,NULL,-33.931622,151.124803,47,10,O,NULL,station,User
+10916,Glenfield Railway Station,Glenfield,Australia,NULL,NULL,-33.972215,150.89307,87,10,O,NULL,station,User
+10918,Hazel Crest Metra Station,Hazel Crest,United States,NULL,NULL,41.580764,-87.658491,629,-6,A,NULL,station,User
+10919,Western Springs Metra Station,Western Springs,United States,NULL,NULL,41.809,-87.9011,671,-6,A,NULL,station,User
+10923,South San Francisco BART Station,South San Francisco,United States,NULL,NULL,37.664264,-122.444043,85,-8,A,NULL,station,User
+10924,Colma BART Station,Colma,United States,NULL,NULL,37.684722,-122.466111,170,-8,A,NULL,station,User
+10925,Balboa Park Station,San Francisco,United States,NULL,NULL,37.721629,-122.447519,246,-8,A,NULL,station,User
+10926,Glen Park BART Station,Glen Park,United States,NULL,NULL,37.733118,-122.433808,200,-8,A,NULL,station,User
+10927,24th Street Mission BART Station,San Francisco,United States,NULL,NULL,37.752,-122.4187,84,-8,A,NULL,station,User
+10928,16th Street Mission BART Station,San Francisco,United States,NULL,NULL,37.764847,-122.420042,16,-8,A,NULL,station,User
+10929,Civic Center - UN Plaza Station,San Francisco,United States,NULL,NULL,37.779861,-122.413498,47,-8,A,NULL,station,User
+10935,Arlanda North Station,Sigtuna,Sweden,NULL,NULL,59.6514,17.9305,135,1,E,NULL,station,User
+10936,Arlanda South Station,Sigtuna,Sweden,NULL,NULL,59.64614,17.92822,127,1,E,NULL,station,User
+10954,Evanston Davis Street Station,Evanston,United States,NULL,NULL,42.0478267,-87.6845187,600,-6,A,NULL,station,User
+10955,Evanston Central Street Station,Evanston,United States,NULL,NULL,42.064219,-87.7002417,600,-6,A,NULL,station,User
+10956,Wilmette Station,Wilmette,United States,NULL,NULL,42.0767983,-87.7105988,636,-6,A,NULL,station,User
+10957,Nashville Riverfront Station,Nashville,Uganda,NULL,NULL,36.162,-86.774,410,-6,A,NULL,station,User
+10958,Birmingham Station,Birmingham,United States,NULL,NULL,33.512778,-86.806944,602,-6,A,NULL,station,User
+10959,Tampa Union Station,Tampa,United States,NULL,NULL,27.952222,-82.451111,20,-5,A,NULL,station,User
+10960,Montgomery Union Station,Montgomery,United States,NULL,NULL,32.380278,-86.314444,172,-6,A,NULL,station,User
+10976,Charlotte Amtrak Station,Charlotte,United States,NULL,NULL,35.241222,-80.822639,711,-5,A,NULL,station,User
+10977,Fayetteville Amtrak Station,Fayetteville,United States,NULL,NULL,35.0551,-78.8847,103,-5,A,NULL,station,User
+10979,Kenilworth Station,Kenilworth,United States,NULL,NULL,42.0863929,-87.7188554,636,-6,A,NULL,station,User
+10980,Indian Hill Station,Winnetka,United States,NULL,NULL,42.0944484,-87.7260776,650,-6,A,NULL,station,User
+10981,Winnetka Station,Winnetka,United States,NULL,NULL,42.1051752,-87.735091,650,-6,A,NULL,station,User
+10982,Hubbard Woods Station,Winnetka,United States,NULL,NULL,42.1180596,-87.7457998,650,-6,A,NULL,station,User
+10983,Glencoe Station,Glencoe,United States,NULL,NULL,42.1355596,-87.7602443,690,-6,A,NULL,station,User
+10984,Braeside Station,Highland Park,United States,NULL,NULL,42.1527818,-87.7746887,584,-6,A,NULL,station,User
+10985,Ravinia Station,Highland Park,United States,NULL,NULL,42.165004,-87.7849665,584,-6,A,NULL,station,User
+10986,Highland Park Station,Highland Park,United States,NULL,NULL,42.1832298,-87.7998782,584,-6,A,NULL,station,User
+10987,Highwood Station,Highwood,United States,NULL,NULL,42.2033373,-87.8127443,675,-6,A,NULL,station,User
+10988,Fort Sheridan Station,Fort Sheridan,United States,NULL,NULL,42.217504,-87.823022,669,-6,A,NULL,station,User
+10989,East Lake Forest Station,Lake Forest,United States,NULL,NULL,42.2527473,-87.8414713,700,-6,A,NULL,station,User
+10990,Lake Bluff Station,Lake Bluff,United States,NULL,NULL,42.2797261,-87.8488554,670,-6,A,NULL,station,User
+10991,Great Lakes Station,Great Lakes,United States,NULL,NULL,42.3069483,-87.8485776,656,-6,A,NULL,station,User
+10992,North Chicago Station,North Chicago,United States,NULL,NULL,42.328615,-87.8391331,700,-6,A,NULL,station,User
+10993,Waukegan Station,Waukegan,United States,NULL,NULL,42.3606155,-87.830563,715,-6,A,NULL,station,User
+10994,Zion Station,Zion,United States,NULL,NULL,42.4491706,-87.8202443,592,-6,A,NULL,station,User
+10996,Kenosha Station,Kenosha,United States,NULL,NULL,42.5858372,-87.828022,597,-6,A,NULL,station,User
+11007,Ravinia Park Station,Highland Park,United States,NULL,NULL,42.1580596,-87.7791331,584,-6,A,NULL,station,User
+11024,Moskovsky railway station,St. Petersburg,Russia,NULL,NULL,59.928717,30.362433,15,3,N,NULL,station,User
+11025,Leningradsky railway station,Moscow,Russia,NULL,NULL,55.776111,37.655278,600,3,N,NULL,station,User
+11027,Amtrak Station,McComb,United States,NULL,MCMB,31.2445,-90.4512,100,-6,A,NULL,station,User
+11039,Van Buren Street Station,Chicago,United States,NULL,NULL,41.8769146,-87.6233102,595,-6,A,NULL,station,User
+11040,Museum Campus 11th St. Station,Chicago,United States,NULL,NULL,41.8686111,-87.6238163,595,-6,A,NULL,station,User
+11041,57th Street Station,Chicago,United States,NULL,NULL,41.7933665,-87.5898448,595,-6,A,NULL,station,User
+11042,East Chicago Station,East Chicago,United States,NULL,NULL,41.6114919,-87.4813219,591,-6,A,NULL,station,User
+11043,Dune Park Station,Chesterton,United States,NULL,NULL,41.644906,-87.0630057,640,-6,A,NULL,station,User
+11057,Hialeah Market Station,Hialeah,United States,NULL,NULL,25.811239,-80.258703,10,-5,A,NULL,station,User
+11058,Eisenach Hauptbahnhof,Eisenach,Germany,NULL,NULL,50.976389,10.331389,660,1,E,NULL,station,User
+11061,HaHagana Railway Station,Tel-Aviv,Israel,NULL,NULL,32.054167,34.784722,16,2,U,NULL,station,User
+11062,Beersheba North Railway Station,Beer-sheba,Israel,NULL,NULL,31.2618,34.8092,850,2,U,NULL,station,User
+11104,Center HaShmona Railway Station,Haifa,Israel,NULL,NULL,32.822172,34.997044,0,2,U,NULL,station,User
+11105,Rehovot Railway Station,Rehovot,Israel,NULL,NULL,31.908889,34.806389,184,2,U,NULL,station,User
+11148,Prince George Railway Station,Prince George,Canada,XDV,NULL,53.919167,-122.744166,0,-7,A,NULL,station,User
+11154,Bloor Station,Toronto,Canada,NULL,NULL,43.6589193,-79.4519538,250,-5,A,NULL,station,User
+11155,Weston Station,Toronto,Canada,NULL,NULL,43.7004679,-79.5135891,250,-5,A,NULL,station,User
+11157,Myrdal Station,Myrdal,Norway,NULL,MYRN,60.738333,7.123056,2844,1,E,NULL,station,User
+11158,Flam Station,Flam,Norway,NULL,FLAM,60.863056,7.113889,6,1,E,NULL,station,User
+11159,Voss Station,Voss,Norway,NULL,VOSS,60.629175,6.41035,185,1,E,NULL,station,User
+11166,Angermunde Station,Angermunde,Germany,NULL,NULL,53.0155,13.9961,47,1,E,NULL,station,User
+11196,Brighton Railway Station,Brighton,United Kingdom,NULL,NULL,50.8288,-0.1411,133,0,E,NULL,station,User
+11214,Tokyo Station,Tokyo,Japan,NULL,TOKR,35.68083,139.76694,16,9,N,NULL,station,User
+11215,Odawara Station,Odawara,Japan,NULL,ODAW,35.256389,139.155,31,9,N,NULL,station,User
+11216,Shin-Osaka Station,Osaka,Japan,NULL,SOSA,34.733483,135.500114,0,9,N,NULL,station,User
+11217,Himeji Station,Himeji,Japan,NULL,HIMJ,34.827639,134.69085,0,9,N,NULL,station,User
+11218,Hiroshima Station,Hiroshima,Japan,NULL,HRSM,34.398333,132.475833,0,9,N,NULL,station,User
+11219,Hakone-Yumoto Station,Hakone,Japan,NULL,HAYU,35.233528,139.103908,0,9,N,NULL,station,User
+11221,Jackson Union Station,Jackson,United States,NULL,NULL,32.301111,-90.191111,300,-6,A,NULL,station,User
+11231,Nagoya Station,Nagoya,Japan,NULL,NAGO,35.170772,136.881603,0,9,N,NULL,station,User
+11232,Gifu Station,Gifu,Japan,NULL,GIFU,35.409514,136.75652,0,9,N,NULL,station,User
+11233,Takayama Station,Takayama,Japan,NULL,TAKA,36.1406,137.2519,0,9,N,NULL,station,User
+11235,Toyama Station,Toyama,Japan,NULL,TOYA,36.701217,137.213209,0,9,N,NULL,station,User
+11236,Kanazawa Station,Kanazawa,Japan,NULL,KANA,36.578269,136.647762,0,9,N,NULL,station,User
+11237,Ueno Station,Tokyo,Japan,NULL,UENO,35.713434,139.776725,0,9,N,NULL,station,User
+11238,Osaka Station,Osaka,Japan,NULL,OSAK,34.701908,135.494978,0,9,N,NULL,station,User
+11244,Oshiage Station,Tokyo,Japan,NULL,OSHG,35.711,139.8133,0,9,N,NULL,station,User
+11247,Gouda Railway Station,Gouda,Netherlands,NULL,NULL,52.0175,4.705556,0,1,E,NULL,station,User
+11248,Ottawa Central Station,Ottawa,Canada,NULL,OTTC,45.408611,-75.694722,0,-5,A,NULL,station,User
+11249,Nara Station,Nara,Japan,NULL,NARA,34.680661,135.819022,0,9,N,NULL,station,User
+11250,Kyoto Station,Kyoto,Japan,NULL,KYOT,34.985407,135.75845,0,9,N,NULL,station,User
+11252,Duivendrecht Station,Duivendrecht,Netherlands,NULL,NULL,52.323333,4.936389,17,1,E,NULL,station,User
+11253,Irving Park Station,Chicago,United States,NULL,NULL,41.9524992,-87.730079,595,-6,A,NULL,station,User
+11260,Domestic Terminal Railway Station,Brisbane,Australia,NULL,NULL,-27.3853,153.1185,15,10,N,NULL,station,User
+11261,Eagle Junction Railway Station,Clayfield,Australia,NULL,NULL,-27.4153,153.0505,80,10,N,NULL,station,User
+11262,International Terminal Railway Station,Brisbane,Australia,NULL,NULL,-27.4027,153.1088,22,10,N,NULL,station,User
+11263,Wooloowin Railway Station,Wooloowin,Australia,NULL,NULL,-27.4199,153.0434,89,10,N,NULL,station,User
+11264,Albion Railway Station Brisbane,Brisbane,Australia,NULL,NULL,-27.4291,153.0405,47,10,N,NULL,station,User
+11265,Bowen Hills Railway Station,Bowen Hills,Australia,NULL,NULL,-27.4454,153.0376,46,10,N,NULL,station,User
+11266,Fortitude Valley Railway Station,Fortitude Valley,Australia,NULL,NULL,-27.456,153.0337,57,10,N,NULL,station,User
+11267,Central Railway Station,Brisbane,Australia,NULL,NULL,-27.4659,153.0261,108,10,N,NULL,station,User
+11275,Cottbus Station,Cottbus,Germany,NULL,NULL,51.750833,14.326389,247,1,E,NULL,station,User
+11276,Goerlitz Station,Goerlitz,Germany,NULL,NULL,51.147222,14.979167,736,1,E,NULL,station,User
+11278,Zgorzelec Station,Zgorzelec,Poland,NULL,NULL,51.153283,15.02024,713,1,E,NULL,station,User
+11279,Grunau station,Berlin,Germany,NULL,NULL,52.4122,13.5746,134,1,E,NULL,station,User
+11280,Zeuthen Station,Zeuthen,Germany,NULL,NULL,52.3486,13.6274,123,1,E,NULL,station,User
+11281,Konigs Wusterhausen Station,Konigs Wusterhausen,Germany,NULL,NULL,52.296631,13.631148,130,1,E,NULL,station,User
+11282,Lubbenau Station,Lubbenau,Germany,NULL,NULL,51.862189,13.960868,174,1,E,NULL,station,User
+11283,Lubben-Spreewald Station,Lubben-Spreewald,Germany,NULL,NULL,51.939738,13.877191,176,1,E,NULL,station,User
+11284,Brand Bahnhof,Brand,Germany,NULL,NULL,52.030284,13.720772,218,1,E,NULL,station,User
+11285,Spremberg Bahnhof,Spremberg,Germany,NULL,NULL,51.574819,14.397396,408,1,E,NULL,station,User
+11286,Weisswasser Bahnhof,Weisswasser,Germany,NULL,NULL,51.505437,14.638086,446,1,E,NULL,station,User
+11287,Rotterdam Noord Railway Station,Rotterdam,Netherlands,NULL,NULL,51.942222,4.481389,3,1,E,NULL,station,User
+11289,Garmisch-Partenkirchen Bahnhof,Garmisch-Partenkirchen,Germany,NULL,NULL,47.49145,11.09701,2323,1,E,NULL,station,User
+11298,Lichtenberg Station,Berlin,Germany,NULL,NULL,52.510556,13.496389,127,1,E,NULL,station,User
+11300,Amstel Station,Amsterdam,Netherlands,NULL,NULL,52.346389,4.917778,14,1,E,NULL,station,User
+11301,Wannsee Station,Berlin,Germany,NULL,NULL,52.421389,13.179167,158,1,E,NULL,station,User
+11304,Weesperplein Station,Amsterdam,Netherlands,NULL,NULL,52.361389,4.907778,11,1,E,NULL,station,User
+11310,Xingtai East train station,Xingtai,China,NULL,NULL,37.091441,114.58596,53,8,N,NULL,station,User
+11315,Green River Station,Green River,United States,NULL,NULL,38.992083,-110.165278,4225,-7,A,NULL,station,User
+11316,Amtrak Station,Helper UT,United States,NULL,NULL,39.683889,-110.85375,5827,-7,A,NULL,station,User
+11317,Winnemucca Station,Winnemucca,United States,NULL,NULL,40.969444,-117.731389,4339,-8,A,NULL,station,User
+11318,Colfax Station,Colfax CA,United States,NULL,NULL,39.0994,-120.9531,2431,-8,A,NULL,station,User
+11320,Dunsmuir Station,Dunsmuir CA,United States,NULL,NULL,41.2112,-122.2706,2291,-8,A,NULL,station,User
+11321,Chemult Station,Chemult OR,United States,NULL,NULL,43.21683,-121.781436,4757,-8,A,NULL,station,User
+11323,Salem Station,Salem OR,United States,NULL,NULL,44.932222,-123.028056,168,-8,A,NULL,station,User
+11324,Vancouver WA Station,Vancouver WA,United States,NULL,NULL,45.628889,-122.686389,52,-8,A,NULL,station,User
+11325,Amtrak Station,Granby CO,United States,NULL,NULL,40.0841,-105.9355,7953,-7,A,NULL,station,User
+11329,Buffalo-Exchange Street Station,Buffalo,United States,ZXS,NULL,42.8783,-78.8738,580,-5,A,NULL,station,User
+11336,Freiburg Hauptbahnhof,Freiburg,Germany,QFB,NULL,47.997778,7.841944,900,1,E,NULL,station,User
+11338,Bergamo Railway Station,Bergamo,Italy,NULL,NULL,45.690556,9.675,816,1,E,NULL,station,User
+11341,Kruiningen-Yerseke Railway Station,Kruiningen,Netherlands,NULL,NULL,51.465379,4.0361234,8,1,E,NULL,station,User
+11342,Sint-Niklaas Railway Station,Sint-Niklaas,Belgium,NULL,NULL,51.171944,4.144167,64,1,E,NULL,station,User
+11350,Santa Apolonia Railway Station,Lisbon,Portugal,NULL,NULL,38.713611,-9.123167,13,0,E,NULL,station,User
+11351,Campanha Railway Station,Porto,Portugal,NULL,NULL,41.149167,-8.585,295,0,E,NULL,station,User
+11359,Mataro Train Station,Mataro,Spain,NULL,NULL,41.530478,2.441053,13,1,E,NULL,station,User
+11360,Dessau Hauptbahnhof,Dessau,Germany,NULL,NULL,51.84,12.235,205,1,E,NULL,station,User
+11361,Basel Badischer Bahnhof,Basel,Switzerland,ZBA,NULL,47.568056,7.606389,854,1,E,NULL,station,User
+11362,Mullheim Baden Station,Mullheim,Germany,NULL,NULL,47.809674,7.599352,763,1,E,NULL,station,User
+11373,Karlsruhe Hauptbahnhof,Karlsruhe,Germany,NULL,NULL,48.993889,8.400556,400,1,E,NULL,station,User
+11374,Darmstadt Hauptbahnhof,Darmstadt,Germany,NULL,NULL,49.8725,8.628889,417,1,E,NULL,station,User
+11375,Fulda Hauptbahnhof,Fulda,Germany,NULL,NULL,50.553889,9.684722,927,1,E,NULL,station,User
+11376,Kassel Hauptbahnhof,Kassel,Germany,NULL,NULL,51.318056,9.49,608,1,E,NULL,station,User
+11377,Wolfsburg Hauptbahnhof,Wolfsburg,Germany,NULL,NULL,52.429167,10.787778,194,1,E,NULL,station,User
+11378,Kassel-Wilhelmshohe Station,Kassel,Germany,NULL,NULL,51.312222,9.447222,640,1,E,NULL,station,User
+11379,Gottingen Railway Station,Gottingen,Germany,ZEU,NULL,51.536667,9.926944,485,1,E,NULL,station,User
+11380,Hildesheim Hauptbahnhof,Hildesheim,Germany,NULL,NULL,52.160556,9.953889,287,1,E,NULL,station,User
+11381,Braunschweig Hauptbahnhof,Braunschweig,Germany,NULL,NULL,52.252222,10.539722,263,1,E,NULL,station,User
+11382,Hanau Hauptbahnhof,Hanau,Germany,NULL,NULL,50.121389,8.929722,348,1,E,NULL,station,User
+11383,Zaragoza Delicias Railway Station,Zaragoza,Spain,NULL,NULL,41.658641,-0.911605,666,1,E,NULL,station,User
+11384,Camp de Tarragona Railway Station,La Secuita,Spain,NULL,NULL,41.192181,1.274064,383,1,E,NULL,station,User
+11385,Deming Station,Deming,United States,NULL,NULL,32.272195,-107.754279,4335,-7,A,NULL,station,User
+11390,Norreport Station,Copenhagen,Denmark,NULL,NULL,55.683333,12.571667,32,1,E,NULL,station,User
+11393,Lancaster Station,Lancaster,United States,ZRL,NULL,40.054364,-76.307722,347,-5,A,NULL,station,User
+11397,Helsingborg Central Station,Helsingborg,Sweden,XYH,NULL,56.0451061,12.6963066,34,1,E,NULL,station,User
+11398,Liverpool Street Station,London,United Kingdom,ZLS,NULL,51.5201006,-0.0800884,131,0,E,NULL,station,User
+11408,Lehrte Railway Station,Lehrte,Germany,NULL,NULL,52.376667,9.974444,204,1,E,NULL,station,User
+11409,Stendal Railway Station,Stendal,Germany,NULL,NULL,52.594444,11.854444,103,1,E,NULL,station,User
+11410,Rathenow Railway Station,Rathenow,Germany,NULL,NULL,52.6,12.354722,96,1,E,NULL,station,User
+11411,Wustermark Railway Station,Wustermark,Germany,NULL,NULL,52.551389,12.945278,111,1,E,NULL,station,User
+11412,Estacion Central Railway Station,Santiago,Chile,NULL,NULL,-33.451944,-70.678889,1756,-4,S,NULL,station,User
+11414,Bielefeld Hauptbahnhof,Bielefeld,Germany,NULL,NULL,52.028333,8.531667,390,1,E,NULL,station,User
+11415,Westfalen Bahnhof,Hamm ,Germany,NULL,NULL,51.67825,7.80724,218,1,E,NULL,station,User
+11416,Hagen Hauptbahnhof,Hagen,Germany,NULL,NULL,51.362178,7.460935,353,1,E,NULL,station,User
+11417,Cologne-Koln Messe Deutz Bahnhof,Cologne,Germany,NULL,NULL,50.940833,6.975,164,1,E,NULL,station,User
+11418,Aschaffenburg Hauptbahnhof,Aschaffenburg,Germany,NULL,NULL,49.980278,9.143611,433,1,E,NULL,station,User
+11419,Wurzburg Hauptbahnhof,Wurzburg,Germany,NULL,NULL,49.801389,9.935556,592,1,E,NULL,station,User
+11420,Jena Paradies Bahnhof,Jena,Germany,NULL,NULL,50.923611,11.583889,489,1,E,NULL,station,User
+11421,Naumburg-Saale Hauptbahnhof,Naumburg,Germany,NULL,NULL,51.163056,11.796944,351,1,E,NULL,station,User
+11422,Lutherstadt Wittenberg Bahnhof,Wittenberg,Germany,NULL,NULL,51.867634,12.662181,239,1,E,NULL,station,User
+11423,Saalfeld Bahnhof,Saalfeld,Germany,NULL,NULL,50.650833,11.374722,698,1,E,NULL,station,User
+11424, Bitterfeld Bahnhof, Bitterfeld-Wolfen,Germany,NULL,NULL,51.623546,12.315645,261,1,E,NULL,station,User
+11425,Juterbog Bahnhof,Juterbog,Germany,NULL,NULL,51.997518,13.054345,283,1,E,NULL,station,User
+11426,Siegburg Bonn Bahnhof,Siegburg,Germany,ZPY,NULL,50.7937,7.2028,193,1,E,NULL,station,User
+11428,Far Rockaway Station,Far Rockaway,United States,NULL,NULL,40.6077377,-73.7517433,33,-5,A,NULL,station,User
+11429,Inwood Station,Inwood,United States,NULL,NULL,40.6122841,-73.7463687,33,-5,A,NULL,station,User
+11430,Lawrence Station,Lawrence,United States,NULL,NULL,40.6157341,-73.7380887,33,-5,A,NULL,station,User
+11432,Cedarhurst Station,Cedarhurst,United States,NULL,NULL,40.6221741,-73.7283687,33,-5,A,NULL,station,User
+11434,Woodmere Station,Woodmere,United States,NULL,NULL,40.6313341,-73.7158987,33,-5,A,NULL,station,User
+11442,Manchester Oxford Road Railway Station,Manchester,United Kingdom,NULL,NULL,53.4739,-2.2422,131,0,E,NULL,station,User
+11443,Warrington Central Railway Station,Warrington,United Kingdom,NULL,NULL,53.3918,-2.593,56,0,E,NULL,station,User
+11444,Liverpool South Parkway Railway Station,Liverpool,United Kingdom,NULL,NULL,53.3577,-2.8897,104,0,E,NULL,station,User
+11447,Aveiro Railway Station,Aveiro,Portugal,NULL,NULL,40.643298,-8.641489,53,0,E,NULL,station,User
+11449,Guadalajara-Yebes Railway Station,Guadalajara,Spain,NULL,NULL,40.5875,-3.125,3022,1,E,NULL,station,User
+11450,Calatayud Railway Station,Calatayud,Spain,NULL,NULL,41.3468,-1.638755,1741,1,E,NULL,station,User
+11451,Lleida Pirineus Railway Station,Lleida,Spain,NULL,NULL,41.621233,0.632693,496,1,E,NULL,station,User
+11455,Bellingham-Bellingham Station,Bellingham,United States,NULL,NULL,48.7205,-122.5111,69,-8,A,NULL,station,User
+11459,Guilin North Railway Station,Guilin,China,NULL,NULL,25.331553,110.297404,526,8,U,NULL,station,User
+11460,Sanshui South Railway Station,Sanshui,China,NULL,NULL,23.11629,112.866006,37,8,U,NULL,station,User
+11461,Zhaoqing East Railway Station,Zhaoqing,China,NULL,NULL,23.216938,112.658046,9,8,U,NULL,station,User
+11462,Guangning Railway Station,Guangning,China,NULL,NULL,23.587607,112.420921,145,8,U,NULL,station,User
+11463,Huaiji Railway Station,Huaiji,China,NULL,NULL,23.895152,112.154267,232,8,U,NULL,station,User
+11464,Hezhou Railway Station,Hezhou,China,NULL,NULL,24.457317,111.534194,375,8,U,NULL,station,User
+11465,Kirknewton Railway Station,Kirknewton,United Kingdom,NULL,NULL,55.889,-3.4332,508,0,E,NULL,station,User
+11466,Monfalcone Railway Station,Monfalcone,Italy,NULL,NULL,45.8075,13.543611,47,1,E,NULL,station,User
+11467,Portogruaro Caorle Railway Station,Portogruaro Caorle,Italy,NULL,NULL,45.781538,12.832312,16,1,E,NULL,station,User
+11469,Tarragona Railway Station,Tarragona,Spain,NULL,NULL,41.1115,1.2532,20,1,E,NULL,station,User
+11470,Castello de la Plana Railway Station,Castello de la Plana,Spain,NULL,NULL,39.988333,-0.0525,138,1,E,NULL,station,User
+11471,Joaquin Sorolla Railway Station,Valencia,Spain,NULL,NULL,39.466944,-0.377222,43,1,E,NULL,station,User
+11472,Platja dAro Sarfa Station,Platja dAro,Spain,NULL,NULL,41.805005,3.054288,10,1,E,NULL,station,User
+11477,Cologne Deutz Railway,Cologne,Germany,QKU,NULL,50.94039,6.97436,159,2,E,NULL,station,User
+11482,Solingen Hauptbahnhof,Solingen,Germany,NULL,NULL,51.161528,7.004167,384,1,E,NULL,station,User
+11483,Tbilisi Railway station,Tbilisi,Georgia,NULL,NULL,41.720953,44.799339,1439,4,N,NULL,station,User
+11484,Rustavi Railway Station,Rustavi,Georgia,NULL,NULL,41.5562,45.019097,1119,4,N,NULL,station,User
+11486,Aghstafa Railway Station,Aghstafa,Georgia,NULL,NULL,41.115434,45.451005,1107,4,N,NULL,station,User
+11487,Ijevan Railway Station,Ijevan,Armenia,NULL,NULL,40.900001,45.152552,2152,4,E,NULL,station,User
+11488,Hrazdan Railway Station,Hrazdan,Armenia,NULL,NULL,40.516072,44.756765,5620,4,E,NULL,station,User
+11489,Yerevan Railway Station,Yerevan,Armenia,NULL,NULL,40.1553,44.5081,3151,4,E,NULL,station,User
+11490,Marneuli Railway Station ,Marneuli,Georgia,NULL,NULL,41.487648,44.806773,1375,4,N,NULL,station,User
+11491,Ayrum Railway Station,Ayrum,Armenia,NULL,NULL,41.18862,44.891988,1611,4,E,NULL,station,User
+11492,Vanadzor Main Train Station,Vanadzor,Armenia,NULL,NULL,40.816092,44.486957,4319,4,E,NULL,station,User
+11493,Spitak Railway Station,Spitak,Armenia,NULL,NULL,40.840239,44.262649,5014,4,E,NULL,station,User
+11494,Gyumri Railway Station,Gyumri,Armenia,NULL,NULL,40.7875,43.86,5081,4,E,NULL,station,User
+11495,Aragatz Railway Station,Aragatz,Armenia,NULL,NULL,40.325064,43.665251,4122,4,E,NULL,station,User
+11496,Wuxi Railway Station,Wuxi,China,NULL,NULL,31.589167,120.300833,22,8,U,NULL,station,User
+11497,Suzhou Railway Station,Suzhou,China,NULL,NULL,31.330556,120.606389,29,8,U,NULL,station,User
+11503,Miranda de Ebro Railway Station,Miranda de Ebro,Spain,NULL,NULL,42.6907,-2.9412,1519,1,E,NULL,station,User
+11504,Llodio Railway Station,Llodio,Spain,NULL,NULL,43.142416,-2.960612,410,1,E,NULL,station,User
+11505,Avila Railway Station,Avila,Spain,NULL,NULL,40.656944,-4.682778,3724,1,E,NULL,station,User
+11549,Jinan West Railway Station,Jinan,China,NULL,NULL,36.668889,116.886944,105,8,N,NULL,station,User
+11550,Xuzhou East Railway Station,Xuzhou,China,NULL,NULL,34.267609,117.296594,135,8,N,NULL,station,User
+11551,Zhenjiang Railway Station,Zhenjiang,China,NULL,NULL,32.199167,119.426944,68,8,N,NULL,station,User
+11552,Zhenjiang Railway Station,Zhenjiang,China,NULL,NULL,32.198783,119.427265,72,8,N,NULL,station,User
+11553,Changzhou Railway Station,Changzhou,China,NULL,NULL,31.787422,119.968921,30,8,N,NULL,station,User
+11554,Cangzhou West Railway Station,Cangzhou,China,NULL,NULL,38.306313,116.761247,32,8,N,NULL,station,User
+11555,Dezhou East Railway Station,Dezhou,China,NULL,NULL,37.410886,116.454928,83,8,N,NULL,station,User
+11556,Qufu East Railway Station,Qufu,China,NULL,NULL,35.556547,117.06306,245,8,N,NULL,station,User
+11557,Zaozhuang Railway Station,Zaozhuang,China,NULL,NULL,34.794134,117.247875,142,8,N,NULL,station,User
+11558,Suzhou East Railway Station - Anhui,Suzhou,China,NULL,NULL,33.676586,117.246287,93,8,N,NULL,station,User
+11559,Bengbu South Railway Station,Bengbu,China,NULL,NULL,33.676586,117.246287,93,8,N,NULL,station,User
+11560,Chuzhou Railway Station,Chuzhou,China,NULL,NULL,32.199565,118.314621,141,8,N,NULL,station,User
+11561,Chongqing North Railway Station,Chongqing,China,NULL,NULL,29.610417,106.547083,894,8,N,NULL,station,User
+11562,Chengdu Railway Station,Chengdu,China,NULL,NULL,30.699167,104.070833,1669,8,N,NULL,station,User
+11586,Richmond BART Station,Richmond,United States,NULL,NULL,37.936811,-122.353095,38,-8,A,NULL,station,User
+11587,San Antonio Caltrain Station,Mountain View,United States,NULL,NULL,37.407222,-122.106944,45,-8,A,NULL,station,User
+11598,Shu Train Station,Shu,Kazakhstan,NULL,NULL,43.601017,73.760361,542,6,E,NULL,station,User
+11602,Agryz Railway,Agryz,Russia,NULL,NULL,56.522226,52.999344,137,3,N,NULL,station,User
+11633,Konstanz Station,Konstanz,Germany,NULL,NULL,47.658765,9.177167,1296,1,E,NULL,station,User
+11639,Gurgaon Railway Station,Gurgaon,India,NULL,NULL,28.4891,77.0111,718,5.5,N,NULL,station,User
+11652,Yongyu Station,Incheon,South Korea,NULL,NULL,37.4247,126.4237,18,9,U,NULL,station,User
+11653,Vlissingen Station,Vlissingen,Netherlands,NULL,NULL,51.4537,3.5709,3,1,E,NULL,station,User
+11695,Logrono Railway Station,Logrono,Spain,NULL,NULL,42.457778,-2.440833,1314,1,E,NULL,station,User
+11699,Martorell Central Station,Martorell,Spain,NULL,NULL,41.479216,1.924994,188,1,E,NULL,station,User
+11704,Santa Coloma de Cervell Railway Station,Santa Coloma de Cervello,Spain,NULL,NULL,41.370676,2.023492,67,1,E,NULL,station,User
+11705,Rockville Amtrak Station,Rockville,United States,NULL,NULL,39.0844971,-77.1482614,0,-5,A,NULL,station,User
+11707,Placa d Espanya Station,Barcelona,Spain,NULL,NULL,41.374722,2.149167,87,1,E,NULL,station,User
+11708,Bern Railway Station,Bern,Switzerland,ZDJ,NULL,46.949722,7.439444,1814,1,E,NULL,station,User
+11709,Olten Railway Station,Olten,Switzerland,NULL,NULL,47.351944,7.907778,1313,1,E,NULL,station,User
+11710,Thalwil Railway Station,Thalwil,Switzerland,NULL,NULL,47.296,8.5648,1432,1,E,NULL,station,User
+11711,Zug Railway Station,Zug,Switzerland,NULL,NULL,47.174167,8.515556,1397,1,E,NULL,station,User
+11712,Baar Railway Station,Baar,Switzerland,NULL,NULL,47.194787,8.522462,1461,1,E,NULL,station,User
+11715,Bruchsal Station,Bruchsal,Germany,NULL,NULL,49.123889,8.59,554,1,E,NULL,station,User
+11723,Hillsdale Station,Hillsdale,United States,NULL,NULL,37.537778,-122.2975,31,-8,A,NULL,station,User
+11724,Wuxi East Railway Station,Wuxi,China,NULL,NULL,31.5987539,120.4533489,7,8,U,NULL,station,User
+11725,Shanghai Hongqiao Railway Station,Shanghai,China,NULL,NULL,31.194255,121.32064,5,8,U,NULL,station,User
+11726,Taian Railway Station,Taian,China,NULL,NULL,36.171876,117.034837,152,8,U,NULL,station,User
+11727,Jinan Railway Station,Jinan,China,NULL,NULL,36.671209,116.991585,33,8,U,NULL,station,User
+11728,Hangzhou East Railway Station,Hangzhou,China,NULL,NULL,30.291066,120.212934,10,8,U,NULL,station,User
+11729,Shijiazhuang Railway Station,Shijiazhuang,China,NULL,NULL,38.021416,114.48674,73,8,U,NULL,station,User
+11730,Huizhou South Railway Station,Huizhou,China,NULL,NULL,22.787322,114.487558,44,8,U,NULL,station,User
+11731,Plovdiv South Bus Station,Plovdiv,Bulgaria,NULL,NULL,42.1355613,24.74221,538,2,E,NULL,station,User
+11732,Langfang Railway Station,Langfang,China,NULL,NULL,39.515149,116.707481,18,8,U,NULL,station,User
+11733,Changsha South Railway Station,Changsha,China,NULL,NULL,28.1462817,113.0637074,38,8,U,NULL,station,User
+11734,Wuhan Railway Station,Wuhan,China,NULL,NULL,30.607485,114.424268,34,8,U,NULL,station,User
+11741,Kongens Nytorv Station,Copenhagen,Denmark,NULL,NULL,55.679333,12.585167,11,1,E,NULL,station,User

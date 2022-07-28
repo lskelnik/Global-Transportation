@@ -1,0 +1,102 @@
+id,name,city,country,iata_code,icao_code,latitude,longitude,altitude,timezone,dst,tz_format,type,source
+7507,Macau Ferry Pier,Macau,Macau,XZM,NULL,22.197075,113.558911,0,8,U,Asia/Macau,port,User
+7877,Stockholm Cruise Port,Stockholm,Sweden,STO,NULL,59.3233,18.081,0,1,E,Europe/Stockholm,port,User
+7878,Helsingborg Cruise Port,Helsingborg,Sweden,JHE,NULL,56.0419,12.6912,0,1,E,Europe/Stockholm,port,User
+7883,Helsinki Cruise Port,Helsinki,Finland,NULL,HELC,60.163056,24.969167,6,2,E,Europe/Helsinki,port,User
+8004,Sakaiminato Port,Sakaiminato,Japan,NULL,NULL,35.539,133.264,0,9,N,Asia/Tokyo,port,User
+8058,Hong Kong Macau Ferry Terminal,Hong Kong,Hong Kong,NULL,NULL,22.289372,114.152153,0,8,N,Asia/Hong_Kong,port,User
+8059,Hong Kong Macau Ferry Terminal,Hong Kong,Hong Kong,NULL,NULL,22.289372,114.152153,0,8,N,Asia/Hong_Kong,port,User
+8060,Macau Taipa Ferry Terminal,Macau,Macau,NULL,NULL,22.1633,113.57404,0,8,N,Asia/Macau,port,User
+8061,Macau Taipa Ferry Terminal,Macau,Macau,NULL,NULL,22.1633,113.57404,0,8,N,Asia/Macau,port,User
+8329,Ferry Port,Calais,France,NULL,NULL,50.967536,1.849308,6,1,E,Europe/Paris,port,User
+8330,Ferry Port,Dover,United Kingdom,NULL,NULL,51.126876,1.339747,6,0,E,Europe/London,port,User
+8338,Hong Kong China Ferry Terminal,Hong Kong,Hong Kong,NULL,NULL,22.299204,114.166164,0,8,N,Asia/Hong_Kong,port,User
+8727,Cape May Ferry Terminal,Cape May NJ,United States,NULL,NULL,38.9696286,-74.960918,0,-5,A,America/New_York,port,User
+8728,Lewes Ferry Terminal,Lewes DE,United States,NULL,NULL,38.781655,-75.119534,0,-5,A,America/New_York,port,User
+8729,Bar Harbor Yarmouth Ferry Terminal,Bar Harbor ME,United States,NULL,NULL,44.39917,-68.225,0,-5,A,America/New_York,port,User
+8730,Yarmouth Ferry Terminal,Yarmouth NS,Canada,NULL,NULL,43.833227,-66.122653,0,-4,A,America/Halifax,port,User
+8736,St. Ignace Ferry Dock,St. Ignace MI,United States,NULL,NULL,45.866405,-84.720254,587,-5,A,America/New_York,port,User
+8919,Shekou Ferry Terminal,Shenzhen,China,NULL,NULL,22.476555,113.912855,2,8,N,Asia/Shanghai,port,User
+8920,Zhuhai-Jiuzhou Port,Zhuhai,China,NULL,NULL,22.233333,113.583333,2,8,N,Asia/Shanghai,port,User
+9012,Miyajima Port,Miyajima,Japan,NULL,NULL,34.302043,132.32213,0,9,U,Asia/Tokyo,port,User
+9013,Brown Bluff Port,Brown Bluff,Antarctica,NULL,NULL,-63.32,-56.54,0,12,S,Antarctica/South_Pole,port,User
+9014,Devil Island Port,Devil Island,Antarctica,NULL,NULL,-63.48,-57.17,0,12,S,Antarctica/South_Pole,port,User
+9015,Gourdin Island Port,Gourdin Island,Antarctica,NULL,NULL,-63.12,-57.18,0,12,S,Antarctica/South_Pole,port,User
+9016,Cuverville Island Port,Cuverville Island,Antarctica,NULL,NULL,-64.41,-62.38,0,12,S,Antarctica/South_Pole,port,User
+9021,Labadee Port,Labadee,Haiti,NULL,NULL,19.4711,-72.1444,0,-5,A,America/Port-au-Prince,port,User
+9031,Whittier Port,Whittier,United States,NULL,NULL,60.774174,-148.677649,0,-9,A,America/Anchorage,port,User
+9070,Nuernberg Port,Nuernberg,Germany,NULL,NULL,49.392222,11.061944,990,1,E,Europe/Berlin,port,User
+9108,Costa maya port,Costa maya,Mexico,NULL,NULL,18.714,-87.709,0,-5,U,America/Cancun,port,User
+9109,Costa maya port,Costa maya,Mexico,NULL,NULL,18.714,-87.709,0,-5,U,America/Cancun,port,User
+9166,Rodby Port,Rodby,Denmark,NULL,NULL,54.65,11.35,0,1,E,Europe/Copenhagen,port,User
+9172,Stranraer Ferry Port,Stranraer,United Kingdom,SR2,NULL,54.902,-5.027,0,0,E,Europe/London,port,User
+9280,Dieppe Ferry Port,Dieppe,France,NULL,NULL,49.933616,1.088039,0,1,E,Europe/Paris,port,User
+9281,Newhaven Ferry Port,Newhaven,United Kingdom,NULL,NULL,50.790385,0.054551,0,0,E,Europe/London,port,User
+9291,Falmouth Port,Falmouth,Jamaica,NULL,NULL,18.492762,-77.649675,0,-5,N,America/Jamaica,port,User
+9292,Cozumel Port,Cozumel,Mexico,NULL,NULL,20.510439,-86.94925,0,-5,A,America/Cancun,port,User
+9293,Philipsburg Port,Philipsburg,Netherlands Antilles,NULL,NULL,18.012868,-63.045242,0,-4,N,America/Curacao,port,User
+9294,Basseterre Port,Basseterre,Saint Kitts and Nevis,NULL,NULL,17.290464,-62.709473,0,-4,N,America/St_Kitts,port,User
+9295,Charlotte Amalie Port,Charlotte Amalie,Virgin Islands,NULL,NULL,18.335431,-64.926824,0,-4,N,America/St_Thomas,port,User
+9296,San Juan Port,San Juan,Puerto Rico,NULL,NULL,18.458992,-66.097693,0,-4,N,America/Puerto_Rico,port,User
+9300,Mormugao-Goa Port,Mormugao,India,NULL,NULL,15.4,73.8,0,5.5,N,Asia/Calcutta,port,User
+9301,Cochin Port,Cochin,India,NULL,NULL,9.58,76.14,0,5.5,N,Asia/Calcutta,port,User
+9336,Salem Ferry Dock,Salem,United States,NULL,NULL,42.522421,-70.881607,26,-5,A,America/New_York,port,User
+9367,Severobajkalsk Port,Severobajkalsk,Russia,NULL,NULL,55.4209,109.3225,500,8,N,Asia/Irkutsk,port,User
+9425,Kendal Glider Port,Kendall,United States,NULL,NULL,25.603889,-80.585556,10,-5,U,America/New_York,port,User
+9470,Grenada Port Authority Cruise Ship Terminal,St. George's,Grenada,NULL,GREN,12.050773,-61.754982,0,-4,N,America/Grenada,port,User
+9476,Cruz Bay Ferry Dock,Cruz Bay,Virgin Islands,NULL,CBFD,18.331263,-64.795408,0,-4,A,America/St_Thomas,port,User
+9477,Red Hook Bay Ferry Dock,Red Hook,Virgin Islands,NULL,RHVI,18.326479,-64.849361,0,-4,A,America/St_Thomas,port,User
+9509,Ferry Terminal,Anacortes,United States,NULL,ACRT,48.50728,-122.677596,0,-8,A,America/Los_Angeles,port,User
+9510,Ferry Dock,Friday Harbor,United States,NULL,FRID,48.535673,-123.014044,0,-8,A,America/Los_Angeles,port,User
+9513,Ferry Terminal,Whittier,United States,NULL,WHIT,60.776566,-148.683367,0,-9,A,America/Anchorage,port,User
+9514,Ferry Terminal,Valdez,United States,NULL,VLDZ,61.123976,-146.365309,0,-9,A,America/Anchorage,port,User
+9525,Ferry Dock,Bainbridge Island,United States,NULL,BAIN,47.622237,-122.509362,0,-8,A,America/Los_Angeles,port,User
+9534,Algerciras Port,Algerciras,Spain,NULL,NULL,36.136,-5.435,0,1,E,Europe/Madrid,port,User
+9570,Milano Porta Garibaldi,Milan,Italy,NULL,MLPG,45.484722,9.1875,0,1,U,Europe/Rome,port,User
+9571,Port Jefferson Ferry Dock,Port Jefferson,United States,NULL,NULL,40.947849,-73.070058,12,-5,A,America/New_York,port,User
+9572,Bridgeport Ferry Dock,Bridgeport,United States,NULL,NULL,41.175188,-73.185591,12,-5,A,America/New_York,port,User
+9626,Torino Porta Nuova Railway Station,Turin,Italy,TPY,NULL,45.0625,7.6789,800,1,E,Europe/Rome,port,User
+9666,Baldur Ferry Terminal,Stykkisholmur,Iceland,NULL,NULL,65.079475,-22.725027,0,0,E,Atlantic/Reykjavik,port,User
+9667,Kotor Cruise Port,Kotor,Montenegro,NULL,NULL,42.428317,18.768103,0,1,E,Europe/Podgorica,port,User
+9676,Key West Cruise Port,Key West,United States,NULL,NULL,24.561193,-81.80108,0,-5,A,America/New_York,port,User
+9719,Tau Ferry Terminal,Tau,Norway,NULL,NULL,59.06551,5.90814,0,1,E,Europe/Oslo,port,User
+9720,Stavanger Ferry Terminal,Stavanger,Norway,NULL,NULL,58.97211,5.74009,0,1,E,Europe/Oslo,port,User
+9721,Halhjem Ferry Terminal,Halhjem,Norway,NULL,NULL,60.1447,5.42466,0,1,E,Europe/Oslo,port,User
+9722,Sandviksvag Ferry Terminal,Sandviksvag,Norway,NULL,NULL,59.96842,5.33563,0,1,E,Europe/Oslo,port,User
+9723,Arsvagen Ferry Terminal,Arsvagen,Norway,NULL,NULL,59.17396,5.45291,0,1,E,Europe/Oslo,port,User
+9724,Mortavika Ferry Terminal,Mortavika,Norway,NULL,NULL,59.13716,5.58843,0,1,E,Europe/Oslo,port,User
+10118,Verona Porta Nuova,Verona,Italy,NULL,NULL,45.42903,10.982397,194,1,E,NULL,port,User
+10181,Plaunt Ferry Terminal,Cheboygan,United States,NULL,NULL,45.645978,-84.474092,594,-5,A,NULL,port,User
+10182,Bois Blanc Island Ferry Terminal,Bois Blanc Island,United States,NULL,NULL,45.727626,-84.452428,594,-5,A,NULL,port,User
+10195,St Ignace Ferry Terminal,St Ignace ,United States,NULL,NULL,45.874246,-84.72764,581,-5,A,NULL,port,User
+10196,Le Port de Toulon,Toulon,France,NULL,NULL,43.119283,5.930478,0,1,E,NULL,port,User
+10281,Star Ferry Pier-Central,Hong Kong,Hong Kong,NULL,NULL,22.287222,114.161111,38,8,U,NULL,port,User
+10282,Tsim Sha Tsui Ferry Pier,Hong Kong,Hong Kong,NULL,NULL,22.294,114.16857,30,8,U,NULL,port,User
+10473,Harpers Ferry Train Station,Harpers Ferry,United States,NULL,NULL,39.324444,-77.731111,292,-5,A,NULL,port,User
+10701,Auckland Ferry Terminal,Auckland,New Zealand,NULL,NULL,-36.843,174.767,6,12,Z,NULL,port,User
+10930,Bridgetown Port,Bridgetown,Barbados,NULL,NULL,13.101157,-59.628725,0,-4,N,NULL,port,User
+10953,Orient Point Ferry Terminal,Orient,United States,NULL,NULL,41.155167,-72.241662,0,-4,A,NULL,port,User
+10978,Macau Outer Harbour Ferry Terminal,Macau,Macau,NULL,NULL,22.197075,113.5589111,0,8,N,NULL,port,User
+11026,Holyhead Ferry Port,Holyhead,United Kingdom,NULL,NULL,53.30765,-4.63124,0,0,E,NULL,port,User
+11028,Singapore-Tanah Merah Ferry Terminal,Singapore,Singapore,NULL,NULL,1.3299,103.989,0,8,N,NULL,port,User
+11029,Batam-Nongsapura Ferry Terminal,Batam,Indonesia,NULL,NULL,1.1888,104.0946,0,7,N,NULL,port,User
+11126,Kowloon Macau Ferry Terminal,Kowloon,Hong Kong,NULL,NULL,22.300559,114.1655773,0,8,U,NULL,port,User
+11147,Horseshoe Bay Ferry Terminal,Horseshoe Bay,Canada,NULL,HORS,49.37403,-123.27281,0,-7,A,NULL,port,User
+11149,Prince Rupert Railway Station and Ferry Terminal,Prince Rupert,Canada,XDW,NULL,54.295833,-130.351944,0,-7,A,NULL,port,User
+11150,Prince Rupert Ferry Terminal,Prince Rupert,Canada,NULL,RUPR,54.29589,-130.35135,0,-7,A,NULL,port,User
+11151,Port Hardy Ferry Terminal,Port Hardy,Canada,NULL,HARD,50.72553,-127.45678,0,-7,A,NULL,port,User
+11152,Depature Bay Ferry Terminal,Nanaimo,Canada,NULL,NDEP,49.19305,-123.95427,0,-7,A,NULL,port,User
+11184,Saint Johns Sea Port on Antigua,Saint Johns,Antigua and Barbuda,NULL,JOHN,17.120521,-61.846624,0,-4,A,NULL,port,User
+11185,Pointe-a-Pitre Sea Port,Pointe-a-Pitre,Guadeloupe,NULL,POIN,16.237022,-61.539202,0,-4,A,NULL,port,User
+11186,Scarborough Sea Port,Scarborough,Trinidad and Tobago,NULL,NULL,11.182056,-60.736754,0,-4,A,NULL,port,User
+11187,Willemstad Sea Port,Willemstad,Netherlands Antilles,NULL,WILL,12.10642,-68.936027,0,-4,A,NULL,port,User
+11188,Oranjestad Sea Port,Oranjestad,Aruba,NULL,ORAN,12.519445,-70.042634,0,-4,A,NULL,port,User
+11189,La Romana Sea Port,La Romana,Dominican Republic,NULL,LARO,18.416363,-68.959089,0,-4,A,NULL,port,User
+11305,Mazatlan Port Cruise Terminal,Mazatlan,Mexico,NULL,NULL,23.1932868,-106.4173414,0,7,U,NULL,port,User
+11306,Cruise Port,Topolobampo,Mexico,NULL,NULL,25.583131,-109.0660578,0,-7,U,NULL,port,User
+11309,Quebec City Cruise Port,Quebec,Canada,NULL,NULL,46.8169262,-71.2026932,0,-5,A,NULL,port,User
+11391,Ludington Ferry Terminal,Ludington,United States,NULL,NULL,43.9491748,-86.4532907,0,-5,A,NULL,port,User
+11392,Manitowoc Ferry Terminal,Manitowoc,United States,NULL,NULL,44.0897108,-87.6535447,0,-6,A,NULL,port,User
+11627,Fuyong Ferry Terminal,Shenzhen,China,NULL,NULL,22.605278,113.809167,0,8,U,NULL,port,User
+11650,Osaka Port International Ferry Terminal,Osaka,Japan,NULL,NULL,34.6384568,135.4296344,10,9,N,NULL,port,User
+11651,Hakata Port International Terminal,Fukuoka,Japan,NULL,NULL,33.6085547,130.3979042,13,9,N,NULL,port,User
