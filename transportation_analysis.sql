@@ -3,10 +3,12 @@ Analysis of global airports, train stations, and ferry ports. Sources: OpenFligh
 See README files for links and data dictionaries.
 
 Skills used: stored procedures, views, window functions, aggregate functions, control flow functions, joins
-/*
+*/
+
 USE transportation;
 
 -- create a stored procedure to call airports by country and type of airport
+
 DROP PROCEDURE IF EXISTS get_airports_by_country;
 
 DELIMITER $$
@@ -176,6 +178,32 @@ JOIN countries c
 WHERE type = 'balloonport'
 ORDER BY c.country_name ASC;
 
+-- View all of the stations by country
+
+CREATE OR REPLACE VIEW all_stations AS
+
+SELECT 
+    country,
+    station_name,
+    city,
+    latitude,
+    longitude
+FROM stations
+ORDER BY country;
+
+-- View all of the ferry ports by country
+
+CREATE VIEW all_ferries AS
+
+SELECT 
+    country,
+    port_name,
+    city,
+    latitude,
+    longitude
+FROM ports
+ORDER BY country;
+
 -- View the total amount of ferry ports per country. Limit to totals greater than 2
 
 CREATE OR REPLACE VIEW ferries_by_country AS
@@ -281,5 +309,5 @@ FROM balloonports
 GROUP BY country_name
 ORDER BY total DESC
 LIMIT 10;
-*/
+
 
